@@ -20,6 +20,32 @@ there are many diffrent way of indentifieng airports with codes this page keeps 
 
 these codes can be found here: <https://www.faa.gov/documentLibrary/media/Order/7350.9_w_Change_1_Loc_Id.pdf>
 
+### FAA's Landing Facility Site Number
+
+alias: FAA SITE NR  
+[source](https://wiki.openstreetmap.org/wiki/Tag:aeroway%3Daerodrome)
+
+this other number given to facitities.
+
+from [this document](https://www.faa.gov/documentlibrary/media/advisory_circular/150-5200-35/150_5200_35.doc) we learn:
+
+```plain
+This is a number that contains a one-letter suffix.
+The number is assigned to the airport in ascending order depending on the state and the associated city.
+The number is stored in a computer for the purpose of producing computer reports of airports in alphabetical order by state and associated city.
+The suffix indicates the primary use of the facility.  
+
+For example: FAA SITE NR: 10430.A
+
+A = Airport
+B = Balloonport
+C = Seaplane Base
+G = Gliderport
+H = Heliport
+S = Stolport
+U = Ultralight Flightpark
+```
+
 ## Transport Canada identifier
 
 [wikipedia](https://en.wikipedia.org/wiki/Location_identifier#Transport_Canada_identifier)  
