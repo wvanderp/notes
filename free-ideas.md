@@ -38,4 +38,8 @@ with most photo grametry programs you cant hellp thr program. nut what if you co
 
 ## a twiiter bot that summerises parlement 
 
-its important to be informed. but parlementry documents are boring. so lets use chatgpt to summerize them and spice them up 
+its important to be informed. but parlementry documents are boring. so lets use chatgpt to summerize them and spice them up.
+
+Potential problems are that Twitter needs to be paid for the bot access. And that chat gpt does not allow big inputs.
+
+Might make it a mastodon not.
