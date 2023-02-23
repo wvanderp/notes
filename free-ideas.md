@@ -36,3 +36,6 @@ macht the cameras and position them in 3d space and then project onto a flat sur
 
 with most photo grametry programs you cant hellp thr program. nut what if you could block off areas for points or cameras so that that would limit thr amount of possibilities.
 
+## a twiiter bot that summerises parlement 
+
+its important to be informed. but parlementry documents are boring. so lets use chatgpt to summerize them and spice them up 
