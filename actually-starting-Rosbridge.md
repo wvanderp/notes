@@ -1,3 +1,5 @@
+# starting a ros bridge
+
 If you're new to the world of ROS (Robot Operating System), you might be wondering how to get started with rosbridge, which is a key component of ROS that enables communication between ROS and other software platforms. In this article, we'll walk you through the steps needed to get rosbridge up and running on your system.
 
 To start, you'll need to have ROS installed on your system. If you haven't already done this, you can find instructions on how to do so at the official ROS website. Once you have ROS installed, you'll need to install the rosbridge package. This can be done using the following command:

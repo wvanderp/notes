@@ -1,57 +1,67 @@
 # Free Ideas
 
-these are free ideas. you can have them till i want them bac
+These are free ideas. You can have them till I want them back.
 
 ## the war a year ago
 
-a podcast or blogs that follows the Ukraine war as it happend a year ago. it is especially interesting what the pundents said and if they were right.
+A podcast or blog that follows the Ukraine war as it happened a year ago. It is especially interesting to see what the pundits said and if they were right.
 
-in general following was in real time is interesting.
+In general, following wars in real time is interesting.
 
-## popcorn Time on the block Chain 
+## Popcorn Time on the BlockChain
 
-of you store the information that popcorn time uses on the Blockchain or in the dht the  it cant be taken down. 
+It can't be taken down if you store the information that popcorn time uses on the Blockchain or in the DHT.
 
-the big problem with this idea is that its hard to prevent people form poisoning the database.
+The big problem with this idea is that preventing people from poisoning the database is hard.
 
 ## blurry photo finder
 
-a app that seperates all the blurry photos form the sharp ones. there dont seem to be a free app for this.
+An app that separates all the blurry photos from the sharp ones. There doesn't seem to be an app for this.
 
-use a fft or machine learning.
+Use an FFT or machine learning.
 
-## play chess against old engines 
+## play chess against old engines
 
-it would be fun to see old chess enginges play against eachother. 
+It would be fun to see old chess engines play against each other.
 
-then we can compaire the different old implementation.
+Then we can compare the different old implementations.
 
-## flat photo stitcher 
+## flat photo stitcher
 
-there is no app that stiches phoyos of a flat service like a white board a news paper or graffiti .
+No app stitches photos of a flat service like a whiteboard, newspaper, or graffiti.
 
-macht the cameras and position them in 3d space and then project onto a flat surface.
+Match the cameras, position them in 3d space, and then project the views onto a flat surface.
 
-## photogrammetry whre you can help
+## photogrammetry where you can help
 
-with most photo grametry programs you cant hellp thr program. nut what if you could block off areas for points or cameras so that that would limit thr amount of possibilities.
+With most photogrammetry programs, you can't help the program. But what if you could block off areas for points or cameras? That would limit the possibilities and thus reduce the computation requirements and increase accuracy.
 
-## a twiiter bot that summerises parlement 
+## a Twitter bot that summarizes Parlement
 
-its important to be informed. but parlementry documents are boring. so lets use chatgpt to summerize them and spice them up.
+It's important to be informed. But parliamentary documents are boring. So let's use chat gpt to summarize them and spice them up.
 
 Potential problems are that Twitter needs to be paid for the bot access. And that chat gpt does not allow big inputs.
 
-Might make it a mastodon not.
+I suggest making it a mastodon bot.
 
 ## a clock that tells time but is also difficult
 
-It a normal or speaking clock that tells the time in a difficult way
+A normal or speaking clock tells the time in a difficult way.
 
-Like 
+Like
 
-`ten past a quarter to two`
-Four o'clock in London
-The excat moment of death of arch duke furdonant
-In thirty five minutes till five past one
-4 minutes till the whole hour
+- ten past a quarter to two
+- Four o'clock in London
+- The exact moment of death of archduke Ferdinand
+- In thirty-five minutes till five past one
+- 4 minutes till the whole hour
+
+## Picnic prediction integration
+
+right now when you use Picnic to order groceries you have to know what items you need but if you analyses your past orders you can predict what you need in the future.
+
+this is handy because now you never have to think about what you need to buy.
+
+## a dating app based on latent space
+
+A dating app based on latent spaces uses complex algorithms to analyze user preferences and create matches based on shared interests and qualities. This app takes a data-driven approach to matchmaking and aims to increase the likelihood of successful matches.
