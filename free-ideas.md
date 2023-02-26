@@ -43,3 +43,15 @@ its important to be informed. but parlementry documents are boring. so lets use 
 Potential problems are that Twitter needs to be paid for the bot access. And that chat gpt does not allow big inputs.
 
 Might make it a mastodon not.
+
+## a clock that tells time but is also difficult
+
+It a normal or speaking clock that tells the time in a difficult way
+
+Like 
+
+`ten past a quarter to two`
+Four o'clock in London
+The excat moment of death of arch duke furdonant
+In thirty five minutes till five past one
+4 minutes till the whole hour
