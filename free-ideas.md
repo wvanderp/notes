@@ -65,3 +65,21 @@ this is handy because now you never have to think about what you need to buy.
 ## a dating app based on latent space
 
 A dating app based on latent spaces uses complex algorithms to analyze user preferences and create matches based on shared interests and qualities. This app takes a data-driven approach to matchmaking and aims to increase the likelihood of successful matches.
+
+## opensource ankinator
+
+The Celebrity grassing geuony is based on closed data. 
+
+I believe that is posible to make a alternatief based on wikidata. 
+
+This has two advantages:
+
+First it is an already existing dataset.
+
+Secondly it is a fun way to contribute to wikidata trough wisdom of the crowd.
+
+Two disadvantages
+
+You meed to preprocess the data into a model like a dossision tree. Although I don't know that a dossision tree is flexibel enough to recover from wrong awnsers.
+
+And secondly it easy to poison wikidata with wrong data is the majority of the people awser a question wrong then we accept it as true. Although there might be a verifyible source for the data.
