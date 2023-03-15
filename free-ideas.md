@@ -36,7 +36,7 @@ Match the cameras, position them in 3d space, and then project the views onto a 
 
 With most photogrammetry programs, you can't help the program. But what if you could block off areas for points or cameras? That would limit the possibilities and thus reduce the computation requirements and increase accuracy.
 
-## a Twitter bot that summarizes Parlement
+## a Twitter bot that summarizes Parliament
 
 It's important to be informed. But parliamentary documents are boring. So let's use chat gpt to summarize them and spice them up.
 
@@ -58,28 +58,28 @@ Like
 
 ## Picnic prediction integration
 
-right now when you use Picnic to order groceries you have to know what items you need but if you analyses your past orders you can predict what you need in the future.
+When you use Picnic to order groceries, you must know what items you need, but if you analyze your past orders, you can predict what you need.
 
-this is handy because now you never have to think about what you need to buy.
+This is handy because now you never have to think about what you need to buy.
 
 ## a dating app based on latent space
 
 A dating app based on latent spaces uses complex algorithms to analyze user preferences and create matches based on shared interests and qualities. This app takes a data-driven approach to matchmaking and aims to increase the likelihood of successful matches.
 
-## opensource ankinator
+## open source Akinator
 
-The Celebrity grassing geuony is based on closed data. 
+The Celebrity guessing genie is based on closed data.
 
-I believe that is posible to make a alternatief based on wikidata. 
+I believe that it is possible to make an alternative based on wikidata.
 
 This has two advantages:
 
-First it is an already existing dataset.
+First, it is an already existing dataset.
 
-Secondly it is a fun way to contribute to wikidata trough wisdom of the crowd.
+Secondly, it is a fun way to contribute to wikidata through the wisdom of the crowd.
 
 Two disadvantages
 
-You meed to preprocess the data into a model like a dossision tree. Although I don't know that a dossision tree is flexibel enough to recover from wrong awnsers.
+You need to preprocess the data into a model like a decision tree. However, I don't know that a decision tree is flexible enough to recover from wrong answers.
 
-And secondly it easy to poison wikidata with wrong data is the majority of the people awser a question wrong then we accept it as true. Although there might be a verifyible source for the data.
+And secondly, it is easy to poison wikidata with wrong data. If most people answer a question incorrectly, we accept it as true. However, there might be a verifiable source for the data.
