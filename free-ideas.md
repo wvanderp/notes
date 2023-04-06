@@ -2,7 +2,7 @@
 
 These are free ideas. You can have them till I want them back.
 
-## the war a year ago
+## The war a year ago
 
 A podcast or blog that follows the Ukraine war as it happened a year ago. It is especially interesting to see what the pundits said and if they were right.
 
@@ -83,3 +83,27 @@ Two disadvantages
 You need to preprocess the data into a model like a decision tree. However, I don't know that a decision tree is flexible enough to recover from wrong answers.
 
 And secondly, it is easy to poison wikidata with wrong data. If most people answer a question incorrectly, we accept it as true. However, there might be a verifiable source for the data.
+
+## use chatgpt to extract information for osm
+
+```chatgpt
+You will be provided with the text of a website of a restaurant. Please find the address of the restaurant, the opening hours, and the phone number.
+
+Provide them in the following format.
+
+House number:
+Street:
+City:
+Phone number:
+Opening hours:
+
+Are these instructions clear?
+```
+
+this is the magic incantation to make chat gpt extract infromation from websites. then after that you past all text from the website into chatgpt and it will spit out some semblance of useful infromation
+
+there are only two problems with this:  
+chatgpt is mostly right, but not always so there is still human work needed to verivie the address. (maybe nominatum can be used to check if its even close)  
+it is still not in machine readable form so a human still needs to be in the loop.
+
+the conclusion of some minimal research is that it works on websites with not a lot of text. but when the website includes a history of the restourant or a menu, chatgpt goes of on its own and just summerizes that. so some more work is needed
