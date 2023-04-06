@@ -4,7 +4,7 @@ There are many different ways of identifying airports with codes. This page keep
 
 ## IATA
 
-IATA (International Air Transport Association) codes are three-letter codes used to identify airports worldwide. They are used mainly for airline ticketing and baggage handling purposes. IATA codes are often used by travelers when searching for flights, as they provide a quick and easy way to identify airports.
+IATA (International Air Transport Association) codes are three-letter codes used to identify airports worldwide. They are primarily used for airline ticketing and baggage handling purposes. IATA codes are often used by travelers when searching for flights, as they provide a quick and easy way to identify airports.
 
 [wikipedia](https://en.wikipedia.org/wiki/IATA_airport_code)
 
@@ -90,7 +90,7 @@ Only a little is known about these codes because it is all in Spanish.
 [wikidata](https://www.wikidata.org/wiki/Q113950896)  
 full name: code de l'administration nationale civile du Brésil
 
-## our airports
+## Our airports
 
 [website](https://ourairports.com/)
 [wikidata](https://www.wikidata.org/wiki/Q19801308)
@@ -110,6 +110,6 @@ So the format is `xx-xxxx`. and the regex is `[A-Za-z]{2}-[0-9]{4}`
 
 This same format is also used by [https://metar-taf.com](https://metar-taf.com/), although they wrongly state that this is the ICAO code of the airport
 
-### gps code
+### GPS code
 
 The last identifier they have is the `gps_code`. This is a random collection of all the codes mentioned above.
