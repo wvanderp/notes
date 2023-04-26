@@ -62,6 +62,8 @@ Transport Canada identifier is a two- to four-letter code used to identify airpo
 
 It seems only to be present if there is no ICAO identifier.
 
+the TCLID can be looked up in the [Canada Flight Supplement](https://www.navcanada.ca/en/ecfs_07_en.pdf)
+
 alias: TC LID
 [wikipedia](https://en.wikipedia.org/wiki/Location_identifier#Transport_Canada_identifier)  
 [wikidata](https://www.wikidata.org/wiki/Q55773856)  
