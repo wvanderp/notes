@@ -87,6 +87,10 @@ Only a little is known about these codes because it is all in Spanish.
 
 [wikidata](https://www.wikidata.org/wiki/Q5796779)
 
+The national aerodrome code of the National Civil Aviation Administration (Argentina) is an airport designation code made up of three letters (AZ) that serves to identify the different aerodromes (legally authorized and enabled as such by the applicable aeronautical authority). (ANAC)) of Argentina.
+
+[source for the codes](http://www.anac.gob.ar/anac/web/uploads/infraestructura_y_aerod/aerodromos/ad-publicos-octubre-2015.pdf)
+
 ## CIAD
 
 [wikidata](https://www.wikidata.org/wiki/Q113950896)  
