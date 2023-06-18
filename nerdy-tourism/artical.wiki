@@ -43,9 +43,17 @@ Immerse yourself in the '''TU Delft Campus''', a hub of scientific and technolog
 | phone=+31 40 268 3000 | tollfree= | fax=
 | hours= | price=
 | lastedit=2021-06-15
-| content=ASML is a Dutch company and currently the largest supplier in the world of photolithography systems for the semiconductor industry. The company manufactures machines for the production of integrated circuits. The company is a component of the Euro Stoxx 50 stock market index.
+| content=
 }}
-Unveil the wizardry of semiconductor manufacturing at the '''ASML Campus'''. Explore the intricate processes involved in creating computer chips, the building blocks of modern technology.
+
+
+ASML, a Dutch company, holds the top position globally as the leading provider of photolithography systems for the semiconductor industry.
+With a focus on manufacturing machines that produce integrated circuits, ASML plays a crucial role in the production of computer chips, which serve as the fundamental components of modern technology.
+The company's significance is underscored by its inclusion in the Euro Stoxx 50 stock market index, showcasing its prominence and influence in the industry.
+
+At the ASML Campus, one can witness the remarkable artistry behind semiconductor manufacturing.
+This cutting-edge facility unravels the intricate processes involved in creating computer chips, revealing the meticulous steps required for their production.
+From the initial design phase to the final manufacturing stages, ASML's campus showcases the wizardry of semiconductor production, offering a comprehensive exploration of the vital building blocks that power today's advanced technology.
 
 === Philips Museum ===
 [[File:Philips Museum Eindhoven.jpg|thumb|300px|Philips Museum in Eindhoven]]
@@ -60,7 +68,8 @@ Discover the legacy of Philips at the '''Philips Museum''' in Eindhoven. This mu
 | image=Madurodam main entrance.jpg | wikidata=Q747322
 | content=This miniature city contains a selection of Dutch architecture, ranging from Amsterdam's canals and church spires from Utrecht and Den Bosch, to modern architecture from Rotterdam and the enormous Delta works that protect the country from the sea. Madurodam also has an airport, a seaport, beaches, and little cars, trams and trains running through the entire town. Madurodam is open year round.
 }}
-Step into the enchanting world of '''Madurodam''', a miniature park that showcases famous Dutch landmarks, historical sites, and architectural marvels. Experience the rich tapestry of Dutch history and culture within this miniature wonderland.
+Step into the enchanting world of '''Madurodam''', a miniature park that showcases famous Dutch landmarks, historical sites, and architectural marvels.
+ Experience the rich tapestry of Dutch history and culture within this miniature wonderland.
 
 === Radio Kootwijk ===
 {{see
@@ -71,7 +80,8 @@ Step into the enchanting world of '''Madurodam''', a miniature park that showcas
 | lastedit=2021-06-15
 | content=
 }}
-Visit '''Radio Kootwijk''', a former radio transmission complex turned architectural marvel and cultural heritage site. Marvel at the distinctive art-deco building and immerse yourself in the surrounding landscapes.
+Visit '''Radio Kootwijk''', a former radio transmission complex turned architectural marvel and cultural heritage site.
+Marvel at the distinctive art-deco building and immerse yourself in the surrounding landscapes.
 
 === Space Expo ===
 {{see
@@ -82,7 +92,8 @@ Visit '''Radio Kootwijk''', a former radio transmission complex turned architect
 | lastedit=2017-11-20
 | content=Various showcases of space flight technology, also serves as an ESA visitors' center.
 }}
-Embark on an interstellar adventure at '''Space Expo''', an educational attraction dedicated to space exploration. Discover the history of space travel, marvel at actual space artifacts, and ignite your imagination with interactive exhibits.
+Embark on an interstellar adventure at '''Space Expo''', an educational attraction dedicated to space exploration.
+Discover the history of space travel, marvel at actual space artifacts, and ignite your imagination with interactive exhibits.
 
 === NEMO Science Museum ===
 [[File:NEMO and area.jpg|thumb|right|NEMO's distinctive building]]
