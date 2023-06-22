@@ -66,7 +66,7 @@ This is handy because now you never have to think about what you need to buy.
 
 A dating app based on latent spaces uses complex algorithms to analyze user preferences and create matches based on shared interests and qualities. This app takes a data-driven approach to matchmaking and aims to increase the likelihood of successful matches.
 
-## open source Akinator
+## Open source Akinator
 
 The Celebrity guessing genie is based on closed data.
 
@@ -107,3 +107,17 @@ chatgpt is mostly correct, but not always, so A human still needed to verify the
 it is still not machine-readable, so a human still needs to be in the loop.
 
 Some minimal research concludes that it works on websites with limited text. But when the website includes a restaurant's history or a menu, chatgpt goes off on its own and just summarizes that. So some more work in crafting the instructions is needed.
+
+## credit crawl stitching
+
+A program that stitches together the credit crawls of movies. You would see how long the credits are and how they are formatted.
+
+Secondly, these images can be ocr'd to get the names of those who worked on the movie. This can be used to create a database of people who worked on movies.
+
+Lastly, there are many badges at the end of the credits, and I need help reading them. If they stand still, I can read them.
+
+### methods
+
+Take screenshots of the credits and stitch them together. This might need to only be done based on the white parts of the image. But this takes much calculating power
+
+You can also install a scan line that saves that line every frame, but then it needs to move at least 1 px per frame.
