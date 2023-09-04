@@ -1,26 +1,7 @@
 # military installations in the netherlands
 
-## Drente
+all military instalations can be found in the following law:
 
-## Flevoland
+[Regeling algemene regels ruimtelijke ordening](https://wetten.overheid.nl/BWBR0031018/2021-07-01)
 
-## Friesland
-
-## Gelderland
-
-## Groningen
-
-## Limburg
-
-## Noord-Brabant
-
-## Noord-Holland
-
-## Overijssel
-
-## Utrecht
-
-## Zeeland
-
-## Zuid-Holland
-
+OSM has been copying this docucument to there database and is currently at: Bijlage 1.29
