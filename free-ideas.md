@@ -48,13 +48,16 @@ I suggest making it a mastodon bot.
 
 A regular or speaking clock tells the time in a difficult way.
 
-Like
+Like:
 
 - ten past a quarter to two
 - Four o'clock in London
 - The exact moment of death of Archduke Ferdinand
 - In thirty-five minutes till five past one
 - 4 minutes till the whole hour
+- 982 minutes since midnight
+- Just shy of two-thirds into the journey from sunrise to sunset.
+- the hands on the clock are pointing down
 
 ## Picnic prediction integration
 

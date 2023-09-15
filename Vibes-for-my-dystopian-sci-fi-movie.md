@@ -16,4 +16,4 @@ One of the vibes important to this movie is conflict. So one of the themes can b
 
 ## music
 
-[Evanescence - Going Under](https://www.youtube.com/watch?v=CdhqVtpR2ts) mainly the part at the beginning
+[Evanescence - Going Under](https://www.youtube.com/watch?v=CdhqVtpR2ts) Mainly the part at the beginning
