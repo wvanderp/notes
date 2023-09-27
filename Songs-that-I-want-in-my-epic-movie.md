@@ -12,7 +12,7 @@ With this number, I imagine a general like George Washington in Hamilton giving 
 
 In the first part of the speech, he talks about the mistakes he made that have led them to the predicament that they are currently in. The soldiers are a bit bitter that it has to end, but they understand his mistakes because they would have made the same mistakes.
 
-In the second part of the song, it's revealed that besides the commanding officer, he also seems to be the group's spiritual leader. It's revealed that their borrowed time on earth has run out and that the owner of the time has come to collect. We never see the owner of the time, but we notice his presence. The wind starts weeping up the dust collected in this old warehouse. Light shines through the windows. The wind catches the light, and it starts twirling around the general and his man. 
+In the second part of the song, it's revealed that besides the commanding officer, he also seems to be the group's spiritual leader. It's revealed that their borrowed time on earth has run out and that the owner of the time has come to collect. We never see the owner of the time, but we notice his presence. The wind starts weeping up the dust collected in this old warehouse. Light shines through the windows. The wind catches the light, and it starts twirling around the general and his man.
 
 The speech and apology resonate with the men because they start to chant with the song, supporting the pleas of the general. Slowly, the general stars walk towards the light, and his man follows him. The general seems to be stepping further than is allowed by the room's physical dimensions.
 

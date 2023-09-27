@@ -1,4 +1,4 @@
-# starting a ros bridge
+# Starting a ros bridge
 
 If you're new to the world of ROS (Robot Operating System), you might be wondering how to get started with rosbridge, a key component of ROS that enables the communication between ROS and other software platforms. In this article, we'll walk you through the steps needed to get rosbridge up and running on your system.
 

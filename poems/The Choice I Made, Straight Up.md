@@ -1,5 +1,5 @@
 
-# The Choice I Made, Straight Up.
+# The Choice I Made, Straight Up
 
 *Adapted from Robert Frost's "The Road Not Taken"*
 
