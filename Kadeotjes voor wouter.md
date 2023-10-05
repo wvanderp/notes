@@ -1,0 +1,10 @@
+---
+created: 2023-10-05T20:15:49+02:00
+modified: 2023-10-05T20:17:38+02:00
+---
+
+# Kadeotjes voor wouter
+
+## The Red Atlas - How the Soviet Union Secretly Mapped the World
+
+https://www.bol.com/nl/nl/p/the-red-atlas-how-the-soviet-union-secretly-mapped-the-world/9200000075809904/
