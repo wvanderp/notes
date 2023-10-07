@@ -124,3 +124,9 @@ Lastly, there are many badges at the end of the credits, and I need help reading
 Take screenshots of the credits and stitch them together. This might need to only be done based on the white parts of the image. But this takes much calculating power
 
 You can also install a scan line that saves that line every frame, but then it needs to move at least 1 px per frame.
+
+## old time ntp servers
+
+Ntp server are made to provide the most accurate time from the best sources like gps and atomic clocks.
+
+But wouldnt it be fun to turn your grandfather's clock in to a ntp server. Or have a portable one based on a pocket watch.
