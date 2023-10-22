@@ -179,4 +179,3 @@ We ask visitors to take pictures of the whole museum. Then, we stitch them toget
 the fancy idea is: we create a virtual tour of the museum, so that the people that cant come to the museum can still visit my art installation.
 
 the exhibition starts with a instructions on how to download the app and how to take pictures that are the most useful for photogrammetry. Then, we ask them to take pictures of the whole museum. Then, we stitch them together into a 3D model of the museum. and in a other room we have a VR headset where you can walk through the museum.
-

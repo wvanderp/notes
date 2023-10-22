@@ -1,6 +1,6 @@
 # Kpop stars tell me WHAT?
 
-there are many songs where they ask a english question and then answer it in korean. This realy bugs me. I want to know what they are saying. So I'm going to find out.
+there are many songs where they ask a english question and then answer it in Korean. This really bugs me. I want to know what they are saying. So I'm going to find out.
 
 ## ITZY - DALLA DALLA
 

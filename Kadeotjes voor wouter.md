@@ -7,6 +7,6 @@ modified: 2023-10-07T01:52:51+02:00
 
 ## The Red Atlas - How the Soviet Union Secretly Mapped the World
 
-https://www.bol.com/nl/nl/p/the-red-atlas-how-the-soviet-union-secretly-mapped-the-world/9200000075809904/
+<https://www.bol.com/nl/nl/p/the-red-atlas-how-the-soviet-union-secretly-mapped-the-world/9200000075809904/>
 
 # a racing wheel

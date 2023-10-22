@@ -1,10 +1,10 @@
-# airport codes
+# Airport codes
 
 There are many different ways of identifying airports with codes. This page keeps a list of them.
 
 ## IATA
 
-IATA (International Air Transport Association) codes are three-letter codes used to identify airports worldwide. They are primarily used for airline ticketing and baggage handling purposes. IATA codes are often used by travelers when searching for flights, as they provide a quick and easy way to identify airports.
+IATA (International Air Transport Association) codes are three-letter codes used to identify airports worldwide. They are primarily used for airline ticketing and baggage handling purposes. Travelers often use IATA codes when searching for flights, as they provide a quick and easy way to identify airports.
 
 [wikipedia](https://en.wikipedia.org/wiki/IATA_airport_code)
 
@@ -62,7 +62,7 @@ Transport Canada identifier is a two- to four-letter code used to identify airpo
 
 It seems only to be present if there is no ICAO identifier.
 
-the TCLID can be looked up in the [Canada Flight Supplement](https://www.navcanada.ca/en/ecfs_07_en.pdf)
+The TCLID can be looked up in the [Canada Flight Supplement](https://www.navcanada.ca/en/ecfs_07_en.pdf)
 
 alias: TC LID
 [wikipedia](https://en.wikipedia.org/wiki/Location_identifier#Transport_Canada_identifier)  
@@ -87,7 +87,7 @@ Only a little is known about these codes because it is all in Spanish.
 
 [wikidata](https://www.wikidata.org/wiki/Q5796779)
 
-The national aerodrome code of the National Civil Aviation Administration (Argentina) is an airport designation code made up of three letters (AZ) that serves to identify the different aerodromes (legally authorized and enabled as such by the applicable aeronautical authority). (ANAC)) of Argentina.
+The national aerodrome code of the National Civil Aviation Administration (Argentina) is an airport designation code made up of three letters (AZ) that serve to identify the different aerodromes (legally authorized and enabled as such by the applicable aeronautical authority). (ANAC)) of Argentina.
 
 [source for the codes](http://www.anac.gob.ar/anac/web/uploads/infraestructura_y_aerod/aerodromos/ad-publicos-octubre-2015.pdf)
 
