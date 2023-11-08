@@ -1,6 +1,6 @@
 ---
 created: 2023-10-05T20:15:49+02:00
-modified: 2023-10-07T01:52:51+02:00
+modified: 2023-11-08T20:15:10+01:00
 ---
 
 # Kadeotjes voor wouter
@@ -10,3 +10,5 @@ modified: 2023-10-07T01:52:51+02:00
 <https://www.bol.com/nl/nl/p/the-red-atlas-how-the-soviet-union-secretly-mapped-the-world/9200000075809904/>
 
 # a racing wheel
+
+# rtx 3090
