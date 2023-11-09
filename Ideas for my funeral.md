@@ -6,19 +6,20 @@ modified: 2023-10-25T01:40:55+02:00
 # Ideas for my funeral
 
 The fire was always burning
+<https://www.youtube.com/watch?v=JDQtXQmPCIY>
 
-Some sad inappropriate music
+Some sad, inappropriate music
 
-Take a Group picture. Because all the people that were important toe should be there.
+Take a Group picture because all the people that were significant to me should be there. And there are never any photos from funerals.
 
-Put something weird in the casket that will confused the archiligists. Like a knife
+Put something weird in the casket that will confuse the archeologists. Like a knife
 
-Sing a song with everyone
+Sing a song with everyone.
 
-Give away my stuff to people that need it. To me these are mostly tools.
+Give away my stuff to people who need it. I consider most of my stuff tools and tools need to be used,
 
-If you can find somebody Technical. Release my data to the internet. Upload my intire Nas. Maybe get /r/datahorders involved
+Suppose you can find somebody Technical. Release my data to the internet. Upload my entire Nas. Maybe get /r/datahorders involved.
 
-Put a little piece in the paper
+Put a little piece in the newspaper.
 
-I don't have a preference in burry or crimation although I like the idea of perminance of grave. But crimation forces you to move on
+I don't have a preference for burry or cremation, although I like the idea of the permanence of the grave. But cremation forces you to move on
