@@ -12,3 +12,7 @@ modified: 2023-11-08T20:15:10+01:00
 # a racing wheel
 
 # rtx 3090
+
+# een goede schuifmaat
+
+liefts digitaal met weinig error
