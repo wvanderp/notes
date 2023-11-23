@@ -16,6 +16,8 @@ The big problem with this idea is that preventing people from poisoning the data
 
 We can use a dht crawler to find the actual torrents and then use the blockchain to store the metadata of what torrent contains what.
 
+[worked out in "Recreating popcorn time using DHT and Proof of Seed"](./free-ideas-worked-out/Popcorntime-with-DHT.md)
+
 ## Blurry photo finder
 
 An app that separates all the blurry photos from the sharp ones. There doesn't seem to be an app for this.
