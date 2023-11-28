@@ -91,6 +91,14 @@ The national aerodrome code of the National Civil Aviation Administration (Argen
 
 [source for the codes](http://www.anac.gob.ar/anac/web/uploads/infraestructura_y_aerod/aerodromos/ad-publicos-octubre-2015.pdf)
 
+## ARC
+
+https://en.wikipedia.org/wiki/List_of_airports_in_China
+
+china uses a code provided by  `Civil Aviation Administration of China` 
+
+TODo: expand
+
 ## CIAD
 
 [wikidata](https://www.wikidata.org/wiki/Q113950896)  
