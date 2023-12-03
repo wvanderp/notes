@@ -1,6 +1,6 @@
 ---
 created: 2023-10-05T20:15:49+02:00
-modified: 2023-11-08T20:15:10+01:00
+modified: 2023-12-03T16:56:16+01:00
 ---
 
 # Kadeotjes voor wouter
@@ -16,3 +16,5 @@ modified: 2023-11-08T20:15:10+01:00
 # een goede schuifmaat
 
 liefts digitaal met weinig error
+
+# een internet kabel kaart voor aan de muur
