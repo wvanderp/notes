@@ -78,6 +78,25 @@ all she wants to be is 멋짐. but what is 멋짐?
 
 > I love you, no matter what you say
 
+## jeon somi - birthday
+
+<https://www.youtube.com/watch?v=9SRxBTtspYM>
+
+> When I step up in the room it's like
+> 이제 내 멋대로 매일매일
+> 절대 없을거야 지루할 틈
+> 예전에 날 찾지마 baby
+> 새로운 나로 다시 태어날 테니까
+
+> When I step up in the room it's like
+> Now, every day is my way
+> There will never be a boring moment
+> Don't look for me like you used to, baby
+> I'll be reborn as a new me
+
+
+
+
 <!-- markdownlint-disable MD026 -->
 ## BTS - ugh!
 
