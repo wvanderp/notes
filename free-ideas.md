@@ -181,3 +181,13 @@ We ask visitors to take pictures of the whole museum. Then, we stitch them toget
 the fancy idea is: we create a virtual tour of the museum, so that the people that cant come to the museum can still visit my art installation.
 
 the exhibition starts with a instructions on how to download the app and how to take pictures that are the most useful for photogrammetry. Then, we ask them to take pictures of the whole museum. Then, we stitch them together into a 3D model of the museum. and in a other room we have a VR headset where you can walk through the museum.
+
+## lifelog
+
+A life database that tracks everything about you. It's like a combination of Google timeline and google my activity
+
+It tracks your location, media consumption, visited pages, sleep pattern, who you have met, heart rate, it's recording audio.
+
+It's like the ultimate survalance service but you are survaling yourself.
+
+There should be room to add text like a journal for the day where the events can trigger stories like apples journaling apps
