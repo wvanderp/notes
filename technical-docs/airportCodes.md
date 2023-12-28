@@ -28,7 +28,7 @@ FAA LID (Federal Aviation Administration Location Identifier) codes are three- t
 
 [wikipedia](https://en.wikipedia.org/wiki/Location_identifier#FAA_identifier)
 
-These codes can be found here: <https://www.faa.gov/documentLibrary/media/Order/7350.9_w_Change_1_Loc_Id.pdf>
+These codes can be found here: <https://www.faa.gov/documentLibrary/media/Order/2023-12-18_Order_JO_7350.9GG_Location_Identifiers_FOR_DIR_SIG.pdf> (found on <https://www.faa.gov/air_traffic/publications/>)
 
 ### FAA's Landing Facility Site Number
 
