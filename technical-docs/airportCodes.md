@@ -6,6 +6,7 @@ There are many different ways of identifying airports with codes. This page keep
 
 IATA (International Air Transport Association) codes are three-letter codes used to identify airports worldwide. They are primarily used for airline ticketing and baggage handling purposes. Travelers often use IATA codes when searching for flights, as they provide a quick and easy way to identify airports.
 
+
 [wikipedia](https://en.wikipedia.org/wiki/IATA_airport_code)
 
 ## ICAO
@@ -13,6 +14,9 @@ IATA (International Air Transport Association) codes are three-letter codes used
 ICAO (International Civil Aviation Organization) codes are four-letter codes used to identify airports worldwide. Air traffic controllers and pilots primarily use them for flight planning and navigation. ICAO codes are more precise than IATA codes and are required for filing flight plans.
 
 Shoutout to the special `ZZZZ` location, also called a `Zulu location`. It is used when the location in the flight plan does not have an ICAO identifier.
+
+All the ICAO codes are available in `Location Indicators (Doc 7910/189)`. The only problem is that this document is a cool 294$.
+An illegal version is available on the internet archive: <https://archive.org/details/doc-7910-icao-location-indicator/>
 
 [wikipedia](https://en.wikipedia.org/wiki/ICAO_airport_code)
 
