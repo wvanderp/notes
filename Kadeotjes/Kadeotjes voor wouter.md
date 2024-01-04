@@ -9,7 +9,6 @@ modified: 2023-12-03T16:56:16+01:00
 
 <https://www.bol.com/nl/nl/p/the-red-atlas-how-the-soviet-union-secretly-mapped-the-world/9200000075809904/>
 
-# a racing wheel
 
 # rtx 3090
 
