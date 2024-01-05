@@ -1,6 +1,7 @@
 ---
 created: 2023-09-18T00:04:44+02:00
 modified: 2023-10-07T01:55:40+02:00
+alias: things i can never find
 ---
 
 # information that I can never find
@@ -32,3 +33,12 @@ This is an investigation existing of multiple links.
 <https://dotat.at/@/2023-05-26-whence-time.html>
 
 <https://news.ycombinator.com/item?id=37778496>
+
+## Brouter suspect manager
+
+also wrongly known as: bbrouter routing errors, osm routing error
+
+this site finds routing errors by randomly generating routes and checking if they are valid.
+the errors are the displayed on the site for us to solve
+
+<https://brouter.de/brouter/suspect_manager_help.html>

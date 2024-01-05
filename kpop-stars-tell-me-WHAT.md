@@ -94,9 +94,6 @@ all she wants to be is 멋짐. but what is 멋짐?
 > Don't look for me like you used to, baby
 > I'll be reborn as a new me
 
-
-
-
 <!-- markdownlint-disable MD026 -->
 ## BTS - ugh!
 
