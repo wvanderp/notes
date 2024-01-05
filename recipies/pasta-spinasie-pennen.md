@@ -22,13 +22,18 @@ Picnic Penne: 9 tot 11 min met wat zout
 Hak 3 teentjes knoflook fijn.
  
 Stap 2
-Verhit 1 el olijfolie in een ruime hapjespan. Bak hierin 300 g reepjes spek uit. Haal de spekjes uit de pan en laat deze uitlekken op keukenpapier.
+Verhit 1 el olijfolie in een ruime hapjespan.
+ Bak hierin 300 g reepjes spek uit. 
+Haal de spekjes uit de pan en laat deze uitlekken op keukenpapier.
  
 Stap 3
-Voeg 1 el olijfolie toe aan het bakvet van de spekjes. Fruit hierin de knoflook gedurende 2 minuten op middelhoge temperatuur. Voeg vervolgens, per handvol, de 600 g spinazie toe en laat deze slinken. Breng op smaak met zout en peper.
+Voeg 1 el olijfolie toe aan het bakvet van de spekjes. Fruit hierin de knoflook gedurende 2 minuten op middelhoge temperatuur.
+ Voeg vervolgens, per handvol, de 600 g spinazie toe en laat deze slinken.
+ Breng op smaak met zout en peper.
  
 Stap 4
-Meng hier nu 200 g crème fraîche, het kookvocht en de uitgebakken spekreepjes doorheen. Voeg eventueel nog meer zwarte peper toe.
+Meng hier nu 200 g crème fraîche, het kookvocht en de uitgebakken spekreepjes doorheen.
+ Voeg eventueel nog meer zwarte peper toe.
  
 Stap 5
 Meng de saus door de voorgekookte pasta en 20 g geraspte Italiaanse kaas, en laat het geheel nog 1 minuut doorgaren.
