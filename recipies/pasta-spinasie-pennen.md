@@ -15,7 +15,11 @@ Uit eigen keuken: 2 el olijfolie, 3 teentjes knoflook, zwarte peper en zout
 Zo maak je het!
  
 Stap 1
-Kook 400 g pasta volgens de aanwijzingen op de verpakking. Hou 4 eetlepels kookvocht achter. Hak 3 teentjes knoflook fijn.
+Kook 400 g pasta volgens de aanwijzingen op de verpakking. Hou 4 eetlepels kookvocht achter. 
+
+Picnic Penne: 9 tot 11 min met wat zout
+
+Hak 3 teentjes knoflook fijn.
  
 Stap 2
 Verhit 1 el olijfolie in een ruime hapjespan. Bak hierin 300 g reepjes spek uit. Haal de spekjes uit de pan en laat deze uitlekken op keukenpapier.
