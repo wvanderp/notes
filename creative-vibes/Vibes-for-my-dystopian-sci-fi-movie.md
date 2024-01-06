@@ -7,13 +7,13 @@ modified: 2023-03-15T00:31:20+01:00
 
 ## Visuals
 
-![Gun instructor, Maeri shooting range, Pyongyang 2015 © Eddo Hartmann](Vibes-for-my-dystopian-sci-fi-movie-files/Gun_instructor_Pyongyang_2015_Eddo_Hartmann.jpg)
+![Gun instructor, Maeri shooting range, Pyongyang 2015 © Eddo Hartmann](Gun_instructor_Pyongyang_2015_Eddo_Hartmann.jpg)
 
 One of the vibes important to this movie is conflict. So, one of the themes can be progressive vs. conservative. Do we lean into technology or humanity, and what happens when one side dives into the other domain?
 
 ---
 
-![Deutschland](Vibes-for-my-dystopian-sci-fi-movie-files/deuchland.avif)
+![Deutschland](deuchland.avif)
 [Rammstein - Deutschland](https://www.youtube.com/watch?v=NeQM1c-XCDc)
 
 There are a few excellent concepts in this video clip. Like the same mysterious entity reoccurring in many historical settings. The way color red highlights the presence of this entity.
