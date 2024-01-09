@@ -1,6 +1,6 @@
 ---
 created: 2023-10-05T20:15:49+02:00
-modified: 2023-12-03T16:56:16+01:00
+modified: 2024-01-09T21:49:28+01:00
 ---
 
 # Kadeotjes voor wouter
@@ -17,3 +17,7 @@ modified: 2023-12-03T16:56:16+01:00
 liefts digitaal met weinig error
 
 # een internet kabel kaart voor aan de muur
+
+# Logitech k400+
+
+Toetsenbord met ingebouwde trackpad
