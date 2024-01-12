@@ -8,14 +8,17 @@
         "Etos",
         "Hooikoortstabletten",
         "Kyteman",
+        "Mapillary",
         "mometasone",
         "Nasonex",
         "osrs",
+        "overpassql",
         "Prevalin",
         "rosbridge",
         "runelite",
         "Runescape",
-        "Westerbork"
+        "Westerbork",
+        "wikidata"
     ],
     "cSpell.language": "en,nl",
 }
