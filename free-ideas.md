@@ -191,3 +191,19 @@ It tracks your location, media consumption, visited pages, sleep pattern, who yo
 It's like the ultimate survalance service but you are survaling yourself.
 
 There should be room to add text like a journal for the day where the events can trigger stories like apples journaling apps
+
+## tourism collection log
+
+A list of the thing you have to visit and do to complete a area.
+
+This would be a app where you either say where you are going and the app creates a log or just save the things you do.
+
+The can be on a country scale or very local like a town.
+
+Examples include
+
+- hold the pizza tower
+- buy a 1$ slice in New York
+- visit the louvre
+
+The app will show you the best spots to complete the actions
