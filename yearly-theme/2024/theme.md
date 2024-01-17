@@ -1,23 +1,36 @@
 # year of me
 
-this theme exist of two parts:
+This theme exists in two parts:
 
-- being more egotisitical in my life (in the good way)
+- being more egotistical in my life (in a good way)
 - working on myself
 
-i always give a lot and expect little in return. this year i want to express my needs and get them met.
+I always give a lot and expect little in return. This year, I want to express my needs and get them met.
 
-part of getting my needs met is knowning what my needs are. so i will also be working on my self to get to know myself better.
+Part of getting my needs met is knowing what my needs are. So, I will also work on getting to know myself better.
+
+## swimming
+
+<https://www.hetrivierabad.nl/activiteiten/banenzwemmen/>
+
+| Maandag | 07:30 - 12:00<br>20:30 - 21:30 |
+| ---- | ---- |
+| Dinsdag | 07:30 - 14:00<br>20:30 - 21:30 |
+| Woensdag | 07:30 - 12:00<br>19:00 - 20:00 |
+| Donderdag | 07:30 - 14:00 |
+| Vrijdag | 07:30 - 09:00<br>11:00 - 12:00 |
+| Zondag | 09:00 - 11:00 |
+
+So it's eighter swimming on Wednesday night or early in the morning.
 
 ## dairies
 
-**2023-12-22 frighday before Christmas**
+### **2023-12-22 frighday before Christmas**
 
-I talked at work about not feeling great at work and they are sending me to a performance coach. Hopefully this is a great first step on my new theme.
+I talked at work about not feeling great, and they are sending me to a performance coach. Hopefully, this is a significant first step on my new theme.
 
-I was also thinking about picking up swimming near my new job or at the revoeera bad in Spijkenisse.
+I was also thinking about swimming near my new job or at the Het Riviera Bad in Spijkenisse.
 
+### **2024-01-04**
 
-**2024-01-04**
-
-It migh be a good idea to talk more about my self
+It might be a good idea to talk more about myself.

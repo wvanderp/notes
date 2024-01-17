@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nsi-notes.md",
+                "file": "yearly-theme/2024/theme.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nsi-notes.md",
+                "file": "yearly-theme/2024/theme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "nsi-notes.md",
+                "file": "yearly-theme/2024/theme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "nsi-notes.md"
+                "file": "yearly-theme/2024/theme.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "b64c6f7abe56f256",
   "lastOpenFiles": [
+    "nsi-notes.md",
     "Gedachten over bedrijf.md",
     "Ideas for my funeral.md",
     "Ideeën voor de stemlocatie wijzer.md",
