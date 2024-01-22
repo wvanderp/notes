@@ -10,14 +10,22 @@ modified: 2024-01-09T21:49:28+01:00
 <https://www.bol.com/nl/nl/p/the-red-atlas-how-the-soviet-union-secretly-mapped-the-world/9200000075809904/>
 
 
-# rtx 3090
+## rtx 4090
 
-# een goede schuifmaat
+or a rtx 4080 super
+
+## een goede schuifmaat
 
 liefts digitaal met weinig error
 
-# een internet kabel kaart voor aan de muur
+## een internet kabel kaart voor aan de muur
 
-# Logitech k400+
+https://shop.telegeography.com/products/2023-submarine-cable-map-free-shipping
+
+## Logitech k400+
 
 Toetsenbord met ingebouwde trackpad
+
+## flipper zero
+
+https://flipperzero.one/
