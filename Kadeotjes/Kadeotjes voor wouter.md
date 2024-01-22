@@ -29,3 +29,5 @@ Toetsenbord met ingebouwde trackpad
 ## flipper zero
 
 https://flipperzero.one/
+
+## FLIR ONE EDGE
