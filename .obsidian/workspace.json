@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "projects/osrs-db/osrs-db.md",
+                "file": "projects/osrs-map/osrs map.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "projects/osrs-db/osrs-db.md",
+                "file": "projects/osrs-map/osrs map.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "projects/osrs-db/osrs-db.md",
+                "file": "projects/osrs-map/osrs map.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "projects/osrs-db/osrs-db.md"
+                "file": "projects/osrs-map/osrs map.md"
               }
             }
           }
@@ -148,6 +148,10 @@
   },
   "active": "b64c6f7abe56f256",
   "lastOpenFiles": [
+    "Personal/Medical.md",
+    "projects/osrs-map/osrs map.md",
+    "projects/osrs-map",
+    "projects/osrs-db/osrs-db.md",
     "Kadeotjes/Kadeotjes voor wouter.md",
     "Kadeotjes/Kadeotjes voor Matthijs.md",
     "Kadeotjes/Kadeotjes voor ma.md",
@@ -160,15 +164,11 @@
     "gitlab-markdown-notes.md",
     "scouting/Scout stock game.md",
     "scouting/things-to-bring-to-a-world-jamboree.md",
-    "Personal/Medical.md",
     "Personal/hayfever.md",
     "Rowing.md",
     "nerdy-tourism/nerdy-tourist-attractions-in-the-netherlands.md",
     "poems/The Choice I Made, Straight Up.md",
     "nerdy-tourism/seoul.md",
-    "projects/osrs-db/osrs-db.md",
-    "projects/osrs-map/osrs map.md",
-    "projects/osrs-map",
     "technical-docs/find-hidden-drawio-files.md",
     "projects/osrs-db",
     "projects/osm-province-of-the-month/stats.md",
@@ -179,7 +179,6 @@
     "funurals/begravenis-van-oma.md",
     "funurals",
     "Ideas for my funeral.md",
-    "Ideeën voor de stemlocatie wijzer.md",
     "creative-vibes",
     "Untitled.canvas",
     "yearly-theme/2024",

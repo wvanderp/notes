@@ -3,6 +3,8 @@ tags:
   - osrs
 ---
 
+# OSRS DB
+
 osrs-db is a data collection project for Old School Runescape. the goal of the project is to create a low maintenance and machine readable database of all items, monsters, and other data in the game.
 
 it should consist of two types of data:
@@ -28,7 +30,7 @@ a specific example of static data is the navigation mesh for the game.
 
 ## dynamic data
 
-dynamic data should be stored in a database. this data is automatically collected by a runelite plugin, and stored in a database. 
+dynamic data should be stored in a database. this data is automatically collected by a runelite plugin, and stored in a database.
 intreating data points include:
 
 - player stats
