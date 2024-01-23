@@ -1,6 +1,8 @@
 ---
 created: 2023-09-25T01:35:32+02:00
 modified: 2023-10-02T01:04:41+02:00
+tags:
+  - health
 ---
 
 # Medical

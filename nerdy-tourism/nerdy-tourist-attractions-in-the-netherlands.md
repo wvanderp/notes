@@ -1,3 +1,7 @@
+---
+auteur: "chatGPT 3.5"
+---
+
 # Unveiling the Enchanting Nerdy Tourist Attractions in the Netherlands
 
 Welcome to the Netherlands, a country that may be small in size but offers a universe of diverse and captivating tourist attractions. Beyond the world-famous canals of Amsterdam and the picturesque tulip fields in the countryside, the Netherlands boasts a treasure trove of nerdy destinations waiting to be discovered. In this article, we will embark on a journey to showcase the most intriguing and unique nerdy attractions this country offers.

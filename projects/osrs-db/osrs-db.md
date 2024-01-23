@@ -1,4 +1,7 @@
-# osrs-db
+---
+tags:
+  - osrs
+---
 
 osrs-db is a data collection project for Old School Runescape. the goal of the project is to create a low maintenance and machine readable database of all items, monsters, and other data in the game.
 

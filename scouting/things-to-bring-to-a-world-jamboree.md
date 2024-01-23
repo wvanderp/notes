@@ -1,3 +1,8 @@
+---
+tags:
+  - scouting
+---
+
 # things that you should bring to the world jamboree
 
 Besides all the things you would bring to a normal jamboree, there are a few things you should bring to a world jamboree.

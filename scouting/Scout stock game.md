@@ -1,8 +1,9 @@
 ---
 created: 2023-09-02T22:48:03+02:00
 modified: 2023-09-02T22:57:29+02:00
+tags:
+  - scouting
 ---
-
 # Scout stock game
 
 In this game the scouts are challenged to earn money on the stock market. Each scout has there own account and will make there own trades.
