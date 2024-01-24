@@ -22,7 +22,12 @@ In this challenge, we look at unmarked crossings.
 
 Use ID to check on the crossing and make the recommended changes.
 
-in addition, you can look to mark how crossing is actually marked
+In addition, you can look to mark how crossing is actually marked
+
+`crossing:markings=no`
+`crossing:markings=zebra`
+`crossing:markings=dashes`
+`crossing:markings=dots`
 ```
 
 ## roof no layer
