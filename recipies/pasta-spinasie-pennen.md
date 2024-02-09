@@ -4,7 +4,7 @@ Orgineel van de picnic
 
 Ingrediënten
  
-400 g	penne
+- 400 g	penne
 200 g	crème fraîche
 300 g	gerookte spekreepjes
 40 g	geraspte grana padano kaas
