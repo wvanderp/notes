@@ -5,7 +5,7 @@ tags:
 
 # OSRS Map
 
-The idea here is to recrate the map view from old school runescape from scratch and then integrate other features into it.
+The idea here is to recreate the map view from old school runescape from scratch and then integrate other features into it.
 
 the steps are:
 

@@ -1,41 +1,36 @@
 # Stamppot peen en uien
 
-Orgineel van de picnic 
+Origineel van de picnic 
  
 Ingrediënten
- 
-- stamppot-aardappelen 1 kg
-- hutspotgroenten 1 kg
-- halfvolle melk 100 ml
-- roomboter 2 el
-- rookworst 1
 
-eventueel extra spekjes
+| Ingredient | gewicht |
+| ---- | ---- |
+| stamppot-aardappelen | 1 kg |
+| hutspotgroenten | 1 kg |
+| halfvolle melk | 100 ml |
+| roomboter | 2 el |
+| rookworst | 1 |
+|  |  |
+| **Optioneel** |  |
+| extra spekjes |  |
+|  |  |
+| **eigen dingen** |  |
+| zwarte peper |  |
+| zout |  |
 
-Uit eigen keuken: zwarte peper en zout
- 
- 
- 
- 
- 
-Zo maak je het!
- 
-**Stap 1**
- 
-Breng een ruime pan met gezouten water aan de kook. Kook hierin de aardappelen en hutspotmix in ongeveer 15 minuten gaar, en giet af.
- 
-**Stap 2**
- 
-Verwarm de rookworst volgens de aanwijzingen op de verpakking of leg de worst de laatste paar minuten bovenop de aardappelen en hutspot.
- 
-**Stap 3**
- 
-Verhit ondertussen in een klein pannetje de melk met de boter, tot alle boter is gesmolten. Stamp dit samen met de hutspotmix en aardappelen fijn, en breng het geheel op smaak met zout en peper.
- 
-**Stap 4**
- 
-Snij de rookworst in plakjes en serveer deze bij de hutspot.
- 
-Tip
- 
-Extra lekker met (vegetarische) gerookte spekjes, gebakken uitjes, jus en een lepel piccalilly!
+## Stap 1
+Schil de aartappels
+verwarm de worst in warm water
+
+## Stap 2
+kook de **aardappels**, **hutspot mix**, en **zout** voor **15 minuten**
+
+## Stap 3
+verhit tijdens het koken van de aardappels in een extra pan:
+- 100 ml melk
+- 2 el boter
+
+## Stap 4
+stamp de aardappels, hutspot mix en de boter-melk mengsel fijn
+voeg zout en peper toe om het op smaak te brengen.
