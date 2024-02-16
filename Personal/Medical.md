@@ -1,6 +1,6 @@
 ---
 created: 2023-09-25T01:35:32+02:00
-modified: 2024-02-16T01:07:48+01:00
+modified: 2024-02-16T01:13:25+01:00
 tags: [health]
 ---
 
@@ -23,6 +23,11 @@ I also want to report that sometimes my right pinky too loses feeling or feels n
 ## 2023-10-22
 
 the coughing is mostly gone. the sleep problems persist.
+
+## 2024-01-04/07 trough 2024-01-10/14
+
+Coughing with slime in lungs
+Possible [[covid]] scare but tested negative
 
 ## 2024-02-15
 
