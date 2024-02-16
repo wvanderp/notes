@@ -1,11 +1,13 @@
 ---
 created: 2023-09-25T01:35:32+02:00
-modified: 2023-10-02T01:04:41+02:00
-tags:
-  - health
+modified: 2024-02-16T01:07:48+01:00
+tags: [health]
 ---
 
 # Medical
+
+Keywords: sick, zoek, health 
+
 
 ## 2023-09-24
 
@@ -21,3 +23,8 @@ I also want to report that sometimes my right pinky too loses feeling or feels n
 ## 2023-10-22
 
 the coughing is mostly gone. the sleep problems persist.
+
+## 2024-02-15
+
+Stuffy nose
+Still not sleeping well
