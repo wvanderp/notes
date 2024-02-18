@@ -1,6 +1,7 @@
 ---
 tags:
   - recept
+author: picnic
 ---
 # Stamppot peen en uien
 
