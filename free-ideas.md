@@ -69,11 +69,20 @@ Like:
 Another way is to show the time visually. Like:
 
 - a binary clock
+- hex clcok
 - a clock that shows the time in Roman numerals
 - a sundial
 - a clock that only contains half of the day
 - a clock that has the numbers in the wrong order
 - just the sun in the sky
+- procentage of the cock
+- ange of the hands
+- forain language
+
+- live of clock
+- Google streetview of clock 
+- links to songs 
+- analoge 24 hour clock 
 
 ### Implementation
 
