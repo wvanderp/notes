@@ -23,11 +23,12 @@ TBC staat voor Time Base Corrector. Dit is een apparaat dat de timing van het vi
 
 <https://www.digitalfaq.com/forum/video-capture/10257-video8-hi8-digital8.html>
 
-digitalfaq heeft een lijst van camcorders die een TBC hebben.
+Digitalfaq heeft een lijst van camcorders die een TBC hebben.
 
 ## capture device
 
 I-O Data GV-USB2??
+<https://www.amazon.com/DATA-connection-video-capture-GV-USB2/dp/B00428BF1Y>
 
 ## vhs decode
 

@@ -4,37 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "6558cdb332ace5bc",
+        "id": "8cb4a510bf8770a6",
         "type": "tabs",
         "children": [
           {
-            "id": "b64c6f7abe56f256",
+            "id": "db70c3fe1dfbcd8f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "recipies/pasta-spinasie-pennen.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "8b29c82a37b31a70",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "bc2bd1feb5ccfa88",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "recipies/stampot-peen-en-uien.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -66,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ma file:ma",
+                "query": "tag:rececpt",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -103,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "recipies/stampot-peen-en-uien.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "recipies/stampot-peen-en-uien.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "recipies/stampot-peen-en-uien.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -164,10 +138,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bc2bd1feb5ccfa88",
+  "active": "db70c3fe1dfbcd8f",
   "lastOpenFiles": [
-    "recipies/pasta-spinasie-pennen.md",
+    "DND Ideas.md",
+    "projects/gigapan/name.md",
+    "technical-docs/har download button.png",
+    "technical-docs/Downloading-from-instagram.md",
     "recipies/stampot-peen-en-uien.md",
+    "recipies/pasta-spinasie-pennen.md",
+    "recipies/meatloaf.md",
+    "Personal/Historical likes.md",
     "projects/osrs-map/osrs map.md",
     "Personal/Medical.md",
     "projects/osrs-map",
@@ -178,8 +158,6 @@
     "nsi-notes.md",
     "projects/osm-province-of-the-month/image.png",
     "free-ideas.md",
-    "DND Ideas.md",
-    "technical-docs/Downloading-from-instagram.md",
     "Gedachten over bedrijf.md",
     "gitlab-markdown-notes.md",
     "scouting/Scout stock game.md",
@@ -192,11 +170,8 @@
     "technical-docs/find-hidden-drawio-files.md",
     "projects/osrs-db",
     "projects/osm-province-of-the-month/stats.md",
-    "projects/osm-province-of-the-month/queries.md",
     "projects/osm-province-of-the-month",
     "projects/adsb-recever/image.png",
-    "funurals/Ideas for my funeral.md",
-    "funurals/begravenis-van-oma.md",
     "funurals",
     "creative-vibes",
     "Untitled.canvas",

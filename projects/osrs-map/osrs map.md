@@ -14,7 +14,7 @@ the steps are:
 - find the add the positions of the entries to the map
 - make a web app to show it
 
-**Current problems**
+## Current problems
 
 how the hell do we work the the caches
 

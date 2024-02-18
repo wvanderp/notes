@@ -5,7 +5,7 @@ modified: 2023-12-10T18:39:01+01:00
 
 # Matthijs
 
-Colapsable sword 3d print
+Collapsible sword 3d print
 
 Landkaart van hout om aan de muur te hangen
 

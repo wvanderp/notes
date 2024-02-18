@@ -18,4 +18,4 @@ then you have a folder full of images that you can do whatever you want with.
 
 ## filtering the images
 
-the one downside of this method is that it captures all images. so also all small profile pictures and layout images come through. you can filter with your favorite tools. I just use the windows file explorer and sort by size. then I can just select all the small images and delete them.
+the one downside of this method is that it captures all images. so also all small profile pictures and layout images come through. you can filter with your favourite tools. I just use the windows file explorer and sort by size. then I can just select all the small images and delete them.
