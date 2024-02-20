@@ -7,6 +7,10 @@ tags:
 **Duration**:: 
 **Location**:: [[013 Poppodium]]
 
+**Website**:: https://www.013.nl/programma/7351/electric-callboy
+
+**Artist**:: [[Future Palace]]
+**Artist**:: [[Holding Absence]]
 **Artist**:: [[Electric Callboy]]
 
 ---

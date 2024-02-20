@@ -4,23 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "dc1b0824cf0d0772",
+        "id": "8b29c82a37b31a70",
         "type": "tabs",
         "children": [
           {
-            "id": "4c7bdac19a5134d1",
+            "id": "bc2bd1feb5ccfa88",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concerts.md",
+                "file": "recipies/stampot-peen-en-uien.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "fc641d26199fa734",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Concerts/Electric Callboy - TEKKNO WORLD TOUR.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "c83c70434ff923de",
+            "id": "6d3aaf67cdcae9df",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -61,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:concert",
+                "query": "ma file:ma",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -159,29 +171,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c83c70434ff923de",
+  "active": "6d3aaf67cdcae9df",
   "lastOpenFiles": [
-    "Concerts/K-pop Super Live.md",
-    "Concerts.md",
     "Concerts/Electric Callboy - TEKKNO WORLD TOUR.md",
     "Concerts/BABYMETAL UK & EU TOUR 2023.md",
-    "Concerts/Sabaton - The Tour To End All Tours 2022.md",
-    "Concerts/AMARANTHE & BEYOND THE BLACK.md",
-    "New pc.md",
-    "military-installations-netherlands.md",
-    "template/Concert.md",
-    "Concerts",
-    "templater/Concert.md",
-    "template",
-    "templater",
-    "DND Ideas.md",
-    "projects/gigapan/name.md",
-    "technical-docs/har download button.png",
-    "technical-docs/Downloading-from-instagram.md",
+    "Concerts/APOCALYPSE  FOLLOW US WORLD TOUR.md",
+    "Concerts.md",
+    "gitlab-markdown-notes.md",
+    "Concerts/Powerwolf - Wolfsnächte.md",
+    "Concerts/Alestorm - European Tour 2023.md",
+    "Concerts/HANG YOUTH.md",
+    "Concerts/FLOOR JANSEN + INGE LAMBOO.md",
     "recipies/stampot-peen-en-uien.md",
+    "template/Concert.md",
+    "template",
+    "projects/digatising/images/name.png",
+    "projects/digatising/images/IO.png",
+    "projects/digatising/hi8.md",
+    "projects/digatising/images",
+    "projects/digatising",
+    "New pc.md",
+    "Concerts/Sabaton - The Tour To End All Tours 2022.md",
+    "Concerts/K-pop Super Live.md",
+    "Concerts/AMARANTHE & BEYOND THE BLACK.md",
+    "Concerts",
     "recipies/pasta-spinasie-pennen.md",
-    "recipies/meatloaf.md",
-    "Personal/Historical likes.md",
     "projects/osrs-map/osrs map.md",
     "Personal/Medical.md",
     "projects/osrs-map",
@@ -192,14 +206,13 @@
     "nsi-notes.md",
     "projects/osm-province-of-the-month/image.png",
     "free-ideas.md",
-    "Gedachten over bedrijf.md",
+    "DND Ideas.md",
     "projects/osrs-db",
     "projects/osm-province-of-the-month",
     "projects/adsb-recever/image.png",
     "funurals",
     "creative-vibes",
     "Untitled.canvas",
-    "yearly-theme/2024",
-    "yearly-theme"
+    "yearly-theme/2024"
   ]
 }
