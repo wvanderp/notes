@@ -33,6 +33,4 @@ tags:
 **Artist**:: [[ZEROBASEONE]]
 **Artist**:: [[SHOWNU X HYUNGWON]]
 
-**Artist**:: [[MONSTA X]]
-
 ---
