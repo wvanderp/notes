@@ -42,9 +42,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ee062a41fb195d53",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Concerts/AMARANTHE & BEYOND THE BLACK.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "37ada09d84cd5613",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Two second Google searches without internet.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -110,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "food order reviews.md",
+                "file": "Two second Google searches without internet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "food order reviews.md",
+                "file": "Two second Google searches without internet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "food order reviews.md"
+                "file": "Two second Google searches without internet.md"
               }
             }
           }
@@ -171,34 +195,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6cb591683f1f1b93",
+  "active": "37ada09d84cd5613",
   "lastOpenFiles": [
-    "New pc.md",
-    "food order reviews.md",
-    "scouting/scouting ideas.md",
+    "Untitled 1.md",
+    "Two second Google searches without internet.md",
+    "Rowing.md",
+    "nsi-notes.md",
+    "military-installations-netherlands.md",
     "Concerts.md",
+    "Concerts/DragonForce & Amaranthe.md",
+    "Concerts/AMARANTHE & BEYOND THE BLACK.md",
+    "food order reviews.md",
+    "New pc.md",
+    "scouting/scouting ideas.md",
     "Concerts/K-pop Super Live.md",
     "free-ideas-worked-out/Popcorntime-with-DHT.md",
     "yearly-theme/2024/theme.md",
     "Gedachten over bedrijf.md",
     "media-to-watch.md",
-    "military-installations-netherlands.md",
-    "Rowing.md",
     "Pubquiz topics.md",
-    "nsi-notes.md",
     "litrature/my-favourite-copypastas.md",
     "litrature/The Choice I Made, Straight Up.md",
     "Concerts/KPOP.FLEX 2022 sunday.md",
     "recipies/stampot-peen-en-uien.md",
     "Concerts/Electric Callboy - TEKKNO WORLD TOUR.md",
-    "Concerts/AMARANTHE & BEYOND THE BLACK.md",
     "Concerts/KPOP.FLEX 2022 Saturday.md",
     "Concerts/Rammstein 2022 stadium tour.md",
     "Concerts/BABYMETAL UK & EU TOUR 2023.md",
     "Concerts/APOCALYPSE  FOLLOW US WORLD TOUR.md",
-    "gitlab-markdown-notes.md",
-    "Concerts/Powerwolf - Wolfsnächte.md",
-    "Concerts/Alestorm - European Tour 2023.md",
     "template",
     "projects/digatising/images/name.png",
     "projects/digatising/images/IO.png",
