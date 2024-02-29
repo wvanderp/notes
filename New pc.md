@@ -1,4 +1,22 @@
 
+✔️	done and decided
+⚠️	options but NOT decided 
+❌	work needed
+
+| Component         | desisiion                    | done | description of work   |
+| ----------------- | ---------------------------- | ---- | --------------------- |
+| [[#CPU]]          | AMD Ryzen 7 8700G            | ⚠️   | check reviews         |
+| [[#GPU]]          | 4070 TI                      | ⚠️   | specific model        |
+| [[#RAM]]          | 64 GB                        | ❌    | speed and brand       |
+| [[#Motherboard]]  |                              | ❌    | choose                |
+| [[#Case]]         | Fractal Design North         | ✔️   |                       |
+| [[#Storage]]      | 2TB main drive and secondary | ⚠️   | choose secific        |
+| [[#Power supply]] |                              | ❌    | choose                |
+| [[#Cooling]]      |                              | ❌    | choose                |
+| [[#OS]]           | windows 11                   | ⚠️   | pro                   |
+| [[#Monitor]]      |                              | ⚠️   | choose specific model |
+| [[#Keyboard]]     |                              | ❌    | do all the research   |
+possible setup: https://pcpartpicker.com/list/hFgtbL
 ## CPU
 
 amd at a good price
@@ -26,7 +44,7 @@ most likely 4070 TI
 
 64 gb of ok ram
 
-## mobo
+## Motherboard
 
 nothing special
 AM5
@@ -36,24 +54,27 @@ michien wifi
 minstens 4 M.2 slots
 
 usbc on the back
-## case
+## Case
 
 Fractal Design North midi tower behuizing
 my prefrence is the one with the mash
 https://www.alternate.nl/Fractal-Design/North-midi-tower-behuizing/html/product/1858075
 https://www.alternate.nl/Fractal-Design/North-midi-tower-behuizing/html/product/1858074
-## storage
-atleast 2x 1tb
+## Storage
+at least 2x 1tb
 main drive 2TB
-## psu
+## Power supply
 
 enough
 
-## cooling
+## Cooling
 
 cosair
 
-## new monitor
+## OS
+windows 11 
+pro???
+## Monitor
 
 I feel like I need to replace my monitor held up with wires and replace it with a ok but not great one.
 
@@ -92,6 +113,6 @@ and dp out
 **sources**
 https://www.reddit.com/r/UsbCHardware/comments/mmpa20/monitor_with_multiple_usbc_inputs/
 
-## keyboard
+## Keyboard
 
 i want a kliktiklac keyboard

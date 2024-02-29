@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4c55121d726b371e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "New pc.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,7 +159,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a4011e706034224c",
+  "active": "4c55121d726b371e",
   "lastOpenFiles": [
     "scouting/scouting ideas.md",
     "food order reviews.md",
