@@ -1,6 +1,6 @@
 ---
 created: 2024-03-02T00:44:16+01:00
-modified: 2024-03-02T00:47:48+01:00
+modified: 2024-03-04T00:28:33+01:00
 ---
 
 # Encro obsidian
@@ -19,3 +19,6 @@ The attack vector is files on a public GitHub. You computer is concidered to be 
 
 https://github.com/deathau/txt-as-md-obsidian
 Txt as markdown could be read as enc as markdown
+
+https://github.com/meld-cp/obsidian-encrypt
+Already does encryption
