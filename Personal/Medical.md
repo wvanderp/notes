@@ -1,6 +1,6 @@
 ---
 created: 2023-09-25T01:35:32+02:00
-modified: 2024-03-06T21:34:50+01:00
+modified: 2024-03-06T23:12:10+01:00
 tags: [health]
 ---
 
@@ -47,3 +47,9 @@ Dit zijn symptomen van een hartaanval.
 Ik heb dit een keer eerder gehad toen ik nog bij dept werkte. Het is toen over gegaan.
 
 Ik hoop dat het nu spierpijn is
+
+*Part 2*
+
+Ik bedenk me nu dat die tijd ook stressvol was op de zelfde manier als nu.
+
+Ik moest mij bewijzen in een Gebied waar ik wel iets wist maar niet zo veel.
