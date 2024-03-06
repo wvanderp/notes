@@ -1,6 +1,6 @@
 ---
 created: 2023-09-25T01:35:32+02:00
-modified: 2024-02-16T01:13:25+01:00
+modified: 2024-03-06T21:34:50+01:00
 tags: [health]
 ---
 
@@ -33,3 +33,17 @@ Possible [[covid]] scare but tested negative
 
 Stuffy nose
 Still not sleeping well
+
+## 2024-03-6
+
+Vandaag heb ik een soort stekende pijn in mijn linker borstkas. Het zit eigenlijk meer voor op mijn borst kas
+
+Het begon rond 1000 en on 2133 is het nog steeds
+
+Het doet ook pijn in mijn linker arm en nek.
+
+Dit zijn symptomen van een hartaanval.
+
+Ik heb dit een keer eerder gehad toen ik nog bij dept werkte. Het is toen over gegaan.
+
+Ik hoop dat het nu spierpijn is
