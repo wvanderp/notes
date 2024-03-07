@@ -1,6 +1,6 @@
 ---
 created: 2023-09-25T01:35:32+02:00
-modified: 2024-03-07T10:55:56+01:00
+modified: 2024-03-07T13:49:31+01:00
 tags: [health]
 ---
 
@@ -61,3 +61,10 @@ Nogsteeds pijn in borst en arm
 Ma vond dat ik wit zag
 
 Ben naar de huis arts gegaan om 1020
+
+Daar heb ik uit gelegd en ze hebben een ekg gemaakte
+
+Om 1350 heb ik weer een afspraak 
+
+Tijden het lopen is de pijn erger geworden dan zitten.
+Maar het kan ook zijn door bewegen.
