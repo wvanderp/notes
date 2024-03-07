@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "bc0ff171a710140a",
+        "id": "302d03a2848af7a3",
         "type": "tabs",
         "children": [
           {
-            "id": "a4011e706034224c",
+            "id": "56c37b19702ff761",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New pc.md",
+                "file": "projects/Iscout Better source/2016.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:concert",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -194,6 +193,10 @@
     "projects/digatising/images",
     "projects/digatising",
     "Concerts",
+    "templater/Concert.md",
+    "template",
+    "templater",
+    "technical-docs/har download button.png",
     "projects/osrs-map",
     "projects/osm-province-of-the-month/image.png",
     "projects/osrs-db",

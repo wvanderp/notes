@@ -66,9 +66,17 @@ Transport Canada identifier is a two- to four-letter code used to identify airpo
 
 It seems only to be present if there is no ICAO identifier.
 
-The TCLID can be looked up in the [Canada Flight Supplement](https://www.navcanada.ca/en/ecfs_07_en.pdf)
+The TCLID can be looked up in the the province specific CANADA FLIGHT SUPPLEMENT
 
-alias: TC LID
+| link | province |
+| ---- | ---- |
+| https://www.navcanada.ca/en/ecfs_01_en.pdf | YUKON NORTHWEST TERRITORIES NUNAVUT |
+| https://www.navcanada.ca/en/ecfs_02_en.pdf | BRITISH COLUMBIA |
+| https://www.navcanada.ca/en/ecfs_03_en.pdf | ALBERTA SASKATCHEWAN MANITOBA |
+| https://www.navcanada.ca/en/ecfs_04_en.pdf | ONTARIO |
+| https://www.navcanada.ca/en/ecfs_05_en.pdf | QUEBEC |
+| https://www.navcanada.ca/en/ecfs_07_en.pdf | ATLANTIC |
+alias: TC LID, TCLID
 [wikipedia](https://en.wikipedia.org/wiki/Location_identifier#Transport_Canada_identifier)  
 [wikidata](https://www.wikidata.org/wiki/Q55773856)  
 
