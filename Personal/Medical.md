@@ -1,6 +1,6 @@
 ---
 created: 2023-09-25T01:35:32+02:00
-modified: 2024-03-06T23:12:10+01:00
+modified: 2024-03-07T10:55:56+01:00
 tags: [health]
 ---
 
@@ -53,3 +53,11 @@ Ik hoop dat het nu spierpijn is
 Ik bedenk me nu dat die tijd ook stressvol was op de zelfde manier als nu.
 
 Ik moest mij bewijzen in een Gebied waar ik wel iets wist maar niet zo veel.
+
+## 2024-03-07
+
+Nogsteeds pijn in borst en arm
+
+Ma vond dat ik wit zag
+
+Ben naar de huis arts gegaan om 1020
