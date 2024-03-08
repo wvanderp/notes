@@ -68,3 +68,13 @@ Om 1350 heb ik weer een afspraak
 
 Tijden het lopen is de pijn erger geworden dan zitten.
 Maar het kan ook zijn door bewegen.
+
+een huisarts (die ik normaalgesporken niet heb) zecht dat alles goed is.
+
+de computer zegt ook dat het goed is. en de computer is nooit teveregen.
+
+dus het is waarschijnlijk speer of gewrigts pijn. dit zou met 3 dagen over moeten zijn.
+
+wel heb ik een uitdraai van mijn ekg gekergen. :)
+
+![[EKG.jpg]]

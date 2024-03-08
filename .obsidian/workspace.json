@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "302d03a2848af7a3",
+        "id": "f201d1b34f6bf064",
         "type": "tabs",
         "children": [
           {
-            "id": "56c37b19702ff761",
+            "id": "6692ff7477b6e18b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "projects/Iscout Better source/2016.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4c55121d726b371e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "New pc.md",
+                "file": "projects/Project Archive/LTO-9.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:concert",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New pc.md",
+                "file": "projects/Project Archive/LTO-9.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "New pc.md",
+                "file": "projects/Project Archive/LTO-9.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "New pc.md"
+                "file": "projects/Project Archive/LTO-9.md"
               }
             }
           }
@@ -158,14 +146,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4c55121d726b371e",
+  "active": "6692ff7477b6e18b",
   "lastOpenFiles": [
+    "Personal/Medical.md",
+    "projects/Project Archive/LTO-9.md",
+    "projects/Project Archive",
+    "New pc.md",
+    "Personal/medical images/EKG.jpg",
+    "Personal/medical images",
+    "template/Iscout Question.md",
+    "projects/Iscout Better source/images/oleaatAnswer-sd8907dg.jpg.jpg",
+    "projects/Iscout Better source/images/oleaat.png.png",
+    "projects/Iscout Better source/images/mostOfThis.jpg.jpg",
+    "projects/Iscout Better source/images/batmap.png.png",
+    "projects/Iscout Better source/images",
+    "projects/Iscout Better source/2016.md",
+    "projects/Iscout Better source",
     "Encro obsidian.md",
     "Concerts.md",
     "Concerts/DragonForce & Amaranthe.md",
     "Concerts/AMARANTHE & BEYOND THE BLACK.md",
     "Concerts/Alestorm - European Tour 2023.md",
-    "New pc.md",
     "poems/The Choice I Made, Straight Up.md",
     "poems",
     "my-favourite-copypastas.md",
@@ -183,27 +184,15 @@
     "yearly-theme/2024/theme.md",
     "Gedachten over bedrijf.md",
     "media-to-watch.md",
-    "Pubquiz topics.md",
-    "litrature/my-favourite-copypastas.md",
-    "litrature/The Choice I Made, Straight Up.md",
-    "Concerts/KPOP.FLEX 2022 sunday.md",
     "template",
     "projects/digatising/images/name.png",
     "projects/digatising/images/IO.png",
     "projects/digatising/images",
     "projects/digatising",
     "Concerts",
-    "templater/Concert.md",
-    "template",
-    "templater",
-    "technical-docs/har download button.png",
     "projects/osrs-map",
     "projects/osm-province-of-the-month/image.png",
-    "projects/osrs-db",
-    "projects/osm-province-of-the-month",
     "projects/adsb-recever/image.png",
-    "funurals",
-    "creative-vibes",
     "Untitled.canvas"
   ]
 }
