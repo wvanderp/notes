@@ -16,12 +16,15 @@
 | [[#OS]]           | windows 11                   | ⚠️   | pro                   |
 | [[#Monitor]]      |                              | ⚠️   | choose specific model |
 | [[#Keyboard]]     |                              | ❌    | do all the research   |
-possible setup: https://pcpartpicker.com/list/hFgtbL
+possible setups:
+
+https://pcpartpicker.com/list/hFgtbL: 3000$ +
+https://pcpartpicker.com/list/3wMfjH: $2790.48
 ## CPU
 
 amd at a good price
 AMD Ryzen 7 8700G, 4,2 GHz (5,1 GHz Turbo Boost) socket AM5 processor
-
+AMD Ryzen 7 7800X3D 4.2 GHz 8-Core
 ## GPU
 
 i want to run llms better and play some games.
@@ -43,7 +46,7 @@ most likely 4070 TI
 ## RAM
 
 64 gb of ok ram
-
+4800 hz with better timings
 ## Motherboard
 
 nothing special
@@ -62,7 +65,7 @@ https://www.alternate.nl/Fractal-Design/North-midi-tower-behuizing/html/product/
 https://www.alternate.nl/Fractal-Design/North-midi-tower-behuizing/html/product/1858074
 ## Storage
 at least 2x 1tb
-main drive 2TB
+main drive 2TB pci 4
 ## Power supply
 
 enough
@@ -109,6 +112,8 @@ U2424HE or U2724DE or U2723QE
 2 usbc 
 and dp out
 
+a link form tweakers also points to u2722de
+https://tweakers.net/monitors/vergelijken/#filter:VYxBCsIwEEXv8texJHFsoAcQXLjqUlyUdsBI25QkFqH07iYoVVfDvP94C-w4s4_1zU0199xG60ZU0T9YwPmO_dFy36HC5O094ANr52NiTWg3MnF7St5Oiay2fLapIwVCGo62j-wDqgWKtMx3yDP0oZCpMDTP9ChJhcEqYEjr7MxNj-oCrUuJa-aKaONQRivCG5ffZPmXJJm-5Cja009SGaLcXNcX
 
 **sources**
 https://www.reddit.com/r/UsbCHardware/comments/mmpa20/monitor_with_multiple_usbc_inputs/

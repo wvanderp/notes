@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "recipies/stampot-peen-en-uien.md",
+                "file": "New pc.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "recipies/stampot-peen-en-uien.md",
+                "file": "New pc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "recipies/stampot-peen-en-uien.md",
+                "file": "New pc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "recipies/stampot-peen-en-uien.md"
+                "file": "New pc.md"
               }
             }
           }
@@ -149,6 +149,7 @@
   },
   "active": "6692ff7477b6e18b",
   "lastOpenFiles": [
+    "recipies/stampot-peen-en-uien.md",
     "projects/Project Archive/LTO-9.md",
     "Concerts/Rammstein 2022 stadium tour.md",
     "Concerts/APOCALYPSE  FOLLOW US WORLD TOUR.md",
@@ -184,7 +185,6 @@
     "Untitled 1.md",
     "Rowing.md",
     "nsi-notes.md",
-    "military-installations-netherlands.md",
     "template",
     "projects/digatising/images/name.png",
     "projects/digatising/images/IO.png",
