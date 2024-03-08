@@ -78,3 +78,9 @@ dus het is waarschijnlijk speer of gewrigts pijn. dit zou met 3 dagen over moete
 wel heb ik een uitdraai van mijn ekg gekergen. :)
 
 ![[EKG.jpg]]
+
+## 2024-03-08
+
+ik heb nogsteeds pijn in mijn schouder
+
+nu merk ik wel dat ik momenteel het slechteste pustuur ooit heb terwijl ik hier zit.

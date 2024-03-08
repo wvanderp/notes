@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "projects/Project Archive/LTO-9.md",
+                "file": "recipies/stampot-peen-en-uien.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "projects/Project Archive/LTO-9.md",
+                "file": "recipies/stampot-peen-en-uien.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "projects/Project Archive/LTO-9.md",
+                "file": "recipies/stampot-peen-en-uien.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "projects/Project Archive/LTO-9.md"
+                "file": "recipies/stampot-peen-en-uien.md"
               }
             }
           }
@@ -143,13 +143,20 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "random-note:Open random note": false
     }
   },
   "active": "6692ff7477b6e18b",
   "lastOpenFiles": [
-    "Personal/Medical.md",
     "projects/Project Archive/LTO-9.md",
+    "Concerts/Rammstein 2022 stadium tour.md",
+    "Concerts/APOCALYPSE  FOLLOW US WORLD TOUR.md",
+    "projects/gigapan/name.md",
+    "Concerts/FLOOR JANSEN + INGE LAMBOO.md",
+    "creative-vibes/Hacker film inspiration.md",
+    "Personal/Medical.md",
+    "PG.md",
     "projects/Project Archive",
     "New pc.md",
     "Personal/medical images/EKG.jpg",
@@ -174,16 +181,10 @@
     "scouting/scouting ideas.md",
     "food order reviews.md",
     "Two second Google searches without internet.md",
-    "PG.md",
     "Untitled 1.md",
     "Rowing.md",
     "nsi-notes.md",
     "military-installations-netherlands.md",
-    "Concerts/K-pop Super Live.md",
-    "free-ideas-worked-out/Popcorntime-with-DHT.md",
-    "yearly-theme/2024/theme.md",
-    "Gedachten over bedrijf.md",
-    "media-to-watch.md",
     "template",
     "projects/digatising/images/name.png",
     "projects/digatising/images/IO.png",

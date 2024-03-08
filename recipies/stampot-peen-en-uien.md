@@ -36,11 +36,9 @@ kook de **aardappels**, **hutspot mix**, en **zout** voor **15 minuten**
 ## Stap 3
 
 verhit tijdens het koken van de aardappels in een extra pan:
-
 - 100 ml melk
 - 2 el boter
 
 ## Stap 4
-
 stamp de aardappels, hutspot mix en de boter-melk mengsel fijn
 voeg zout en peper toe om het op smaak te brengen.
