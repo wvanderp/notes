@@ -6,8 +6,7 @@ tags: [health]
 
 # Medical
 
-Keywords: sick, zoek, health 
-
+Keywords: sick, ziek, health
 
 ## 2023-09-24
 
@@ -48,7 +47,7 @@ Ik heb dit een keer eerder gehad toen ik nog bij dept werkte. Het is toen over g
 
 Ik hoop dat het nu spierpijn is
 
-*Part 2*
+**Part 2**
 
 Ik bedenk me nu dat die tijd ook stressvol was op de zelfde manier als nu.
 
@@ -64,7 +63,7 @@ Ben naar de huis arts gegaan om 1020
 
 Daar heb ik uit gelegd en ze hebben een ekg gemaakte
 
-Om 1350 heb ik weer een afspraak 
+Om 1350 heb ik weer een afspraak
 
 Tijden het lopen is de pijn erger geworden dan zitten.
 Maar het kan ook zijn door bewegen.

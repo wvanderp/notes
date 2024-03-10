@@ -1,17 +1,17 @@
 # queries
 
-`Flevoland`
+`Friesland`
 
 ```markdown
-This is a project for [Provincie van de Maand - Flevoland](https://community.openstreetmap.org/t/provincie-van-de-maand-flevoland/108781/1)
+This is a project for [Provincie van de Maand - Friesland](https://community.openstreetmap.org/t/provincie-van-de-maand-friesland/109936/1)
 ```
 
-## Unmarked crossings
+## Friesland - Unmarked crossings
 
 ```overpassql
 [out:json][timeout:25];
 
-area(id:3600047407)->.searchArea;
+area(id:3611937050)->.searchArea;
 
 nwr["footway"="crossing"][!"crossing:markings"](area.searchArea);
 nwr["highway"="crossing"][!"crossing:markings"](area.searchArea);
@@ -40,12 +40,12 @@ In addition, you can look to mark how crossing is actually marked.
 looking at unmarked crossings
 ```
 
-## Roof without a layer
+## Friesland - Roof without a layer
 
 ```overpassql
 [out:json][timeout:25];
 
-area(id:3600047407)->.searchArea;
+area(id:3611937050)->.searchArea;
 
 nwr["building"="roof"][!"layer"](area.searchArea);
 
@@ -68,12 +68,12 @@ In addition, you can fix any additional errors reported by ID.
 Looking at roofs without layer tag
 ```
 
-## Geldmaat
+## Friesland - Geldmaat
 
 ```overpassql
 [out:json][timeout:25];
 
-area(id:3600047407)->.searchArea;
+area(id:3611937050)->.searchArea;
 
 nwr["amenity"="atm"]["operator:wikidata"!="Q74051230"](area.searchArea);
 
@@ -101,12 +101,12 @@ It can also happen that the atm is removed.
 Check on all Not Geldmaat ATMs
 ```
 
-## No wikidata for brand or opperator
+## Friesland - No wikidata for brand or operator
 
 ```overpassql
 [out:json]
 [timeout:25000];
-area(id:3600047407)->.searchArea;
+area(id:3611937050)->.searchArea;
 (
   node
     ["brand"]
@@ -153,4 +153,97 @@ If there is no Wikidata item for the brand, then you can mark the task as `no is
 
 ```markdown
 add wikidata to brands and operators
+```
+
+## Friesland - parking spaces with a weird capacity
+
+```overpassql
+[out:json][timeout:60];
+area(id:3611937050)->.searchArea;
+(
+  way["amenity"="parking_space"](area.searchArea)(if: number(t["capacity"]) > 1);
+  nwr["amenity"="parking_space"]["capacity"="0"](area.searchArea);
+  nwr["amenity"="parking_space"]["capacity"~"[a-zA-Z]"](area.searchArea);
+  nwr["amenity"="parking_space"][!"capacity"](area.searchArea);
+);
+out geom;
+```
+
+```markdown
+In this challenge, we look at parking spaces with a weird capacity.
+```
+
+```markdown
+Check on the parking spaces with a weird capacity
+
+- `capacity=0`
+- `capacity>1`
+- `capacity is not a number`
+- `capacity is not set`
+
+If necessary, split the parking space into multiple parking spaces with the correct capacity.
+or add a parking lot if the capacity is very high.
+```
+
+```markdown
+Check on the parking spaces with a weird capacity
+```
+
+## Friesland - Missing street names
+
+```overpassql
+[out:json][timeout:60];
+area(id:3611937050)->.searchArea;
+(
+  way[highway~"(residential|tertiary)"][!name][junction!=roundabout](area.searchArea);
+);
+out geom;
+```
+
+```markdown
+In this challenge, we look at missing street names.
+```
+
+```markdown
+In this challenge, we look at missing street names.
+
+Add the street name to the street.
+The street can be a continuation of a street that already has a name.
+Or look at Open streetview images, like Mapillary or KartaView, to see if the street has a sign.
+
+If you can't find the street name, then mark the task as `Could not complete`.
+If the street has no name, then think of applying the `noname=yes` tag.
+```
+
+```markdown
+Check on the missing street names
+```
+
+## Friesland - Ongoing construction
+
+```overpassql
+[out:json][timeout:60];
+area(id:3611937050)->.searchArea;
+(
+  way[building][construction](area.searchArea)(if: number(t["start_date"]) < 2022);
+);
+out geom;
+```
+
+```markdown
+In this challenge, we look at ongoing construction.
+```
+
+```markdown
+In this challenge, we look at ongoing construction.
+
+Check if the construction is still ongoing.
+
+If the construction is still ongoing, think of applying the `check_date` with the date of the source.
+
+If the construction is finished, then remove the `construction` tag and apply any appropriate tags.
+```
+
+```markdown
+Check on the ongoing construction
 ```
