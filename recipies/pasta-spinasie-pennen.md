@@ -1,6 +1,5 @@
 ---
-tags:
-  - recept
+tags: [recept]
 author: picnic
 ---
 
@@ -29,7 +28,7 @@ Orgineel van de picnic
 Kook **400 g** pasta volgens de aanwijzingen op de verpakking.
 Hou 4 eetlepels kookvocht achter.
 
-Picnic Penne: 9 tot 11 min met wat zout
+Picnic Penne: 9 tot 11 min met wat zout  
 Barilla Penne: 11 min met wat zout
 
 Hak **3 teentjes** knoflook fijn.
