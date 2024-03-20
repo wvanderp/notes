@@ -164,7 +164,6 @@ area(id:3611937050)->.searchArea;
   way["amenity"="parking_space"](area.searchArea)(if: number(t["capacity"]) > 1);
   nwr["amenity"="parking_space"]["capacity"="0"](area.searchArea);
   nwr["amenity"="parking_space"]["capacity"~"[a-zA-Z]"](area.searchArea);
-  nwr["amenity"="parking_space"][!"capacity"](area.searchArea);
 );
 out geom;
 ```
@@ -179,7 +178,6 @@ Check on the parking spaces with a weird capacity
 - `capacity=0`
 - `capacity>1`
 - `capacity is not a number`
-- `capacity is not set`
 
 If necessary, split the parking space into multiple parking spaces with the correct capacity.
 or add a parking lot if the capacity is very high.
@@ -195,7 +193,7 @@ Check on the parking spaces with a weird capacity
 [out:json][timeout:60];
 area(id:3611937050)->.searchArea;
 (
-  way[highway~"(residential|tertiary)"][!name][junction!=roundabout](area.searchArea);
+  way[highway~"(residential|tertiary)"][!name][junction!=roundabout][!"noname"](area.searchArea);
 );
 out geom;
 ```

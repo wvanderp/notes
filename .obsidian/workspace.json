@@ -13,13 +13,34 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New pc.md",
+                "file": "information-that-I-can-never-find.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "94920d9d8d2ebe74",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "technical-docs/software list/winget list.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4cf52d51d4dc9813",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New pc.md",
+                "file": "technical-docs/software list/winget list.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "New pc.md",
+                "file": "technical-docs/software list/winget list.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "New pc.md"
+                "file": "technical-docs/software list/winget list.md"
               }
             }
           }
@@ -147,8 +168,18 @@
       "random-note:Open random note": false
     }
   },
-  "active": "6692ff7477b6e18b",
+  "active": "94920d9d8d2ebe74",
   "lastOpenFiles": [
+    "New pc.md",
+    "technical-docs/software list/winget list.md",
+    "technical-docs/software list/Untitled",
+    "technical-docs/software list/file 1.json",
+    "technical-docs/software list/file.json",
+    "technical-docs/software list",
+    "projects/osm-province-of-the-month/queries.md",
+    "projects/osm-province-of-the-month/post.md",
+    "new information for the internet.md",
+    "information-that-I-can-never-find.md",
     "recipies/stampot-peen-en-uien.md",
     "projects/Project Archive/LTO-9.md",
     "Concerts/Rammstein 2022 stadium tour.md",
@@ -159,7 +190,6 @@
     "Personal/Medical.md",
     "PG.md",
     "projects/Project Archive",
-    "New pc.md",
     "Personal/medical images/EKG.jpg",
     "Personal/medical images",
     "template/Iscout Question.md",
@@ -180,18 +210,9 @@
     "my-favourite-copypastas.md",
     "gitlab-markdown-notes.md",
     "scouting/scouting ideas.md",
-    "food order reviews.md",
-    "Two second Google searches without internet.md",
-    "Untitled 1.md",
-    "Rowing.md",
-    "nsi-notes.md",
     "template",
     "projects/digatising/images/name.png",
     "projects/digatising/images/IO.png",
-    "projects/digatising/images",
-    "projects/digatising",
-    "Concerts",
-    "projects/osrs-map",
     "projects/osm-province-of-the-month/image.png",
     "projects/adsb-recever/image.png",
     "Untitled.canvas"

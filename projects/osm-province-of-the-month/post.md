@@ -22,6 +22,8 @@ Februari: 1205
 
 Hier zien we ook dubbel zoveel activiteit.
 
+
+
 Als laatste wil ik nog wat licht schijnen op mijn eigen projecten
 
 ```
@@ -31,12 +33,8 @@ Flevoland - Geldmaat
 Flevoland - No wikidata for brand or opperator
 ```
 
-ik heb mijn eigen petprojects ook weer opgezet en behalve het wikidata project zijn ze allemaal afgerond.
+zo als je kan zien heb ik een aantal niewe changes toe gevoed. 
+ik ben blij met de feedback die ik daar voor heb vervangen. niemand kan kalles welten over osm en ik heb twee foutjes gemaakt.
 
-nu was het wikidata project ook wel een beetje een onmogelijke opgave. Omdat er zoveel platsen nog geen wikidata tag hadden.
-of de operator of brand waren nog niet bij nsi bekend.
-
-Ik ben blij dat ik weer wat tijd heb kunnen steken in OSM en ik hoop dat ik volgende maand weer wat meer tijd heb om te besteden.
-(ookal weten we nu al dat ik ongeveer 10 dagen te laat ben)
 
 Tot in Friesland!
