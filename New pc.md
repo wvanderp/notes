@@ -3,19 +3,19 @@
 ⚠️	options but NOT decided 
 ❌	work needed
 
-| Component         | desisiion                     | done | description of work   |
-| ----------------- | ----------------------------- | ---- | --------------------- |
-| [[#CPU]]          | AMD Ryzen 7 7800X3D           | ✔️   |                       |
-| [[#GPU]]          | MSI GeForce RTX 4070 Ti SUPER | ✔️   |                       |
-| [[#RAM]]          | Corsair 64 GB DDR5-5600       | ✔️   |                       |
-| [[#Motherboard]]  | MSI B650 GAMING PLUS WIFI     | ✔️   |                       |
-| [[#Case]]         | Fractal Design North          | ✔️   |                       |
-| [[#Storage]]      | 2x SAMSUNG 980 PRO, 2 TB SSD  | ✔️   |                       |
-| [[#Power supply]] | Corsair RM850e                | ✔️   |                       |
-| [[#Cooling]]      | Corsair H100x                 | ✔️   |                       |
-| [[#OS]]           | windows 11                    | ✔️   | pro                   |
-| [[#Monitor]]      | DELL UltraSharp U2722DE       | ✔️   | choose specific model |
-| [[#Keyboard]]     |                               | ❌    | do all the research   |
+| Component         | desisiion                     | done | description of work |
+| ----------------- | ----------------------------- | ---- | ------------------- |
+| [[#CPU]]          | AMD Ryzen 7 7800X3D           | ✔️   |                     |
+| [[#GPU]]          | MSI GeForce RTX 4070 Ti SUPER | ✔️   |                     |
+| [[#RAM]]          | Corsair 64 GB DDR5-5600       | ✔️   |                     |
+| [[#Motherboard]]  | MSI B650 GAMING PLUS WIFI     | ✔️   |                     |
+| [[#Case]]         | Fractal Design North          | ✔️   |                     |
+| [[#Storage]]      | 2x SAMSUNG 980 PRO, 2 TB SSD  | ✔️   |                     |
+| [[#Power supply]] | Corsair RM850e                | ✔️   |                     |
+| [[#Cooling]]      | Corsair H100x                 | ✔️   |                     |
+| [[#OS]]           | windows 11                    | ✔️   |                     |
+| [[#Monitor]]      | DELL UltraSharp U2722DE       | ✔️   |                     |
+| [[#Keyboard]]     | Keychron K8P-H3               | ✔️   |                     |
 possible setups:
 
 https://pcpartpicker.com/list/hFgtbL: 3000$ +
