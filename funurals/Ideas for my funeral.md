@@ -1,6 +1,6 @@
 ---
 created: 2023-10-25T01:32:48+02:00
-modified: 2023-10-25T01:40:55+02:00
+modified: 2024-03-25T20:34:41+01:00
 ---
 
 # Ideas for my funeral
@@ -20,6 +20,8 @@ Sing a song with everyone.
 Put a little piece in the newspaper.
 
 I don't have a preference for burry or cremation, although I like the idea of the permanence of the grave. But cremation forces you to move on
+
+I like for everybody to bring a literal stick
 
 ### Music
 
