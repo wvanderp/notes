@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New pc.md",
+                "file": "technical-docs/config files/gitconfig.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New pc.md",
+                "file": "technical-docs/config files/gitconfig.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "New pc.md",
+                "file": "technical-docs/config files/gitconfig.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "New pc.md"
+                "file": "technical-docs/config files/gitconfig.md"
               }
             }
           }
@@ -162,14 +162,22 @@
   },
   "active": "d60954b8ab368a86",
   "lastOpenFiles": [
+    "New pc.md",
+    "technical-docs/config files/gitconfig.md",
+    "projects/Project person db.md",
+    "Personal/medical images/EKG.jpg",
+    "Personal/Medical.md",
+    "Personal/Historical likes.md",
+    "Personal/medical images",
+    "Personal/hayfever.md",
+    "Personal",
+    "technical-docs/config files/winget list.md",
+    "technical-docs/config files/file.json",
+    "technical-docs/config files",
+    "new information for the internet.md",
     "conflict-files-obsidian-git.md",
     "media-to-watch.md",
-    "technical-docs/software list/winget list.md",
-    "technical-docs/software list/file.json",
-    "technical-docs/software list",
-    "new information for the internet.md",
     "Medical/autism/books.md",
-    "New pc.md",
     "Medical/autism",
     "recipies/stampot-peen-en-uien.md",
     "projects/Project Archive/LTO-9.md",
@@ -195,16 +203,9 @@
     "Concerts.md",
     "Concerts/DragonForce & Amaranthe.md",
     "Concerts/AMARANTHE & BEYOND THE BLACK.md",
-    "Concerts/Alestorm - European Tour 2023.md",
-    "poems/The Choice I Made, Straight Up.md",
     "poems",
-    "my-favourite-copypastas.md",
-    "gitlab-markdown-notes.md",
-    "scouting/scouting ideas.md",
-    "template",
     "projects/digatising/images/name.png",
     "projects/digatising/images/IO.png",
-    "projects/digatising/images",
     "projects/osm-province-of-the-month/image.png",
     "projects/adsb-recever/image.png",
     "Untitled.canvas"
