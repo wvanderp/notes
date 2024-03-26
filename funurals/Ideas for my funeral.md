@@ -1,6 +1,6 @@
 ---
 created: 2023-10-25T01:32:48+02:00
-modified: 2024-03-25T20:34:41+01:00
+modified: 2024-03-26T19:30:23+01:00
 ---
 
 # Ideas for my funeral
@@ -29,6 +29,8 @@ frontliner & ellie - lose the style
 
 The fire was always burning
 <https://www.youtube.com/watch?v=JDQtXQmPCIY>
+
+Ramstein Sonne acoustic piano
 
 ## after the funeral
 
