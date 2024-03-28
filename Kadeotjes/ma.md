@@ -5,3 +5,8 @@ een 3d print van de Mazda
 
 2024-03-11 19:10
 Regen ton controleren
+
+2024-03-28 23:14
+Oplaad snoetjes voor ma met blokje
+Ze heeft er nu een. En sleep die van hot naar her.
+En verliest zelfs slaap omdat ze wakker moet worden om haar draadje te halen.
