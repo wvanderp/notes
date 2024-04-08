@@ -5,22 +5,17 @@ tags:
   - Kadeotjes
 ---
 
-# Kadeotjes voor wouter
+# Kadeotjes voor Wouter
 
 ## The Red Atlas - How the Soviet Union Secretly Mapped the World
 
 <https://www.bol.com/nl/nl/p/the-red-atlas-how-the-soviet-union-secretly-mapped-the-world/9200000075809904/>
 
-
-## rtx 4090
-
-or a rtx 4080 super
-
 ## een goede schuifmaat
 
 liefts digitaal met weinig error
 
-## een internet kabel kaart voor aan de muur
+## Een internet kabel kaart voor aan de muur
 
 https://shop.telegeography.com/products/2023-submarine-cable-map-free-shipping
 
@@ -33,3 +28,7 @@ Toetsenbord met ingebouwde trackpad
 https://flipperzero.one/
 
 ## FLIR ONE EDGE
+
+## pouch for my Keychron k6 pro
+
+something like https://www.keychron.com/products/keychron-travel-pouch

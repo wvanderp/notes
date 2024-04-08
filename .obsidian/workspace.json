@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "technical-docs/config files/gitconfig.md",
+                "file": "Kadeotjes/Kadeotjes voor Matthijs.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Look Me In The Eye",
+                "query": "food",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "technical-docs/config files/gitconfig.md",
+                "file": "Kadeotjes/Kadeotjes voor Matthijs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "technical-docs/config files/gitconfig.md",
+                "file": "Kadeotjes/Kadeotjes voor Matthijs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "technical-docs/config files/gitconfig.md"
+                "file": "Kadeotjes/Kadeotjes voor Matthijs.md"
               }
             }
           }
@@ -162,8 +162,21 @@
   },
   "active": "d60954b8ab368a86",
   "lastOpenFiles": [
-    "New pc.md",
+    "Kadeotjes/ma.md",
+    "Kadeotjes/Matthijs.md",
+    "Kadeotjes/Kadeotjes voor Matthijs.md",
+    "Kadeotjes/Kadeotjes voor ma.md",
+    "Kadeotjes/Kadeotjes voor Wouter.md",
+    "food order reviews.md",
+    "Concerts/K-pop Super Live.md",
+    "Concerts.md",
+    "technical-docs/config files/winget list.md",
+    "technical-docs/software list/winget list.md",
+    "technical-docs/software list/file.json",
+    "technical-docs/software list",
+    "funurals/Mas begevenis.md",
     "technical-docs/config files/gitconfig.md",
+    "New pc.md",
     "projects/Project person db.md",
     "Personal/medical images/EKG.jpg",
     "Personal/Medical.md",
@@ -171,7 +184,6 @@
     "Personal/medical images",
     "Personal/hayfever.md",
     "Personal",
-    "technical-docs/config files/winget list.md",
     "technical-docs/config files/file.json",
     "technical-docs/config files",
     "new information for the internet.md",
@@ -184,26 +196,14 @@
     "Concerts/Rammstein 2022 stadium tour.md",
     "Concerts/APOCALYPSE  FOLLOW US WORLD TOUR.md",
     "projects/gigapan/name.md",
-    "Concerts/FLOOR JANSEN + INGE LAMBOO.md",
-    "creative-vibes/Hacker film inspiration.md",
-    "Medical/Medical.md",
-    "PG.md",
     "projects/Project Archive",
     "Medical/medical images/EKG.jpg",
     "Medical/medical images",
-    "template/Iscout Question.md",
     "projects/Iscout Better source/images/oleaatAnswer-sd8907dg.jpg.jpg",
     "projects/Iscout Better source/images/oleaat.png.png",
     "projects/Iscout Better source/images/mostOfThis.jpg.jpg",
     "projects/Iscout Better source/images/batmap.png.png",
     "projects/Iscout Better source/images",
-    "projects/Iscout Better source/2016.md",
-    "projects/Iscout Better source",
-    "Encro obsidian.md",
-    "Concerts.md",
-    "Concerts/DragonForce & Amaranthe.md",
-    "Concerts/AMARANTHE & BEYOND THE BLACK.md",
-    "poems",
     "projects/digatising/images/name.png",
     "projects/digatising/images/IO.png",
     "projects/osm-province-of-the-month/image.png",
