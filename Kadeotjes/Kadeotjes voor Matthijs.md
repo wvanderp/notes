@@ -10,6 +10,6 @@ Colapsable sword 3d print
 
 Landkaart van hout om aan de muur te hangen
 
-een stofzuiger op batterijen
+~~een stofzuiger op batterijen~~
 
 Snelle panga om dat hij hoofdpijn krijgt al hij iets in zn perefirals ziet

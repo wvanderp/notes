@@ -6,6 +6,9 @@ dit was alleen vlees en het vlees maakte ook niet echt goed
 **Butter chicken**
 Dit vond ik wel heel lekker. dus waarschijnlijk bestel ik de meest basic indiase gerechten.
 
+**chicket tika masala**
+het was wel ok. maar de indise spak nam de overtoon
+
 ## currys kralingen
 
 **Kashmiri chicken**

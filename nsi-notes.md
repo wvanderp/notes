@@ -1,4 +1,4 @@
-
+name suggestion index
 # Possible improvements to the NSI data
 
 Berkman pompstation
@@ -17,7 +17,7 @@ Ambachtelijke Slagerij
 WAT
 
 brand=DAF
-shoudl work
+should work
 
 Daihatsu
 see what they want to do with the Japanese tag
@@ -37,3 +37,18 @@ operator=Gemeente Den Haag
 
 
 Handyman
+
+The Stone
+
+```
+    {
+      "displayName": "Odido ",
+      "locationSet": {"include": ["nl"]},
+      "tags": {
+        "brand": "Odido",
+        "brand:wikidata": "Q28406140",
+        "name": "Odido",
+        "shop": "mobile_phone"
+      }
+    },
+```
