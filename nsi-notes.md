@@ -41,14 +41,18 @@ Handyman
 The Stone
 
 ```
-    {
-      "displayName": "Odido ",
-      "locationSet": {"include": ["nl"]},
-      "tags": {
-        "brand": "Odido",
-        "brand:wikidata": "Q28406140",
-        "name": "Odido",
-        "shop": "mobile_phone"
-      }
-    },
+{
+	"displayName": "Odido ",
+	"locationSet": {"include": ["nl"]},
+	"tags": {
+		"brand": "Odido",
+		"brand:wikidata": "Q28406140",
+		"name": "Odido",
+		"shop": "mobile_phone"
+	}
+}
 ```
+
+PostNL parcel locker
+
+bubble post locker
