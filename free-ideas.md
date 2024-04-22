@@ -216,3 +216,16 @@ Examples include
 - visit the louvre
 
 The app will show you the best spots to complete the actions
+
+## LLM dyslexia benchmark
+
+Benchmarks helps moddels improve on certain areas. One of the mcould be helping people with dyslexia.
+
+Some of the tests could be.
+
+- check against spell check / Grammer check.
+  - because LLMs learn from the internet and they spelling is wrong
+- don't propagate spelling errors form the prompt into the respondent
+- don't use long words when asked
+- generate fluffy text with lot of space
+- use the LLM as a spell and Grammer checker
