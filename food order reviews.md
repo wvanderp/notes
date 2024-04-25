@@ -1,3 +1,5 @@
+# Afhaal eten
+
 ## Hello India (Indian food)
 
 **Hello mix grill (mild)**
@@ -18,3 +20,10 @@ was wel ok, maar misschien houd ik niet van de indise smaak
 
 **Roti spek**
 was wel ok. wel jammer van de boontjes.
+
+## eazie
+
+**Tasty teriyaki**
+De noedels zijn ok. Maar de bodem zit vol met groeten
+
+3/7
