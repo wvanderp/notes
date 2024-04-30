@@ -1,20 +1,20 @@
 ---
 created: 2023-09-18T00:04:44+02:00
 modified: 2023-10-07T01:55:40+02:00
-alias: things i can never find
+alias: things I can never find
 ---
 
-# information that I can never find
+# Information that I can never find
 
 This is a file for collecting information I'm always searching for, but can never find when I need it.
 
-## apple maps vs Google maps
+## Apple maps vs Google maps
 
 <https://www.justinobeirne.com/>
 
 In this blog, the author compares Apple Maps with Google Maps and documents each progression.
 
-## envelope encoding
+## Envelope encoding
 
 *keywords*: sorteercentrum, envelop, post, kik
 
@@ -44,7 +44,6 @@ the errors are the displayed on the site for us to solve
 
 <https://brouter.de/brouter/suspect_manager_help.html>
 
-
 ## CWO boeken
 
 Keywords: zeilboek, open source cwo boek, opensource
@@ -53,8 +52,8 @@ Een van de meest populaire boeken om cwo te leren is van de Katwijkse Zeeverkenn
 Deze zijn te vinden op de website van de Katwijkse Zeeverkenners. 
 <https://katwijksezeeverkenners.nl/cwo/instructieboeken/>
 
-er is ook een fysiek boek 
+Er is ook een fysiek boek 
 <https://www.scoutshop.nl/het-zeilboek>
 
-en een opensource boek geschreven door Scouting Sint Maarten 
+En een opensource boek geschreven door Scouting Sint Maarten 
 <https://github.com/ScoutingSintMaarten/Kielboot-Lesboeken>
