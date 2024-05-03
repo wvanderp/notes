@@ -109,7 +109,6 @@ I believe that it is possible to make an alternative based on wikidata.
 This has two advantages:
 
 First, it is an already existing dataset.
-
 Secondly, it is a fun way to contribute to wikidata through the wisdom of the crowd.
 
 Two disadvantages
@@ -166,7 +165,7 @@ This site has two parts: a landing page where you can enter the alert text and g
 
 The URL will be something like this: `wvanderp.github.io/alert-as-a-service?text=hello%20world`, generating an alert box with the text "hello world".
 
-## old time NTP servers
+## Old time NTP servers
 
 NTP servers are made to provide the most accurate time from the best sources like GPS and atomic clocks.
 
@@ -183,7 +182,7 @@ so the current ideas are:
 - a clock tower
 - a church bell
 
-## a art installation where we digitize the whole museum
+## A art installation where we digitize the whole museum
 
 We ask visitors to take pictures of the whole museum. Then, we stitch them together into a 3D model of the museum. Then, we can use this to create a virtual tour of the museum.
 
@@ -197,11 +196,11 @@ A life database that tracks everything about you. It's like a combination of Goo
 
 It tracks your location, media consumption, visited pages, sleep pattern, who you have met, heart rate, it's recording audio.
 
-It's like the ultimate survalance service but you are survaling yourself.
+It's like the ultimate surveillance service but you are survaling yourself.
 
 There should be room to add text like a journal for the day where the events can trigger stories like apples journaling apps
 
-## tourism collection log
+## Tourism collection log
 
 A list of the thing you have to visit and do to complete a area.
 
@@ -219,13 +218,13 @@ The app will show you the best spots to complete the actions
 
 ## LLM dyslexia benchmark
 
-Benchmarks helps moddels improve on certain areas. One of the mcould be helping people with dyslexia.
+Benchmarks helps models improve on certain areas. One of the could be helping people with dyslexia.
 
 Some of the tests could be.
 
-- check against spell check / Grammer check.
+- check against spell check / Grammar check.
   - because LLMs learn from the internet and they spelling is wrong
 - don't propagate spelling errors form the prompt into the respondent
 - don't use long words when asked
 - generate fluffy text with lot of space
-- use the LLM as a spell and Grammer checker
+- use the LLM as a spell and Grammar checker

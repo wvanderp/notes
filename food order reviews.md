@@ -1,4 +1,13 @@
+---
+aliases:
+  - takeout
+---
+
 # Afhaal eten
+
+ik kan mij vaak weinig herinneren over de verschildende dingen die ik heb afgehaald.
+dit maakt het moelijk om daarna te herinneren wat ik wel en niet moet bestellen.
+daarom heb ik hier een lijst met ongerbuikelijke bestellingen en wat ik er van vond.
 
 ## Hello India (Indian food)
 
@@ -27,3 +36,6 @@ was wel ok. wel jammer van de boontjes.
 De noedels zijn ok. Maar de bodem zit vol met groeten
 
 3/7
+
+**sate chicken**
+was een stuk beter. maar nog steets teveel groente voor mij

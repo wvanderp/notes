@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b55a4549b9b96df7",
+        "id": "5869c9ef027849ef",
         "type": "tabs",
         "children": [
           {
-            "id": "2068d8cf1b47c568",
+            "id": "5aef85b105d4bf32",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "projects/media-manager/Idea sources.md",
+                "file": "military-installations-netherlands.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "chicket",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "projects/media-manager/Idea sources.md",
+                "file": "military-installations-netherlands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "projects/media-manager/Idea sources.md",
+                "file": "military-installations-netherlands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "projects/media-manager/Idea sources.md"
+                "file": "military-installations-netherlands.md"
               }
             }
           }
@@ -147,41 +147,41 @@
       "random-note:Open random note": false
     }
   },
-  "active": "2068d8cf1b47c568",
+  "active": "5aef85b105d4bf32",
   "lastOpenFiles": [
-    "projects/media-manager/derivations.md",
+    "free-ideas-worked-out/Popcorntime-with-DHT.md",
+    "free-ideas.md",
+    "food order reviews.md",
+    "Two second Google searches without internet.md",
+    "Rowing.md",
+    "Pubquiz topics.md",
+    "PG.md",
+    "new information for the internet.md",
+    "my-favourite-copypastas.md",
+    "military-installations-netherlands.md",
+    "gitlab-markdown-notes.md",
+    "yearly-theme/2024/theme.md",
+    "Personal/Historical likes.md",
+    "Kadeotjes/Kadeotjes voor ma.md",
+    "Kadeotjes/Kadeotjes voor Matthijs.md",
+    "Kadeotjes/Kadeotjes voor wouter.md",
+    "Kadeotjes/ma.md",
+    "Kadeotjes/Matthijs.md",
     "projects/media-manager/Idea sources.md",
+    "projects/media-manager/derivations.md",
     "projects/media-manager/endpoints.md",
     "projects/media-manager/The dispatcher.md",
     "projects/media-manager/The idea.md",
     "projects/media-manager/The pack.md",
     "nsi-notes.md",
-    "new information for the internet.md",
-    "food order reviews.md",
-    "Kadeotjes/Kadeotjes voor Matthijs.md",
-    "Kadeotjes/ma.md",
-    "Kadeotjes/Matthijs.md",
-    "Kadeotjes/Kadeotjes voor ma.md",
     "Kadeotjes/Kadeotjes voor Wouter.md",
-    "Concerts/K-pop Super Live.md",
-    "Concerts.md",
-    "technical-docs/config files/winget list.md",
-    "technical-docs/software list/winget list.md",
     "technical-docs/software list/file.json",
     "technical-docs/software list",
-    "funurals/Mas begevenis.md",
-    "technical-docs/config files/gitconfig.md",
-    "New pc.md",
-    "projects/Project person db.md",
     "Personal/medical images/EKG.jpg",
-    "Personal/Medical.md",
-    "Personal/Historical likes.md",
     "Personal/medical images",
-    "Personal/hayfever.md",
     "Personal",
     "technical-docs/config files/file.json",
     "technical-docs/config files",
-    "conflict-files-obsidian-git.md",
     "Medical/autism",
     "projects/Project Archive",
     "Medical/medical images/EKG.jpg",
