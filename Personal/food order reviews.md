@@ -2,7 +2,7 @@
 aliases:
   - takeout
 ---
-
+``
 # Afhaal eten
 
 ik kan mij vaak weinig herinneren over de verschildende dingen die ik heb afgehaald.
@@ -15,9 +15,9 @@ daarom heb ik hier een lijst met ongerbuikelijke bestellingen en wat ik er van v
 dit was alleen vlees en het vlees maakte ook niet echt goed
 
 **Butter chicken**
-Dit vond ik wel heel lekker. dus waarschijnlijk bestel ik de meest basic indiase gerechten.
+Dit vond ik wel heel lekker. Dus waarschijnlijk bestel ik de meest basic indiase gerechten.
 
-**chicket tika masala**
+**chicken tika masala**
 het was wel ok. maar de indise spak nam de overtoon
 
 ## currys kralingen

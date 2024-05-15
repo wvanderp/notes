@@ -1,12 +1,12 @@
-# media I should watch
+# Media I should watch
 
 this is  a list of media I should watch. it does not include anything that is common or well known.
 
 see also trakt.tv for the full list of media I need to watch and that I have watched.
 
-## movies
+## Movies
 
-## tv shows
+## TV shows
 
 ### Romeinse tragedies
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "military-installations-netherlands.md",
+                "file": "projects/Project person db.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "military-installations-netherlands.md",
+                "file": "projects/Project person db.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "military-installations-netherlands.md",
+                "file": "projects/Project person db.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "military-installations-netherlands.md"
+                "file": "projects/Project person db.md"
               }
             }
           }
@@ -149,32 +149,36 @@
   },
   "active": "5aef85b105d4bf32",
   "lastOpenFiles": [
-    "free-ideas-worked-out/Popcorntime-with-DHT.md",
-    "free-ideas.md",
-    "food order reviews.md",
+    "Information/information-that-I-can-never-find.md",
+    "Job",
+    "technical-docs/gitlab-markdown-notes.md",
+    "gitlab-markdown-notes.md",
+    "technical-docs/config files/winget list.md",
+    "Information",
+    "technical-docs/config files/gitconfig.md",
+    "Concerts/Sabaton - The Tour To End All Tours 2022.md",
+    "Ideas",
+    "funurals/begravenis-van-oma.md",
+    "media-to-watch.md",
+    "Personal/Historical likes.md",
+    "Personal/Historical likes 1.md",
+    "Kadeotjes/Kadeotjes voor Matthijs.md",
+    "projects/osm-province-of-the-month/queries.md",
+    "Litrature/my-favourite-copypastas.md",
+    "Medical/Medical.md",
+    "Medical/medical images/EKG.jpg",
+    "Personal/food order reviews.md",
+    "Information/military-installations-netherlands.md",
+    "Ideas/free-ideas-worked-out/Popcorntime-with-DHT.md",
+    "Ideas/free-ideas.md",
     "Two second Google searches without internet.md",
     "Rowing.md",
     "Pubquiz topics.md",
-    "PG.md",
-    "new information for the internet.md",
+    "Job/PG.md",
+    "Information/new information for the internet.md",
     "my-favourite-copypastas.md",
-    "military-installations-netherlands.md",
-    "gitlab-markdown-notes.md",
     "yearly-theme/2024/theme.md",
-    "Personal/Historical likes.md",
     "Kadeotjes/Kadeotjes voor ma.md",
-    "Kadeotjes/Kadeotjes voor Matthijs.md",
-    "Kadeotjes/Kadeotjes voor wouter.md",
-    "Kadeotjes/ma.md",
-    "Kadeotjes/Matthijs.md",
-    "projects/media-manager/Idea sources.md",
-    "projects/media-manager/derivations.md",
-    "projects/media-manager/endpoints.md",
-    "projects/media-manager/The dispatcher.md",
-    "projects/media-manager/The idea.md",
-    "projects/media-manager/The pack.md",
-    "nsi-notes.md",
-    "Kadeotjes/Kadeotjes voor Wouter.md",
     "technical-docs/software list/file.json",
     "technical-docs/software list",
     "Personal/medical images/EKG.jpg",
@@ -183,14 +187,10 @@
     "technical-docs/config files/file.json",
     "technical-docs/config files",
     "Medical/autism",
-    "projects/Project Archive",
-    "Medical/medical images/EKG.jpg",
-    "Medical/medical images",
     "projects/Iscout Better source/images/oleaatAnswer-sd8907dg.jpg.jpg",
     "projects/Iscout Better source/images/oleaat.png.png",
     "projects/Iscout Better source/images/mostOfThis.jpg.jpg",
     "projects/Iscout Better source/images/batmap.png.png",
-    "projects/Iscout Better source/images",
     "projects/digatising/images/name.png",
     "projects/digatising/images/IO.png",
     "projects/osm-province-of-the-month/image.png",

@@ -20,7 +20,7 @@ In this blog, the author compares Apple Maps with Google Maps and documents each
 
 PostNL puts much stuff on its envelope when it processes it. I'm always looking for the sorting centers.
 
-There is a document that explains all [Codeerinformatie op de brief](./files/Codeerinformatie%20op%20de%20brief.pdf)
+There is a document that explains all [Codeerinformatie op de brief](Codeerinformatie%20op%20de%20brief.pdf)
 
 ## Where does time come from?
 
