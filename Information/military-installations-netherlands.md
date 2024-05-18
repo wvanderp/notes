@@ -7,7 +7,7 @@ All military installations can be found in the following law:
 
 This was previously [Regeling algemene regels ruimtelijke ordening](https://wetten.overheid.nl/BWBR0031018/2021-07-01) but got replaced by the new law.
 
-this new law does include machinereadble geomity for the bases so that nice
+this new law does include [machine-readable geometry](https://zoek.officielebekendmakingen.nl/dc-2019-141/1/html) for the bases so that nice
 
-the old law was been copied but the new law can be imported so I should look into that.
-OSM has been copying this document to their database and is currently at: Bijlage 1.33.
+The old law has been copied, but the new law can be imported, so I should look into that.
+OSM has copied this document to their database, which is currently at Bijlage 1.33.
