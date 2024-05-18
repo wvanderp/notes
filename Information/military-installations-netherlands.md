@@ -7,7 +7,13 @@ All military installations can be found in the following law:
 
 This was previously [Regeling algemene regels ruimtelijke ordening](https://wetten.overheid.nl/BWBR0031018/2021-07-01) but got replaced by the new law.
 
-this new law does include [machine-readable geometry](https://zoek.officielebekendmakingen.nl/dc-2019-141/1/html) for the bases so that nice
+This new law does include [machine-readable geometry](https://zoek.officielebekendmakingen.nl/dc-2019-141/1/html) for the bases so that nice
+The GML file is in the `Rijksdriehoekscoördinaten` projection, so use the following command to convert it. [Source](https://gis.stackexchange.com/questions/292769/ogr2ogr-reprojection-issues)
+
+```bash
+ogr2ogr -s_srs EPSG:28992 -t_srs EPSG:4326 -f "geojson" defensie.geojson dc-2019-141.gml
+```
+
 
 The old law has been copied, but the new law can be imported, so I should look into that.
 OSM has copied this document to their database, which is currently at Bijlage 1.33.
