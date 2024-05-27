@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5869c9ef027849ef",
+        "id": "4f26b5fb10041a4b",
         "type": "tabs",
         "children": [
           {
-            "id": "5aef85b105d4bf32",
+            "id": "7b78183e3f326590",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "projects/Project person db.md",
+                "file": "technical-docs/Keychron K6 pro via programming.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "projects/Project person db.md",
+                "file": "technical-docs/Keychron K6 pro via programming.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "projects/Project person db.md",
+                "file": "technical-docs/Keychron K6 pro via programming.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "projects/Project person db.md"
+                "file": "technical-docs/Keychron K6 pro via programming.md"
               }
             }
           }
@@ -147,8 +147,12 @@
       "random-note:Open random note": false
     }
   },
-  "active": "5aef85b105d4bf32",
+  "active": "7b78183e3f326590",
   "lastOpenFiles": [
+    "files/Pasted image 20240527111844.png",
+    "Information/airportCodes.md",
+    "technical-docs/Keychron K6 pro via programming.md",
+    "projects/Project person db.md",
     "Information/information-that-I-can-never-find.md",
     "Job",
     "technical-docs/gitlab-markdown-notes.md",
@@ -175,10 +179,6 @@
     "Rowing.md",
     "Pubquiz topics.md",
     "Job/PG.md",
-    "Information/new information for the internet.md",
-    "my-favourite-copypastas.md",
-    "yearly-theme/2024/theme.md",
-    "Kadeotjes/Kadeotjes voor ma.md",
     "technical-docs/software list/file.json",
     "technical-docs/software list",
     "Personal/medical images/EKG.jpg",
@@ -194,7 +194,6 @@
     "projects/digatising/images/name.png",
     "projects/digatising/images/IO.png",
     "projects/osm-province-of-the-month/image.png",
-    "projects/adsb-recever/image.png",
     "Untitled.canvas"
   ]
 }
