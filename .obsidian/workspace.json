@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/1 videos that describe my live perfectly.md",
+                "file": "technical-docs/config files/gitconfig.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/1 videos that describe my live perfectly.md",
+                "file": "technical-docs/config files/gitconfig.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/1 videos that describe my live perfectly.md",
+                "file": "technical-docs/config files/gitconfig.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/1 videos that describe my live perfectly.md"
+                "file": "technical-docs/config files/gitconfig.md"
               }
             }
           }
@@ -149,8 +149,8 @@
   },
   "active": "7b78183e3f326590",
   "lastOpenFiles": [
-    "technical-docs/Keychron K6 pro via programming.md",
     "Personal/1 videos that describe my live perfectly.md",
+    "technical-docs/Keychron K6 pro via programming.md",
     "files/Pasted image 20240527111844.png",
     "Information/airportCodes.md",
     "projects/Project person db.md",
