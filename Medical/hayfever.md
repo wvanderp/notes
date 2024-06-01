@@ -2,6 +2,11 @@
 tags:
   - health
 ---
+# Hay fever
+
+I suffer from a medium to severe case of hay fever. This means that I have a runny nose, itchy eyes, and a sore throat. This is a problem because it makes me less productive and less happy.
+
+I have tried a few things to combat this, and I will document them here.
 
 ## masks
 

@@ -2,7 +2,7 @@
 aliases:
   - takeout
 ---
-``
+
 # Afhaal eten
 
 ik kan mij vaak weinig herinneren over de verschildende dingen die ik heb afgehaald.

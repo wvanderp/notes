@@ -101,9 +101,10 @@ Zo ver bij zowel mij als mijn moeder bekend is er geen geschiedenis van alvleesk
 de dermatoloog heeft mij helemaal bekeken en een aantal plekken iets over gezegd
 
 Ik heb drie dermatofibromen.
+
 - rechter onderarm arm aan de binnenkant van de elleboog
 - linker onderarm net boven mijn pols
-- linker heup 
+- linker heup
 
 Op een na zagen al mijn moedervlekken er goed uit.
 die op mijn knie is niet kwaadaardig maar ziet er wel anders uit dan de anderen en daarom moet die er uit.
@@ -111,7 +112,3 @@ die op mijn knie is niet kwaadaardig maar ziet er wel anders uit dan de anderen 
 ik heb al eerder een foto gemaakt van die moedervlek en hij is niet echt veranderd sinds 2023.
 
 nu gaat hij er 15 augustus?? er uit.
-
-
-
-

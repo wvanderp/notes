@@ -14,6 +14,5 @@ The GML file is in the `Rijksdriehoekscoördinaten` projection, so use the follo
 ogr2ogr -s_srs EPSG:28992 -t_srs EPSG:4326 -f "geojson" defensie.geojson dc-2019-141.gml
 ```
 
-
 The old law has been copied, but the new law can be imported, so I should look into that.
 OSM has copied this document to their database, which is currently at Bijlage 1.33.

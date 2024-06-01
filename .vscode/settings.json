@@ -22,4 +22,7 @@
         "wikidata"
     ],
     "cSpell.language": "en,nl",
+    "search.exclude": {
+        "**/.obsidian": true
+    },
 }

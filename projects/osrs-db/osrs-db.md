@@ -5,53 +5,54 @@ tags:
 
 # OSRS DB
 
-osrs-db is a data collection project for Old School Runescape. the goal of the project is to create a low maintenance and machine readable database of all items, monsters, and other data in the game.
+osrs-db is a data collection project for Old School Runescape. The goal is to create a low-maintenance, machine-readable database of all items, monsters, and other data in the game.
 
-it should consist of two types of data:
+It should consist of two types of data:
 
-- static data: data that does not change over time, such as item names, item ids, etc.
+- Static data: data that does not change over time, such as item names and IDs.
 - dynamic data: data that changes over time, such as item prices, player stats, etc.
 
-personal note: you already have some code written for this its called `runegraph` there is also a potential repo at <https://github.com/wvanderp/runegraph>
-    there is also code in a folder called `osrs-db` currently not on github.
+**Personal note**: You already have some code written for this. It's called `runegraph`. There is also a potential repo at <https://github.com/wvanderp/runegraph>.
+
+There is also code in a folder called `osrs-db,` which is currently not on Git Hub.
 
 ## static data
 
-static data should be stored in the github repository in a machine readable format, such as json. this data should be updated whenever a new item is added to the game, or an existing item is changed.
+Static data should be stored in the GitHub repository in a machine-readable format, such as JSON. This data should be updated whenever a new item is added to the game or an existing item is changed.
 
-the source of the data should be multifaceted, and include:
+The source of the data should be multifaceted, and include:
 
 - the game's cache
 - runelite client
 - the osrs wiki
 - personal experience
 
-a specific example of static data is the navigation mesh for the game.
+A specific example of static data is the navigation mesh for the game.
 
 ## dynamic data
 
-dynamic data should be stored in a database. this data is automatically collected by a runelite plugin, and stored in a database.
-intreating data points include:
+Dynamic data should be stored in a database. A Runelite plugin automatically collects this data and stores it in a database.
+Intreating data points include:
 
 - player stats
 - gear setups
 - player locations
 
-a secondary goal for the dynamic data is to fact check the static data. for example, if the static data says that a certain item is only obtainable after a certain quest, but the dynamic data shows that a player has that item, then the static data is incorrect.
+A secondary goal for the dynamic data is to fact-check the static data. For example, suppose the static data says that a particular item is only obtainable after a specific quest, but the dynamic data shows that a player has that item. In that case, the static data is incorrect.
 
-### posable setup
+### possible setup
 
-the runelite plugin collects the data and sends it to a serverless function. that serverless function then stores the data in a database.
+The Runelite plugin collects the data and sends it to a serverless function, which stores it in a database.
 
-then there are workers that run the dynamic data against the static data, and update the static data if it is incorrect.
+Then, some workers run the dynamic data against the static data and update the static data if it is incorrect.
 
 ### side projects
 
-the data collected by the runelite plugin could be used to create a web app that shows intreating stats about the game.
+The data collected by the Runelite plugin could be used to create a web app that shows interesting stats about the game.
 
 for example,
 
 - the most popular gear setups
 - the most popular locations
-- average combat level of players in a certain area
+- average combat level of players in a particular area
 - most popular items per level
