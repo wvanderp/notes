@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blog posts/First person RTS.md",
+                "file": "technical-docs/Gether nsi targets.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blog posts/First person RTS.md",
+                "file": "technical-docs/Gether nsi targets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blog posts/First person RTS.md",
+                "file": "technical-docs/Gether nsi targets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blog posts/First person RTS.md"
+                "file": "technical-docs/Gether nsi targets.md"
               }
             }
           }
@@ -150,6 +150,7 @@
   "active": "f3fd22809cec0b1b",
   "lastOpenFiles": [
     "blog posts/First person RTS.md",
+    "technical-docs/Gether nsi targets.md",
     "blog posts/Popcorntime-with-DHT.md",
     "Ideas/free-ideas.md",
     "kpop-stars-tell-me-WHAT.md",
@@ -158,7 +159,7 @@
     "technical-docs/config files/gitconfig.md",
     "technical-docs/config files/winget list.md",
     "technical-docs/software list/winget list.md",
-    "recipies/pasta-spinasie-pennen.md",
+    "Recipies/pasta-spinasie-pennen.md",
     "projects/screen-reader/screen-reader.md",
     "projects/screen-reader",
     "emergency-kit.md",
@@ -180,7 +181,6 @@
     "Personal/Historical likes 1.md",
     "Kadeotjes/Kadeotjes voor Matthijs.md",
     "projects/osm-province-of-the-month/queries.md",
-    "Litrature/my-favourite-copypastas.md",
     "Medical/medical images/EKG.jpg",
     "technical-docs/software list/file.json",
     "technical-docs/software list",
