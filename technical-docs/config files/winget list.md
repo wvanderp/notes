@@ -11,4 +11,4 @@ and then you can re install it with
 winget import file.json
 ```
 
-and it just so happens that this repo contains my list of installed apps at [[file.json]]
+and it just so happens that this repo contains my list of installed apps at [[./file.json]]

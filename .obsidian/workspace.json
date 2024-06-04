@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4f26b5fb10041a4b",
+        "id": "98306feb78a08d00",
         "type": "tabs",
         "children": [
           {
-            "id": "7b78183e3f326590",
+            "id": "f3fd22809cec0b1b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "technical-docs/config files/gitconfig.md",
+                "file": "blog posts/First person RTS.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "technical-docs/config files/gitconfig.md",
+                "file": "blog posts/First person RTS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "technical-docs/config files/gitconfig.md",
+                "file": "blog posts/First person RTS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "technical-docs/config files/gitconfig.md"
+                "file": "blog posts/First person RTS.md"
               }
             }
           }
@@ -147,8 +147,21 @@
       "random-note:Open random note": false
     }
   },
-  "active": "7b78183e3f326590",
+  "active": "f3fd22809cec0b1b",
   "lastOpenFiles": [
+    "blog posts/First person RTS.md",
+    "blog posts/Popcorntime-with-DHT.md",
+    "Ideas/free-ideas.md",
+    "kpop-stars-tell-me-WHAT.md",
+    "blog posts",
+    "technical-docs/Google recorder to obsidian.md",
+    "technical-docs/config files/gitconfig.md",
+    "technical-docs/config files/winget list.md",
+    "technical-docs/software list/winget list.md",
+    "recipies/pasta-spinasie-pennen.md",
+    "projects/screen-reader/screen-reader.md",
+    "projects/screen-reader",
+    "emergency-kit.md",
     "Personal/1 videos that describe my live perfectly.md",
     "technical-docs/Keychron K6 pro via programming.md",
     "files/Pasted image 20240527111844.png",
@@ -158,9 +171,7 @@
     "Job",
     "technical-docs/gitlab-markdown-notes.md",
     "gitlab-markdown-notes.md",
-    "technical-docs/config files/winget list.md",
     "Information",
-    "technical-docs/config files/gitconfig.md",
     "Concerts/Sabaton - The Tour To End All Tours 2022.md",
     "Ideas",
     "funurals/begravenis-van-oma.md",
@@ -170,24 +181,13 @@
     "Kadeotjes/Kadeotjes voor Matthijs.md",
     "projects/osm-province-of-the-month/queries.md",
     "Litrature/my-favourite-copypastas.md",
-    "Medical/Medical.md",
     "Medical/medical images/EKG.jpg",
-    "Personal/food order reviews.md",
-    "Information/military-installations-netherlands.md",
-    "Ideas/free-ideas-worked-out/Popcorntime-with-DHT.md",
-    "Ideas/free-ideas.md",
-    "Two second Google searches without internet.md",
-    "Rowing.md",
-    "Pubquiz topics.md",
-    "Job/PG.md",
     "technical-docs/software list/file.json",
     "technical-docs/software list",
     "Personal/medical images/EKG.jpg",
     "Personal/medical images",
     "Personal",
     "technical-docs/config files/file.json",
-    "technical-docs/config files",
-    "Medical/autism",
     "projects/Iscout Better source/images/oleaatAnswer-sd8907dg.jpg.jpg",
     "projects/Iscout Better source/images/oleaat.png.png",
     "projects/Iscout Better source/images/mostOfThis.jpg.jpg",
