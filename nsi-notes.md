@@ -56,3 +56,11 @@ The Stone
 PostNL parcel locker
 
 bubble post locker
+
+alberthein to go
+
+depricate any atm other then geldmaat
+
+TotalEnergies Express
+
+OK express

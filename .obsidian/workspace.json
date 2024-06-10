@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Scouting/Scout stock game.md",
+                "file": "nsi-notes.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Scouting/Scout stock game.md",
+                "file": "nsi-notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Scouting/Scout stock game.md",
+                "file": "nsi-notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Scouting/Scout stock game.md"
+                "file": "nsi-notes.md"
               }
             }
           }
@@ -149,17 +149,14 @@
   },
   "active": "e923fa65cdbbf737",
   "lastOpenFiles": [
-    "Concerts.md",
-    "nsi-notes.md",
-    "media-to-watch.md",
-    "Scripts and Guides/Extract frames from videos.md",
-    "Scripts and Guides/Keychron K6 pro via programming.md",
-    "Scripts and Guides/Google recorder to obsidian.md",
-    "Scripts and Guides/Gether nsi targets.md",
-    "Scripts and Guides/find-hidden-drawio-files.md",
-    "Scripts and Guides/Downloading-from-instagram.md",
-    "Projects/osm-province-of-the-month/queries.md",
-    "emergency-kit.md",
+    "projects/osm-province-of-the-month/queries.md",
+    "technical-docs/Gether nsi targets.md",
+    "blog posts/First person RTS.md",
+    "blog posts/Popcorntime-with-DHT.md",
+    "Ideas/free-ideas.md",
+    "kpop-stars-tell-me-WHAT.md",
+    "blog posts",
+    "technical-docs/Google recorder to obsidian.md",
     "technical-docs/config files/gitconfig.md",
     "technical-docs/config files/winget list.md",
     "technical-docs/gitlab-markdown-notes.md",
@@ -185,6 +182,12 @@
     "Job",
     "Information",
     "Ideas",
+    "funurals/begravenis-van-oma.md",
+    "media-to-watch.md",
+    "Personal/Historical likes.md",
+    "Personal/Historical likes 1.md",
+    "Kadeotjes/Kadeotjes voor Matthijs.md",
+    "Medical/medical images/EKG.jpg",
     "technical-docs/software list/file.json",
     "Personal/medical images/EKG.jpg",
     "Medical/medical images/EKG.jpg",
