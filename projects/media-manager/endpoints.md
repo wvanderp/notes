@@ -1,6 +1,6 @@
 ---
 tags:
-  - media-manager
+  - Media-manager
 ---
 
 # Endpoints

@@ -78,7 +78,7 @@ all she wants to be is 멋짐. but what is 멋짐?
 
 > I love you, no matter what you say
 
-## jeon somi - birthday
+## JEON SOMI - BIRTHDAY
 
 <https://www.youtube.com/watch?v=9SRxBTtspYM>
 
@@ -95,7 +95,7 @@ all she wants to be is 멋짐. but what is 멋짐?
 > I'll be reborn as a new me
 
 <!-- markdownlint-disable MD026 -->
-## BTS - ugh!
+## BTS - UGH!
 
 <https://www.youtube.com/watch?v=2tDKdYtXqKw>
 

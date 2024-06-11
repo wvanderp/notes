@@ -1,3 +1,8 @@
+---
+tags:
+  - Guide
+---
+
 I like to record larger pieces of text with google recorder. but this text needs to be transcribed in to real text.
 
 Google recorder already does this but its a bit shit so in this article I will use Google Collab and OpenAI Whisper to fix this.

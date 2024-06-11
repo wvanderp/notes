@@ -1,6 +1,6 @@
 ---
 tags:
-  - concert
+  - Concert
 ---
 **Name**:: BABYMETAL UK & EU TOUR 2023
 **Date**:: 2023-12-03

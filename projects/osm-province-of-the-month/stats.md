@@ -4,7 +4,7 @@
 
 go to  <https://download.geofabrik.de/europe/netherlands.html> and select the provice of the month.
 
-![Alt text](image.png)
+![Alt text](Projects/osm-province-of-the-month/image.png)
 
 click on `raw directory index` to see older download files
 

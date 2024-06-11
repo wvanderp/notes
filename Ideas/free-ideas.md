@@ -16,7 +16,7 @@ The big problem with this idea is that preventing people from poisoning the data
 
 We can use a dht crawler to find the actual torrents and then use the blockchain to store the metadata of what torrent contains what.
 
-[worked out in "Recreating popcorn time using DHT and Proof of Seed"](Popcorntime-with-DHT)
+[worked out in "Recreating popcorn time using DHT and Proof of Seed"](Popcorntime-with-DHT.md)
 
 ## Blurry photo finder
 
@@ -56,39 +56,39 @@ A regular or speaking clock tells the time in a difficult way.
 
 Like:
 
-- ten past a quarter to two
+- Ten past a quarter to two
 - Four o'clock in London
 - The exact moment of death of Archduke Ferdinand
 - In thirty-five minutes till five past one
 - 4 minutes till the whole hour
 - 982 minutes since midnight
 - Just shy of two-thirds into the journey from sunrise to sunset.
-- the hands on the clock are pointing down
-- the time in another timezone
+- The hands on the clock are pointing down
+- The time in another timezone
 
 Another way is to show the time visually. Like:
 
-- a binary clock
-- hex clcok
-- a clock that shows the time in Roman numerals
-- a sundial
-- a clock that only contains half of the day
-- a clock that has the numbers in the wrong order
-- just the sun in the sky
-- procentage of the cock
-- ange of the hands
-- forain language
+- A binary clock
+- Hex clock
+- A clock that shows the time in Roman numerals
+- A sundial
+- A clock that only contains half of the day
+- A clock that has the numbers in the wrong order
+- Just the sun in the sky
+- Percentage of the cock
+- Ange of the hands
+- Foreign language
 
-- live of clock
-- Google streetview of clock 
-- links to songs 
-- analoge 24 hour clock 
+- Live of clock
+- Google Street view of a clock
+- Links to songs
+- Analog 24 hour clock
 
 ### Implementation
 
 We need a definition file to define the times and how to tell them. We can have functions that extend a time to include some time before or after it. Like `if it were 1945 now, it would be 5 minutes till the fat man was dropped on Nagasaki`.
 
-We also need a little linting program that checks the coverage of the clock. It should be possible to tell the time in every minute of the day and that we have a few options for each minute.
+We also need a little linting program that checks the clock coverage. It should be possible to tell the time in every minute of the day and that we have a few options for each minute.
 
 ## Picnic prediction integration
 
@@ -135,8 +135,8 @@ Are these instructions clear?
 
 This is the magic incantation to make chatgpt extract information from websites. Then, you pass all text from the website into chatgpt, which will spit out some useful information.
 
-There are only two problems with this:  
-chatgpt is mostly correct, but not always, so A human still needed to verify the address. (maybe nominatum can be used to check if it's even close.)  
+There are only two problems with this:  
+chatgpt is mostly correct, but not always, so a human must verify the address. (maybe nominatum can be used to check if it's even close.)  
 it is still not machine-readable, so a human still needs to be in the loop.
 
 Some minimal research concludes that it works on websites with limited text. But when the website includes a restaurant's history or a menu, chatgpt goes off on its own and just summarizes that. So, some more work in crafting the instructions is needed.
@@ -165,66 +165,66 @@ This site has two parts: a landing page where you can enter the alert text and g
 
 The URL will be something like this: `wvanderp.github.io/alert-as-a-service?text=hello%20world`, generating an alert box with the text "hello world".
 
-## Old time NTP servers
+## Old-time NTP servers
 
 NTP servers are made to provide the most accurate time from the best sources like GPS and atomic clocks.
 
 But wouldn't it be fun to turn your grandfather's clock into a ntp server? Or have a portable one based on a pocket watch.
 
-so the current ideas are:
+So the current ideas are:
 
-- grandfather clock
-- pocket watch
-- sundial
-- hourglass
-- water clock
-- candle clock
-- a clock tower
-- a church bell
+- Grandfather clock
+- Pocket watch
+- Sundial
+- Hourglass
+- Water clock
+- Candle clock
+- Clock tower
+- Church bell
 
-## A art installation where we digitize the whole museum
+## An art installation where we digitize the whole museum
 
-We ask visitors to take pictures of the whole museum. Then, we stitch them together into a 3D model of the museum. Then, we can use this to create a virtual tour of the museum.
+We ask visitors to take pictures of the whole museum. Then, we stitch them together into a 3D model of the museum. Then, we can use this to create a virtual museum tour.
 
-the fancy idea is: we create a virtual tour of the museum, so that the people that cant come to the museum can still visit my art installation.
+The fancy idea is to create a virtual tour of the museum so that the people who can't visit the museum can still see my art installation.
 
-the exhibition starts with a instructions on how to download the app and how to take pictures that are the most useful for photogrammetry. Then, we ask them to take pictures of the whole museum. Then, we stitch them together into a 3D model of the museum. and in a other room we have a VR headset where you can walk through the museum.
+The exhibition starts with instructions on downloading the app and taking pictures that are the most useful for photogrammetry. Then, we ask them to take photos of the whole museum. Then, we stitch them together into a 3D model of the museum. In another room, we have a VR headset that allows you to walk through the museum.
 
-## lifelog
+## Lifelog
 
-A life database that tracks everything about you. It's like a combination of Google timeline and google my activity
+A life database that tracks everything about you: it's like a combination of Google Timeline and Google My Activity.
 
-It tracks your location, media consumption, visited pages, sleep pattern, who you have met, heart rate, it's recording audio.
+It tracks your location, media consumption, visited pages, sleep pattern, whom you have met, and heart rate, and it's recording audio.
 
-It's like the ultimate surveillance service but you are survaling yourself.
+It's like the ultimate surveillance service, but you are surveilling yourself.
 
-There should be room to add text like a journal for the day where the events can trigger stories like apples journaling apps
+There should be room to add text like a journal for the day where the events can trigger stories like Apple's journaling apps.
 
 ## Tourism collection log
 
-A list of the thing you have to visit and do to complete a area.
+A list of what you must visit and do to complete an area.
 
-This would be a app where you either say where you are going and the app creates a log or just save the things you do.
+This would be an app where you either say where you are going, and the app creates a log, or save the things you do.
 
-The can be on a country scale or very local like a town.
+They can be on a country scale or very local, like a town.
 
 Examples include
 
-- hold the pizza tower
-- buy a 1$ slice in New York
-- visit the louvre
+- Hold up the leaning tower of Pisa
+- Buy a 1$ slice in New York
+- Visit the Louvre
 
-The app will show you the best spots to complete the actions
+The app will show you the best spots to complete the actions.
 
 ## LLM dyslexia benchmark
 
-Benchmarks helps models improve on certain areas. One of the could be helping people with dyslexia.
+Benchmarks help models improve in certain areas. One of the ways this could be done is by helping people with dyslexia.
 
 Some of the tests could be.
 
-- check against spell check / Grammar check.
-  - because LLMs learn from the internet and they spelling is wrong
-- don't propagate spelling errors form the prompt into the respondent
-- don't use long words when asked
-- generate fluffy text with lot of space
-- use the LLM as a spell and Grammar checker
+- Check against spell check / Grammar check.
+  - Because LLMs learn from the internet, and their spelling is wrong
+- Don't propagate spelling errors from the prompt to the response
+- Don't use long words when asked
+- Generate fluffy text with a lot of space
+- Use the LLM as a spell and Grammar checker

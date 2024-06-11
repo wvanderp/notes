@@ -1,6 +1,6 @@
 ---
 tags:
-  - health
+  - Health
 ---
 # Hay fever
 

@@ -4,18 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "98306feb78a08d00",
+        "id": "c0b49afbac022d18",
         "type": "tabs",
         "children": [
           {
-            "id": "f3fd22809cec0b1b",
+            "id": "e923fa65cdbbf737",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "technical-docs/Gether nsi targets.md",
+                "file": "Scouting/Scout stock game.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "chicket",
+                "query": "overpass",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "technical-docs/Gether nsi targets.md",
+                "file": "Scouting/Scout stock game.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "technical-docs/Gether nsi targets.md",
+                "file": "Scouting/Scout stock game.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "technical-docs/Gether nsi targets.md"
+                "file": "Scouting/Scout stock game.md"
               }
             }
           }
@@ -147,54 +147,54 @@
       "random-note:Open random note": false
     }
   },
-  "active": "f3fd22809cec0b1b",
+  "active": "e923fa65cdbbf737",
   "lastOpenFiles": [
-    "blog posts/First person RTS.md",
-    "technical-docs/Gether nsi targets.md",
-    "blog posts/Popcorntime-with-DHT.md",
-    "Ideas/free-ideas.md",
-    "kpop-stars-tell-me-WHAT.md",
-    "blog posts",
-    "technical-docs/Google recorder to obsidian.md",
+    "Concerts.md",
+    "nsi-notes.md",
+    "media-to-watch.md",
+    "Scripts and Guides/Extract frames from videos.md",
+    "Scripts and Guides/Keychron K6 pro via programming.md",
+    "Scripts and Guides/Google recorder to obsidian.md",
+    "Scripts and Guides/Gether nsi targets.md",
+    "Scripts and Guides/find-hidden-drawio-files.md",
+    "Scripts and Guides/Downloading-from-instagram.md",
+    "Projects/osm-province-of-the-month/queries.md",
+    "emergency-kit.md",
     "technical-docs/config files/gitconfig.md",
     "technical-docs/config files/winget list.md",
-    "technical-docs/software list/winget list.md",
-    "Recipies/pasta-spinasie-pennen.md",
-    "projects/screen-reader/screen-reader.md",
-    "projects/screen-reader",
-    "emergency-kit.md",
-    "Personal/1 videos that describe my live perfectly.md",
-    "technical-docs/Keychron K6 pro via programming.md",
-    "files/Pasted image 20240527111844.png",
-    "Information/airportCodes.md",
-    "projects/Project person db.md",
-    "Information/information-that-I-can-never-find.md",
-    "Job",
     "technical-docs/gitlab-markdown-notes.md",
-    "gitlab-markdown-notes.md",
+    "Scripts and Guides",
+    "Projects/media-manager/Idea sources.md",
+    "Projects/screen-reader/screen-reader.md",
+    "Projects/screen-reader",
+    "Projects/Nerdy Tourism/seoul.md",
+    "Projects/Nerdy Tourism/nerdy-tourist-attractions-in-the-netherlands.md",
+    "Projects/Nerdy Tourism/london.md",
+    "Projects/Nerdy Tourism/artical.wiki",
+    "Projects/Nerdy Tourism",
+    "files/Pasted image 20240527111844.png",
+    "Blog posts/Popcorntime-with-DHT.md",
+    "Blog posts/First person rts.md",
+    "Blog posts",
+    "Personal/food order reviews.md",
+    "Personal/1 videos that describe my live perfectly.md",
+    "Literature/The Choice I Made, Straight Up.md",
+    "Literature/my-favourite-copypastas.md",
+    "Literature",
+    "Job/PG.md",
+    "Job",
     "Information",
-    "Concerts/Sabaton - The Tour To End All Tours 2022.md",
     "Ideas",
-    "funurals/begravenis-van-oma.md",
-    "media-to-watch.md",
-    "Personal/Historical likes.md",
-    "Personal/Historical likes 1.md",
-    "Kadeotjes/Kadeotjes voor Matthijs.md",
-    "projects/osm-province-of-the-month/queries.md",
-    "Medical/medical images/EKG.jpg",
     "technical-docs/software list/file.json",
-    "technical-docs/software list",
     "Personal/medical images/EKG.jpg",
-    "Personal/medical images",
-    "Personal",
-    "technical-docs/config files/file.json",
-    "projects/Iscout Better source/images/oleaatAnswer-sd8907dg.jpg.jpg",
-    "projects/Iscout Better source/images/oleaat.png.png",
-    "projects/Iscout Better source/images/mostOfThis.jpg.jpg",
-    "projects/Iscout Better source/images/batmap.png.png",
-    "projects/digatising/images/name.png",
-    "projects/digatising/images/IO.png",
-    "projects/osm-province-of-the-month/image.png",
+    "Medical/medical images/EKG.jpg",
+    "Projects/Iscout Better source/images/oleaatAnswer-sd8907dg.jpg.jpg",
+    "Projects/Iscout Better source/images/oleaat.png.png",
+    "Projects/Iscout Better source/images/mostOfThis.jpg.jpg",
+    "Projects/Iscout Better source/images/batmap.png.png",
+    "Projects/digatising/images/name.png",
+    "Projects/digatising/images/IO.png",
+    "Projects/osm-province-of-the-month/image.png",
     "Untitled.canvas"
   ]
 }

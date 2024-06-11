@@ -1,3 +1,8 @@
+---
+tags:
+  - Guide
+---
+
 # Downloading from Instagram: The weird way
 
 if you know what you want to download then you can just use [gallery-dl](https://github.com/mikf/gallery-dl) to download it. you can even do a [Instagram takeout](https://help.instagram.com/181231772500920) to get all your followed accounts and then download them all at once.

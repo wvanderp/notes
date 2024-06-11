@@ -2,10 +2,10 @@
 created: 2023-09-25T01:35:32+02:00
 modified: 2024-03-07T13:49:31+01:00
 tags:
-  - health
+  - Health
 aliases:
-  - health
-  - gezondheid
+  - Health
+  - Gezondheid
 ---
 
 # Medical
@@ -30,7 +30,7 @@ The coughing is mostly gone. The sleep problems persist.
 ## 2024-01-04/07 trough 2024-01-10/14
 
 Coughing with slime in lungs
-Possible [[covid]] scare but tested negative
+Possible [[COVID-19]] scare but tested negative
 
 ## 2024-02-15
 
@@ -102,9 +102,9 @@ de dermatoloog heeft mij helemaal bekeken en een aantal plekken iets over gezegd
 
 Ik heb drie dermatofibromen.
 
-- rechter onderarm arm aan de binnenkant van de elleboog
-- linker onderarm net boven mijn pols
-- linker heup
+- Rechter onderarm arm aan de binnenkant van de elleboog
+- Linker onderarm net boven mijn pols
+- Linker heup
 
 Op een na zagen al mijn moedervlekken er goed uit.
 die op mijn knie is niet kwaadaardig maar ziet er wel anders uit dan de anderen en daarom moet die er uit.

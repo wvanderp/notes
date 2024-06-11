@@ -1,5 +1,6 @@
 ---
-tags: [recept]
+tags:
+  - Recept
 author: picnic
 ---
 
@@ -50,11 +51,11 @@ Breng op smaak met zout en peper.
 voeg het volgende toe
 
 - **200 g** crème fraîche
-- het achtergehouden kookvocht
-- en de spekreepjes
-- eventueel nog meer zwarte peper
+- Het achtergehouden kookvocht
+- En de spekreepjes
+- Eventueel nog meer zwarte peper
 - 20 g geraspte Italiaanse kaas
-- de  voorgekookte pasta
+- De  voorgekookte pasta
 
 laat het geheel nog **1 minute** door koken
 

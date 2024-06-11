@@ -1,6 +1,6 @@
 ---
 tags:
-  - concert
+  - Concert
 ---
 **Name**:: DragonForce & Amaranthe
 **Date**:: 2024-02-25

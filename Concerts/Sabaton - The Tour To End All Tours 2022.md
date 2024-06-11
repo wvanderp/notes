@@ -1,6 +1,6 @@
 ---
 tags:
-  - concert
+  - Concert
 ---
 **Name**::  Sabaton - The Tour To End All Tours 2022
 **Date**:: 2023-05-03

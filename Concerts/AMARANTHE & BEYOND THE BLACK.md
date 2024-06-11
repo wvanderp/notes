@@ -1,6 +1,6 @@
 ---
 tags:
-  - concert
+  - Concert
 ---
 **Name**:: AMARANTHE & BEYOND THE BLACK
 **Date**:: 2022-11-06

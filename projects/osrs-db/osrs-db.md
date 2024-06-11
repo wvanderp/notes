@@ -1,6 +1,6 @@
 ---
 tags:
-  - osrs
+  - Osrs
 ---
 
 # OSRS DB
@@ -10,7 +10,7 @@ osrs-db is a data collection project for Old School Runescape. The goal is to cr
 It should consist of two types of data:
 
 - Static data: data that does not change over time, such as item names and IDs.
-- dynamic data: data that changes over time, such as item prices, player stats, etc.
+- Dynamic data: data that changes over time, such as item prices, player stats, etc.
 
 **Personal note**: You already have some code written for this. It's called `runegraph`. There is also a potential repo at <https://github.com/wvanderp/runegraph>.
 
@@ -22,10 +22,10 @@ Static data should be stored in the GitHub repository in a machine-readable form
 
 The source of the data should be multifaceted, and include:
 
-- the game's cache
-- runelite client
-- the osrs wiki
-- personal experience
+- The game's cache
+- Runelite client
+- The osrs wiki
+- Personal experience
 
 A specific example of static data is the navigation mesh for the game.
 
@@ -34,9 +34,9 @@ A specific example of static data is the navigation mesh for the game.
 Dynamic data should be stored in a database. A Runelite plugin automatically collects this data and stores it in a database.
 Intreating data points include:
 
-- player stats
-- gear setups
-- player locations
+- Player stats
+- Gear setups
+- Player locations
 
 A secondary goal for the dynamic data is to fact-check the static data. For example, suppose the static data says that a particular item is only obtainable after a specific quest, but the dynamic data shows that a player has that item. In that case, the static data is incorrect.
 
@@ -52,7 +52,7 @@ The data collected by the Runelite plugin could be used to create a web app that
 
 for example,
 
-- the most popular gear setups
-- the most popular locations
-- average combat level of players in a particular area
-- most popular items per level
+- The most popular gear setups
+- The most popular locations
+- Average combat level of players in a particular area
+- Most popular items per level

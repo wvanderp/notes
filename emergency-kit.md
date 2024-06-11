@@ -4,17 +4,17 @@ When a societal glitch occurs, the importance of having an emergency kit to sust
 
 This list is aimed at a family of 3 in the Netherlands.
 
-It's essential that the kit is stored in a place that is easy to reach and carry. Regular checks, every six months, are necessary to ensure that everything is still in working order. This proactive approach will keep you prepared for any unforeseen circumstances.
+The kit must be stored in a place that is easy to reach and carry. Regular six-month checks are necessary to ensure everything is in working order. This proactive approach will keep you prepared for any unforeseen circumstances.
 
 These societal glitches, which we must be prepared for, could disrupt our daily lives in various ways:
 
-- power outage
-- water outage
-- food shortage
-- gas outage
+- Power outage
+- Water outage
+- Food shortage
+- Gas outage
 - Internet outage
-- phone outage
-- etc.
+- Phone outage
+- Etc.
 
 The duration of the glitch could be anything from a few hours to a few weeks. However, we should aim for ten days.
 
@@ -26,8 +26,8 @@ The kit should include:
 - Food
   - 2000 kcal per person per day
   - 1 hot meal per day
-  - utensils
-  - gas stove
+  - Utensils
+  - Gas stove
 - Radio
   - Battery powered
   - Solar powered
@@ -35,45 +35,45 @@ The kit should include:
   - Flashlight
   - Candles
   - Waterproof matches
-- first aid kit
+- First aid kit
   - Medication
   - Bandages
   - Scissors
-  - clotting bandages
-  - tourniquet
+  - Clotting bandages
+  - Tourniquet
   - Disinfectant
-  - extra glasses
+  - Extra glasses
 - Blankets
-- whistle
-- cash
-- tools
-  - knife
-  - can opener
-  - pliers
-  - screwdriver
-  - hammer
-  - duct tape
-  - tarps
-  - rope
-- hygiene
-  - disinfectant
-  - toilet paper
-  - wet wipes
-  - menstrual products
-  - toothbrush and toothpaste
-- important documents
-  - a copy of your passport or ID
-  - list of important phone numbers
-- extra keys for your house and car
+- Whistle
+- Cash
+- Tools
+  - Knife
+  - Can opener
+  - Pliers
+  - Screwdriver
+  - Hammer
+  - Duct tape
+  - Tarps
+  - Rope
+- Hygiene
+  - Disinfectant
+  - Toilet paper
+  - Wet wipes
+  - Menstrual products
+  - Toothbrush and toothpaste
+- Important documents
+  - A copy of your passport or ID
+  - List of important phone numbers
+- Extra keys for your house and car
 - Electronics
-  - power bank
-  - cables
-  - batteries
-- information
-  - map of the area
-  - books with information about survival
-  - list of emergency numbers
-  - list of emergency frequencies
+  - Power bank
+  - Cables
+  - Batteries
+- Information
+  - Map of the area
+  - Books with information about survival
+  - List of emergency numbers
+  - List of emergency frequencies
 
 ## Sources
 

@@ -2,8 +2,8 @@
 
 This theme exists in two parts:
 
-- being more egotistical in my life (in a good way)
-- working on myself
+- Being more egotistical in my life (in a good way)
+- Working on myself
 
 I always give a lot and expect little in return. This year, I want to express my needs and get them met.
 
@@ -25,7 +25,7 @@ So it's eighter swimming on Wednesday night or early in the morning.
 
 ## dairies
 
-### **2023-12-22 frighday before Christmas**
+### **2023-12-22 Friday before Christmas**
 
 I talked at work about not feeling great, and they are sending me to a performance coach. Hopefully, this is a significant first step on my new theme.
 

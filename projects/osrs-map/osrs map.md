@@ -1,6 +1,6 @@
 ---
 tags:
-  - osrs
+  - Osrs
 ---
 
 # OSRS Map
@@ -9,10 +9,10 @@ The idea here is to recreate the map view from old school runescape from scratch
 
 the steps are:
 
-- parse the osrs cache to get the map and position of entities
-- render the base map
-- find the add the positions of the entries to the map
-- make a web app to show it
+- Parse the osrs cache to get the map and position of entities
+- Render the base map
+- Find the add the positions of the entries to the map
+- Make a web app to show it
 
 ## Current problems
 

@@ -1,6 +1,6 @@
 ---
 aliases:
-  - takeout
+  - Takeout
 ---
 
 # Afhaal eten

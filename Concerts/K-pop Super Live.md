@@ -1,6 +1,6 @@
 ---
 tags:
-  - concert
+  - Concert
 ---
 **Name**:: K-pop Super Live
 **Date**:: 2023-08-11

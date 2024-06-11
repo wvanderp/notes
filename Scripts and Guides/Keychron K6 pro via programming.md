@@ -1,3 +1,7 @@
+---
+tags:
+  - Guide
+---
 
 programming is done via the [via app](https://usevia.app/)
 

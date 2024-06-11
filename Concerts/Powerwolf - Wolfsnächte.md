@@ -1,6 +1,6 @@
 ---
 tags:
-  - concert
+  - Concert
 ---
 **Name**:: Powerwolf - Wolfsnächte
 **Date**:: 2022-12-01

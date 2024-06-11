@@ -10,18 +10,18 @@ my solution consists of two parts:
 The following extraction methods are possible:
 
 - OCR
-  - both on the entire screen and on specific areas
-- pattern matching
-- color sampling
-- scene change detection
-  - for example when a stream has an ad break or to detect in what phase the game is in
-- audio analysis
-  - for example to detect when a player is talking
-  - or looking for audio cues
-- determining the average color of a specific area
-  - for example to see where the most action is happening by parsing the minimap
-- measuring the "length" of a specific color
-  - for example to extract the health bar of a player
+  - Both on the entire screen and on specific areas
+- Pattern matching
+- Color sampling
+- Scene change detection
+  - For example when a stream has an ad break or to detect in what phase the game is in
+- Audio analysis
+  - For example to detect when a player is talking
+  - Or looking for audio cues
+- Determining the average color of a specific area
+  - For example to see where the most action is happening by parsing the minimap
+- Measuring the "length" of a specific color
+  - For example to extract the health bar of a player
 
 The web app should have a preview of the video and the capture areas. It should also have a way to define the extraction settings.
 The web app then exports the settings to json, which can be used by the cli tool.

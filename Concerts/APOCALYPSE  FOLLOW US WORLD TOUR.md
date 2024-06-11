@@ -1,6 +1,6 @@
 ---
 tags:
-  - concert
+  - Concert
 ---
 **Name**:: \[APOCALYPSE : FOLLOW US] WORLD TOUR
 **Date**:: 2022-11-17

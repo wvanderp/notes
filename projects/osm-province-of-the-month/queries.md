@@ -6,12 +6,12 @@
 This is a project for [Provincie van de Maand - Friesland](https://community.openstreetmap.org/t/provincie-van-de-maand-friesland/109936/1)
 ```
 
-## Friesland - Unmarked crossings
+## Netherlands - Unmarked crossings
 
 ```overpassql
 [out:json][timeout:25];
 
-area(id:3611937050)->.searchArea;
+area(id:3600047796)->.searchArea;
 
 nwr["footway"="crossing"][!"crossing:markings"](area.searchArea);
 nwr["highway"="crossing"][!"crossing:markings"](area.searchArea);
@@ -40,12 +40,12 @@ In addition, you can look to mark how crossing is actually marked.
 looking at unmarked crossings
 ```
 
-## Friesland - Roof without a layer
+## Netherlands - Roof without a layer
 
 ```overpassql
 [out:json][timeout:25];
 
-area(id:3611937050)->.searchArea;
+area(id:3600047796)->.searchArea;
 
 nwr["building"="roof"][!"layer"](area.searchArea);
 
@@ -68,12 +68,12 @@ In addition, you can fix any additional errors reported by ID.
 Looking at roofs without layer tag
 ```
 
-## Friesland - Geldmaat
+## Netherlands - Geldmaat
 
 ```overpassql
 [out:json][timeout:25];
 
-area(id:3611937050)->.searchArea;
+area(id:3600047796)->.searchArea;
 
 nwr["amenity"="atm"]["operator:wikidata"!="Q74051230"](area.searchArea);
 
@@ -101,12 +101,12 @@ It can also happen that the atm is removed.
 Check on all Not Geldmaat ATMs
 ```
 
-## Friesland - No wikidata for brand or operator
+## Netherlands - No wikidata for brand or operator
 
 ```overpassql
 [out:json]
 [timeout:25000];
-area(id:3611937050)->.searchArea;
+area(id:3600047796)->.searchArea;
 (
   node
     ["brand"]
@@ -155,11 +155,11 @@ If there is no Wikidata item for the brand, then you can mark the task as `no is
 add wikidata to brands and operators
 ```
 
-## Friesland - parking spaces with a weird capacity
+## Netherlands - parking spaces with a weird capacity
 
 ```overpassql
 [out:json][timeout:60];
-area(id:3611937050)->.searchArea;
+area(id:3600047796)->.searchArea;
 (
   way["amenity"="parking_space"](area.searchArea)(if: number(t["capacity"]) > 1);
   nwr["amenity"="parking_space"]["capacity"="0"](area.searchArea);
@@ -187,11 +187,11 @@ or add a parking lot if the capacity is very high.
 Check on the parking spaces with a weird capacity
 ```
 
-## Friesland - Missing street names
+## Netherlands - Missing street names
 
 ```overpassql
 [out:json][timeout:60];
-area(id:3611937050)->.searchArea;
+area(id:3600047796)->.searchArea;
 (
   way[highway~"(residential|tertiary)"][!name][junction!=roundabout][!"noname"](area.searchArea);
 );
@@ -217,11 +217,11 @@ If the street has no name, then think of applying the `noname=yes` tag.
 Check on the missing street names
 ```
 
-## Friesland - Ongoing construction
+## Netherlands - Ongoing construction
 
 ```overpassql
 [out:json][timeout:60];
-area(id:3611937050)->.searchArea;
+area(id:3600047796)->.searchArea;
 (
   way[building][construction](area.searchArea)(if: number(t["start_date"]) < 2022);
 );
@@ -244,4 +244,36 @@ If the construction is finished, then remove the `construction` tag and apply an
 
 ```markdown
 Check on the ongoing construction
+```
+
+## Netherlands - Charger missing operator wikidata tag
+
+```overpassql
+[out:json][timeout:25];
+
+area(id:3600047796)->.searchArea;
+
+nwr["amenity"="charging_station"]["operator"][!"operator:wikidata"](area.searchArea);
+
+out meta geom;
+```
+
+```markdown
+In this challenge, we look at chargers without an operator wikidata tag.
+```
+
+```markdown
+In this challenge, we look at chargers without an operator wikidata tag.
+
+Use ID to check on the charger and make the recommended changes.
+
+In addition, you can fix any additional errors reported by ID.
+
+If the operator does not exist in the name suggestion index, then it will not show in the ID.
+
+If there is no Wikidata item for the operator, then you can mark the task as `no issue`.
+```
+
+```markdown
+Check on the chargers without an operator wikidata tag
 ```

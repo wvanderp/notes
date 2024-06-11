@@ -25,14 +25,16 @@ I like for everybody to bring a literal stick
 
 ### Music
 
-frontliner & ellie - lose the style
+Frontliner feat. Ellie - Lose The Style
 
+Adrenalize - Forest Interlude
 The fire was always burning
 <https://www.youtube.com/watch?v=JDQtXQmPCIY>
 
-Ramstein Sonne acoustic piano
+Rammstein - Sonne (acoustic)
+<https://www.youtube.com/watch?v=oIhoUAqxSxw>
 
-## after the funeral
+## After the funeral
 
 Give away my stuff to people who need it. I consider most of my stuff tools and tools need to be used,
 

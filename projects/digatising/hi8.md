@@ -14,8 +14,8 @@ we hebben de originele camcorder nog dus misschien kan die nog gebruikt worden o
 
 Canon UC9HI
 
-![the name of the camcorder](images/name.png)
-![the IO of the camcorder](images/IO.png)
+![the name of the camcorder](name.png)
+![the IO of the camcorder](IO.png)
 
 ## andere camcorder met TBC
 

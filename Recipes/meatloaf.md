@@ -1,6 +1,6 @@
 ---
 tags:
-  - recept
+  - Recept
 author: Eten met Nick
 ---
 # Meatloaf
@@ -19,7 +19,7 @@ Ingrediënten Meatloaf:
 - 3 teentje knoflook (gehakt)
 - 1 el Worchestershire saus
 - 2 tl zout (naar smaak)
-- handje gehakte peterselie
+- Handje gehakte peterselie
 - 30 x draaien met de pepermolen
 - 1 el gerookte paprikapoeder
 - 150 gr cheddar (geraspt)
@@ -45,7 +45,7 @@ gooi het volgende in een bak:
 - **30 x draaien met de pepermolen** peper
 - **1 el** gerookte paprikapoeder
 - **150 gram** cheddar
-- gebakken ui en knoflook
+- Gebakken ui en knoflook
 
 kneed alle ingrediënten goed door elkaar.
 

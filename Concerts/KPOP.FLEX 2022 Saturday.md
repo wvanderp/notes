@@ -1,6 +1,6 @@
 ---
 tags:
-  - concert
+  - Concert
 ---
 **Name**:: KPOP.FLEX 2022 Saturday
 **Date**:: 2022-05-14

@@ -1,6 +1,6 @@
 ---
 tags:
-  - concert
+  - Concert
 ---
 **Name**:: FLOOR JANSEN + INGE LAMBOO
 **Date**:: 2023-04-12

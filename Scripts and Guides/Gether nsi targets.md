@@ -1,3 +1,8 @@
+---
+tags:
+  - Guide
+---
+
 run a overpass query like so:
 
 ```overpass
@@ -8,4 +13,4 @@ nwr["amenity"="charging_station"](area.searchArea);
 out body;
 ```
 
-you will get a csv file witch can be opend in excel and analysed
+you will get a csv file witch can be opened in excel and analysed

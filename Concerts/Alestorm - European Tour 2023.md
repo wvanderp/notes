@@ -1,6 +1,6 @@
 ---
 tags:
-  - concert
+  - Concert
 ---
 **Name**:: Alestorm - European Tour 2023
 **Date**:: 
