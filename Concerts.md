@@ -1,3 +1,11 @@
+---
+tags:
+  - concert
+---
+To add new conecrts to this list add a new conecrt note to the concerts forlder
+use the following template: [[Concert]]
+
+---
 
 ```dataview
 TABLE

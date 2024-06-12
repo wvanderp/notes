@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nsi-notes.md",
+                "file": "Concerts/Sabaton - The Tour To End All Tours 2022.md",
                 "mode": "source",
                 "source": true
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "overpass",
+                "query": "baby",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nsi-notes.md",
+                "file": "Concerts/Sabaton - The Tour To End All Tours 2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "nsi-notes.md",
+                "file": "Concerts/Sabaton - The Tour To End All Tours 2022.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "nsi-notes.md"
+                "file": "Concerts/Sabaton - The Tour To End All Tours 2022.md"
               }
             }
           }
@@ -149,6 +149,21 @@
   },
   "active": "e923fa65cdbbf737",
   "lastOpenFiles": [
+    "Concerts/Rammstein 2022 stadium tour.md",
+    "Concerts/Powerwolf - Wolfsnächte.md",
+    "Concerts/KPOP.FLEX 2022 sunday.md",
+    "Concerts/KPOP.FLEX 2022 Saturday.md",
+    "Concerts/K-pop Super Live.md",
+    "Concerts/HANG YOUTH.md",
+    "Concerts/FLOOR JANSEN + INGE LAMBOO.md",
+    "Concerts/Electric Callboy - TEKKNO WORLD TOUR.md",
+    "Concerts/DragonForce & Amaranthe.md",
+    "Concerts/BABYMETAL UK & EU TOUR 2023.md",
+    "Concerts/APOCALYPSE  FOLLOW US WORLD TOUR.md",
+    "Concerts/AMARANTHE & BEYOND THE BLACK.md",
+    "Concerts/Alestorm - European Tour 2023.md",
+    "Concerts.md",
+    "nsi-notes.md",
     "projects/osm-province-of-the-month/queries.md",
     "technical-docs/Gether nsi targets.md",
     "blog posts/First person RTS.md",
@@ -159,34 +174,13 @@
     "technical-docs/Google recorder to obsidian.md",
     "technical-docs/config files/gitconfig.md",
     "technical-docs/config files/winget list.md",
-    "technical-docs/gitlab-markdown-notes.md",
-    "Scripts and Guides",
-    "Projects/media-manager/Idea sources.md",
-    "Projects/screen-reader/screen-reader.md",
-    "Projects/screen-reader",
-    "Projects/Nerdy Tourism/seoul.md",
-    "Projects/Nerdy Tourism/nerdy-tourist-attractions-in-the-netherlands.md",
-    "Projects/Nerdy Tourism/london.md",
-    "Projects/Nerdy Tourism/artical.wiki",
-    "Projects/Nerdy Tourism",
+    "technical-docs/software list/winget list.md",
+    "Recipies/pasta-spinasie-pennen.md",
+    "projects/screen-reader",
     "files/Pasted image 20240527111844.png",
-    "Blog posts/Popcorntime-with-DHT.md",
-    "Blog posts/First person rts.md",
-    "Blog posts",
-    "Personal/food order reviews.md",
-    "Personal/1 videos that describe my live perfectly.md",
-    "Literature/The Choice I Made, Straight Up.md",
-    "Literature/my-favourite-copypastas.md",
-    "Literature",
-    "Job/PG.md",
     "Job",
     "Information",
     "Ideas",
-    "funurals/begravenis-van-oma.md",
-    "media-to-watch.md",
-    "Personal/Historical likes.md",
-    "Personal/Historical likes 1.md",
-    "Kadeotjes/Kadeotjes voor Matthijs.md",
     "Medical/medical images/EKG.jpg",
     "technical-docs/software list/file.json",
     "Personal/medical images/EKG.jpg",
