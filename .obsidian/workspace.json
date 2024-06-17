@@ -4,27 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "c0b49afbac022d18",
+        "id": "4f26b5fb10041a4b",
         "type": "tabs",
         "children": [
           {
-            "id": "e923fa65cdbbf737",
+            "id": "7b78183e3f326590",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "projects/Project person db.md",
+                "file": "Journal/Daily/2024-06-17.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "596e16650145c683",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           }
         ]
@@ -56,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "baby",
+                "query": "chicket",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "projects/Project person db.md",
+                "file": "Journal/Daily/2024-06-17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "projects/Project person db.md",
+                "file": "Journal/Daily/2024-06-17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "projects/Project person db.md"
+                "file": "Journal/Daily/2024-06-17.md"
               }
             }
           }
@@ -155,36 +147,16 @@
       "random-note:Open random note": false
     }
   },
-  "active": "e923fa65cdbbf737",
+  "active": "7b78183e3f326590",
   "lastOpenFiles": [
-    "template/Iscout Question.md",
-    "config files/winget list.md",
-    "technical-docs/software list/winget list.md",
-    "technical-docs/gitlab-markdown-notes.md",
-    "technical-docs/Downloading-from-instagram.md",
-    "technical-docs/find-hidden-drawio-files.md",
-    "Scripts and Guides/Downloading-from-instagram.md",
-    "Scripts and Guides/Extract frames from videos.md",
-    "Scripts and Guides/har download button.png",
-    "Scripts and Guides/Keychron K6 pro via programming.md",
-    "technical-docs/har download button.png",
-    "Scripts and Guides/Google recorder to obsidian.md",
-    "Scripts and Guides/Gether nsi targets.md",
-    "Scripts and Guides/find-hidden-drawio-files.md",
-    "Weddenschappen.md",
-    "Scripts and Guides/Keychron K6.json.crswap",
-    "Scripts and Guides/Keychron K6.json",
-    "nsi-notes.md",
-    "technical-docs/software list/file.json",
-    "technical-docs/software list",
+    "Journal/Goals.md",
+    "Journal/Administration.md",
+    "Journal/Daily/2024-06-17.md",
+    "yearly-theme/2024/theme.md",
+    "Journal/Daily",
+    "Journal",
+    "technical-docs/config files/gitconfig.md",
     "technical-docs/airportCodes.md",
-    "recipies/stampot-peen-en-uien.md",
-    "recipies/pasta-spinasie-pennen.md",
-    "recipies/meatloaf.md",
-    "recipies",
-    "projects/media-manager/the-idea.md",
-    "projects/media-manager/The-pack.md",
-    "projects/media-manager/The-dispatcher.md",
     "poems/The Choice I Made, Straight Up.md",
     "poems",
     "new information for the internet.md",
@@ -193,16 +165,36 @@
     "nerdy-tourism/london.md",
     "nerdy-tourism/artical.wiki",
     "nerdy-tourism",
-    "funurals",
+    "my-favourite-copypastas.md",
+    "military-installations-netherlands.md",
+    "information-that-I-can-never-find.md",
+    "gitlab-markdown-notes.md",
+    "free-ideas.md",
+    "free-ideas-worked-out/Popcorntime-with-DHT.md",
     "free-ideas-worked-out",
+    "food order reviews.md",
+    "config files/winget list.md",
+    "config files/gitconfig.md",
+    "config files/file.json",
+    "config files",
+    "blog posts/Popcorntime-with-DHT.md",
+    "blog posts/First person rts.md",
+    "blog posts",
+    "Weddenschappen.md",
+    "Scripts and Guides/har download button.png",
+    "Scripts and Guides/find-hidden-drawio-files.md",
+    "Scripts and Guides/Keychron K6.json",
+    "Scripts and Guides/Keychron K6 pro via programming.md",
+    "Scripts and Guides/Google recorder to obsidian.md",
     "Personal/medical images/EKG.jpg",
     "files/Pasted image 20240527111844.png",
     "Medical/medical images/EKG.jpg",
-    "Medical/medical images/EKG.jpg",
-    "Projects/Iscout Better source/images/oleaatAnswer-sd8907dg.jpg.jpg",
-    "Projects/Iscout Better source/images/oleaat.png.png",
-    "Projects/Iscout Better source/images/mostOfThis.jpg.jpg",
-    "Projects/Iscout Better source/images/batmap.png.png",
+    "projects/Iscout Better source/images/oleaatAnswer-sd8907dg.jpg.jpg",
+    "projects/Iscout Better source/images/oleaat.png.png",
+    "projects/Iscout Better source/images/mostOfThis.jpg.jpg",
+    "projects/Iscout Better source/images/batmap.png.png",
+    "projects/digatising/images/name.png",
+    "projects/digatising/images/IO.png",
     "Untitled.canvas"
   ]
 }
