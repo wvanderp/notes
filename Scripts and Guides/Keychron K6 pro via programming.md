@@ -13,3 +13,7 @@ as you can see from the information above the following layers are interesting
 - **layer 1**: normal keys without function keys
 - **layer 3**: FN1 key is pressed
 - **layer 4** FN2 key pressed
+
+## Current setup
+
+the current setup is saved over at [[./Keychron K6.json]]

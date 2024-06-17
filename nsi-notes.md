@@ -64,3 +64,7 @@ depricate any atm other then geldmaat
 TotalEnergies Express
 
 OK express
+
+Pets Place - Boerenbond
+
+Avia Truck

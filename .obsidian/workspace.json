@@ -13,10 +13,18 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concerts/Sabaton - The Tour To End All Tours 2022.md",
+                "file": "projects/Project person db.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
+            }
+          },
+          {
+            "id": "596e16650145c683",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Concerts/Sabaton - The Tour To End All Tours 2022.md",
+                "file": "projects/Project person db.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Concerts/Sabaton - The Tour To End All Tours 2022.md",
+                "file": "projects/Project person db.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Concerts/Sabaton - The Tour To End All Tours 2022.md"
+                "file": "projects/Project person db.md"
               }
             }
           }
@@ -149,49 +157,52 @@
   },
   "active": "e923fa65cdbbf737",
   "lastOpenFiles": [
-    "Concerts/Rammstein 2022 stadium tour.md",
-    "Concerts/Powerwolf - Wolfsnächte.md",
-    "Concerts/KPOP.FLEX 2022 sunday.md",
-    "Concerts/KPOP.FLEX 2022 Saturday.md",
-    "Concerts/K-pop Super Live.md",
-    "Concerts/HANG YOUTH.md",
-    "Concerts/FLOOR JANSEN + INGE LAMBOO.md",
-    "Concerts/Electric Callboy - TEKKNO WORLD TOUR.md",
-    "Concerts/DragonForce & Amaranthe.md",
-    "Concerts/BABYMETAL UK & EU TOUR 2023.md",
-    "Concerts/APOCALYPSE  FOLLOW US WORLD TOUR.md",
-    "Concerts/AMARANTHE & BEYOND THE BLACK.md",
-    "Concerts/Alestorm - European Tour 2023.md",
-    "Concerts.md",
-    "nsi-notes.md",
-    "projects/osm-province-of-the-month/queries.md",
-    "technical-docs/Gether nsi targets.md",
-    "blog posts/First person RTS.md",
-    "blog posts/Popcorntime-with-DHT.md",
-    "Ideas/free-ideas.md",
-    "kpop-stars-tell-me-WHAT.md",
-    "blog posts",
-    "technical-docs/Google recorder to obsidian.md",
-    "technical-docs/config files/gitconfig.md",
-    "technical-docs/config files/winget list.md",
+    "template/Iscout Question.md",
+    "config files/winget list.md",
     "technical-docs/software list/winget list.md",
-    "Recipies/pasta-spinasie-pennen.md",
-    "projects/screen-reader",
-    "files/Pasted image 20240527111844.png",
-    "Job",
-    "Information",
-    "Ideas",
-    "Medical/medical images/EKG.jpg",
+    "technical-docs/gitlab-markdown-notes.md",
+    "technical-docs/Downloading-from-instagram.md",
+    "technical-docs/find-hidden-drawio-files.md",
+    "Scripts and Guides/Downloading-from-instagram.md",
+    "Scripts and Guides/Extract frames from videos.md",
+    "Scripts and Guides/har download button.png",
+    "Scripts and Guides/Keychron K6 pro via programming.md",
+    "technical-docs/har download button.png",
+    "Scripts and Guides/Google recorder to obsidian.md",
+    "Scripts and Guides/Gether nsi targets.md",
+    "Scripts and Guides/find-hidden-drawio-files.md",
+    "Weddenschappen.md",
+    "Scripts and Guides/Keychron K6.json.crswap",
+    "Scripts and Guides/Keychron K6.json",
+    "nsi-notes.md",
     "technical-docs/software list/file.json",
+    "technical-docs/software list",
+    "technical-docs/airportCodes.md",
+    "recipies/stampot-peen-en-uien.md",
+    "recipies/pasta-spinasie-pennen.md",
+    "recipies/meatloaf.md",
+    "recipies",
+    "projects/media-manager/the-idea.md",
+    "projects/media-manager/The-pack.md",
+    "projects/media-manager/The-dispatcher.md",
+    "poems/The Choice I Made, Straight Up.md",
+    "poems",
+    "new information for the internet.md",
+    "nerdy-tourism/seoul.md",
+    "nerdy-tourism/nerdy-tourist-attractions-in-the-netherlands.md",
+    "nerdy-tourism/london.md",
+    "nerdy-tourism/artical.wiki",
+    "nerdy-tourism",
+    "funurals",
+    "free-ideas-worked-out",
     "Personal/medical images/EKG.jpg",
+    "files/Pasted image 20240527111844.png",
+    "Medical/medical images/EKG.jpg",
     "Medical/medical images/EKG.jpg",
     "Projects/Iscout Better source/images/oleaatAnswer-sd8907dg.jpg.jpg",
     "Projects/Iscout Better source/images/oleaat.png.png",
     "Projects/Iscout Better source/images/mostOfThis.jpg.jpg",
     "Projects/Iscout Better source/images/batmap.png.png",
-    "Projects/digatising/images/name.png",
-    "Projects/digatising/images/IO.png",
-    "Projects/osm-province-of-the-month/image.png",
     "Untitled.canvas"
   ]
 }
