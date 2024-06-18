@@ -5,4 +5,4 @@ Be proud of myself.
 Being more egotistical in my life (in a good way)
 by not always selflessly giving to others but also taking sometimes
 
-Do something useful every day.
+Do something worthwhile every day.
