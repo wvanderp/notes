@@ -67,7 +67,7 @@ It ends with action items for the next day.`;
       },
     ],
     temperature: 1,
-    max_tokens: 256,
+    max_tokens: 350,
     top_p: 1,
     frequency_penalty: 0,
     presence_penalty: 0,
