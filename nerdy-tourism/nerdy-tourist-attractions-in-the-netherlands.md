@@ -1,5 +1,5 @@
 ---
-auteur: "chatGPT 3.5"
+auteur: ChatGPT 3.5
 ---
 
 # Unveiling the Enchanting Nerdy Tourist Attractions in the Netherlands
