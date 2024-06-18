@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "06f43e7293baedc2",
+        "id": "a477efaf973e2ab7",
         "type": "tabs",
         "children": [
           {
-            "id": "e1d19e178bd0c4ec",
+            "id": "567f4005f1f643e9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Medical/Historical likes.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,8 +48,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "chatgpt 4",
-                "matchingCase": true,
+                "query": "auteur",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Medical/Historical likes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Medical/Historical likes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,6 +124,16 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+              "state": {
+                "file": "Medical/Historical likes.md"
+              }
+            }
+          },
+          {
+            "id": "f2264c11d69f8475",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
               "state": {}
             }
           }
@@ -139,54 +155,54 @@
       "random-note:Open random note": false
     }
   },
-  "active": "e1d19e178bd0c4ec",
+  "active": "567f4005f1f643e9",
   "lastOpenFiles": [
+    "Personal/hayfever.md",
+    "PG.md",
+    "Encro obsidian.md",
+    "Personal/Historical likes.md",
+    "Medical/Historical likes.md",
+    "Funerals/Mas begevenis.md",
+    "Concerts.md",
+    "technical-docs/airportCodes.md",
     "Journal/Daily/2024-06-18.md",
-    "Journal/Daily/2024-06-17.md",
-    "Journal/Template/node_modules/@types/node-fetch/README.md",
-    "Journal/Template/node_modules/@types/node-fetch/package.json",
-    "Journal/Template/node_modules/@types/node-fetch/LICENSE",
-    "Journal/Template/node_modules/@types/node-fetch/index.d.ts",
-    "Journal/Template/node_modules/@types/node-fetch/externals.d.ts",
-    "Journal/Template/node_modules/@types/node-fetch",
-    "Journal/Daily/2024-06-16.md",
-    "Journal/Template/index.ts",
-    "Journal/Daily/2024-06-17 copy.md",
-    "Journal/Template/node_modules/resolve-pkg-maps/package.json",
-    "Litrature/The Choice I Made, Straight Up.md",
-    "Literature/The Choice I Made, Straight Up.md",
-    "poems/The Choice I Made, Straight Up.md",
-    "nerdy-tourism/nerdy-tourist-attractions-in-the-netherlands.md",
-    "projects/Nerdy Tourism/nerdy-tourist-attractions-in-the-netherlands.md",
-    "Journal/Administration.md",
     "Journal/Template/template.md",
-    "Journal/Template/node_modules/handlebars/package.json",
-    "Journal/Template/node_modules/handlebars/types/index.d.ts",
-    "Journal/Template/node_modules/handlebars/types",
-    "Journal/Template/node_modules/uglify-js/README.md",
-    "Journal/Template/node_modules/source-map/README.md",
-    "Journal/Template/node_modules/source-map/CHANGELOG.md",
-    "Journal/Template/node_modules/neo-async/README.md",
-    "Journal/Template/node_modules/minimist/README.md",
-    "Journal/Template/node_modules/minimist/CHANGELOG.md",
-    "Journal/Template/node_modules/formdata-node/node_modules/web-streams-polyfill/README.md",
-    "Journal/Template/node_modules/formdata-node/readme.md",
-    "Journal/Template/node_modules/event-target-shim/README.md",
-    "Journal/Template/node_modules/node-domexception/README.md",
-    "Journal/Template/node_modules/web-streams-polyfill/README.md",
-    "Journal/Template/node_modules/abort-controller/README.md",
-    "Journal/Template/node_modules/openai/node_modules/@types/node/README.md",
-    "Journal/Template/node_modules/openai/src/_shims/README.md",
-    "projects/Iscout Better source/images/oleaatAnswer-sd8907dg.jpg.jpg",
-    "projects/Iscout Better source/images/oleaat.png.png",
-    "projects/Iscout Better source/images/batmap.png.png",
+    "Journal/Template/Untitled Folder",
+    "Journal/Daily/2024-06-17.md",
+    "Literature/The Choice I Made, Straight Up.md",
+    "litrature/The Choice I Made, Straight Up.md",
+    "Literature/poems/The Choice I Made, Straight Up.md",
+    "projects/Nerdy Tourism/nerdy-tourist-attractions-in-the-netherlands.md",
+    "nerdy-tourism/nerdy-tourist-attractions-in-the-netherlands.md",
+    "conflict-files-obsidian-git.md",
+    "Journal/Template/tsconfig.json",
+    "Journal/Template/package.json",
+    "Journal/Template/package-lock.json",
+    "Journal/Template/index.ts",
+    "Journal/Template",
+    "Journal/Goals.md",
+    "Journal/Administration.md",
+    "yearly-theme/2024/theme.md",
+    "Journal/Daily",
+    "Journal",
+    "technical-docs/config files/gitconfig.md",
+    "Literature/poems",
+    "new information for the internet.md",
+    "nerdy-tourism/seoul.md",
+    "nerdy-tourism/london.md",
+    "nerdy-tourism/artical.wiki",
+    "my-favourite-copypastas.md",
+    "military-installations-netherlands.md",
     "Scripts and Guides/har download button.png",
-    "technical-docs/har download button.png",
     "Personal/medical images/EKG.jpg",
     "files/Pasted image 20240527111844.png",
     "Medical/medical images/EKG.jpg",
-    "Medical/medical images/EKG.jpg",
-    "Projects/Iscout Better source/images/oleaatAnswer-sd8907dg.jpg.jpg",
+    "projects/Iscout Better source/images/oleaatAnswer-sd8907dg.jpg.jpg",
+    "projects/Iscout Better source/images/oleaat.png.png",
+    "projects/Iscout Better source/images/mostOfThis.jpg.jpg",
+    "projects/Iscout Better source/images/batmap.png.png",
+    "projects/digatising/images/name.png",
+    "projects/digatising/images/IO.png",
     "Untitled.canvas"
   ]
 }
