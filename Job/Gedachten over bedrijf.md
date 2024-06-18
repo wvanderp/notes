@@ -15,7 +15,7 @@ Liefst een tastbaar product. Maar puur software is ook ok
 
 Niet deep embedded met registers en zo.
 
-## shell
+## Shell
 
 op vrijdag 2024-01-06 belde [[Elisabet]] mij met het voorstel om voor shell aan de slag the gaan.
 
