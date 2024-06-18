@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "newTemplate.js",
   "scripts": {
-    "run": "tsx index.ts"
+    "generate": "tsx index.ts"
   },
   "author": "",
   "license": "ISC",

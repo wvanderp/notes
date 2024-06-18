@@ -154,5 +154,5 @@ The exercise should take at most 5 minutes.`;
   };
 
 
-  return template(context);
+  return cleanString(template(context));
 }
