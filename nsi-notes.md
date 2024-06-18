@@ -57,6 +57,31 @@ PostNL parcel locker
 
 Bubble post locker
 
+OK Café
+
+OK express
+
+ABN AMRO MeesPierson
+
+Jumbo Foodmarkt
+
+Livera Bad en Lingerie
+wrong end
+
+Threeforce
+
+Kindergarden
+
+Tamoil Express
+
+DA Drogisterij & Parfumerie
+
+TotalEnergies CNG Express
+
+TotalEnergies Express
+
+SPAR city
+alberthein to go
 Albert Heijn to go
 
 Deprecate any atm other then geldmaat

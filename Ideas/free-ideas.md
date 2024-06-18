@@ -228,3 +228,13 @@ Some of the tests could be.
 - Don't use long words when asked
 - Generate fluffy text with a lot of space
 - Use the LLM as a spell and Grammar checker
+
+## Realtime game data capture
+
+
+During games it might be interesting to capture you gold and have a graph on you second screen.
+with this data you can make tactical disccions with this data.
+
+the implementation would be in python with a description file to instruct what to capture and what to display.
+
+see [[screen-reader]] 

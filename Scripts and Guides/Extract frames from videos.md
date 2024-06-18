@@ -35,7 +35,7 @@ setlocal enabledelayedexpansion
 set counter=1
 
 :: Loop through all mp4 and webm files in the current directory
-for %%f in (*.mp4 *.webm) do (
+for %%f in (*.mp4 *.webm *.mkv) do (
     :: Create a directory named after the counter
     mkdir "!counter!"
     
@@ -48,5 +48,4 @@ for %%f in (*.mp4 *.webm) do (
 
 echo All frames extracted.
 pause
-
 ```

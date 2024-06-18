@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "cbd8be42da344520",
+        "id": "fec9749af4a33e4d",
         "type": "tabs",
         "children": [
           {
-            "id": "712c9628444b2a5f",
+            "id": "36a1977a1fd8e5d3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Scripts and Guides/Extract frames from videos.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "screen capture",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Scripts and Guides/Extract frames from videos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Scripts and Guides/Extract frames from videos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Scripts and Guides/Extract frames from videos.md"
+              }
             }
           }
         ]
@@ -139,54 +147,55 @@
       "random-note:Open random note": false
     }
   },
-  "active": "712c9628444b2a5f",
+  "active": "36a1977a1fd8e5d3",
   "lastOpenFiles": [
-    "Rowing.md",
-    "Journal/Template/template.md",
-    "nsi-notes.md",
-    "Concerts.md",
-    "DND Ideas.md",
-    "Pubquiz topics.md",
-    "emergency-kit.md",
-    "config files/winget list.md",
-    "Scripts and Guides/Google recorder to obsidian.md",
-    "scouting/scouting ideas.md",
-    "Journal/Template/node_modules/event-target-shim/README.md",
-    "Journal/Daily/2024-06-19.md",
-    "conflict-files-obsidian-git.md",
-    "Journal/Template/node_modules/@types/node/buffer.d.ts",
-    "Journal/Template/node_modules/@types/node/dgram.d.ts",
-    "Journal/Template/node_modules/@types/node/constants.d.ts",
-    "Journal/Template/node_modules/@esbuild/win32-x64/README.md",
-    "Journal/Template/node_modules/mime-types/LICENSE",
-    "Journal/Template/node_modules/mime-types/index.js",
-    "Journal/Template/node_modules/mime-types/README.md",
-    "Journal/Template/node_modules/mime-types/package.json",
-    "Journal/Template/node_modules/mime-types/HISTORY.md",
-    "Journal/Template/node_modules/mime-types",
-    "Journal/Daily/2024-06-18.md",
-    "Journal/Daily/2024-06-17.md",
-    "Journal/Template/node_modules/@types/node-fetch/README.md",
-    "Journal/Template/node_modules/@types/node-fetch/package.json",
-    "Journal/Template/node_modules/@types/node-fetch/LICENSE",
-    "Journal/Template/node_modules/@types/node-fetch/index.d.ts",
-    "Journal/Daily/2024-06-16.md",
-    "Journal/Daily/2024-06-17 copy.md",
-    "Litrature/The Choice I Made, Straight Up.md",
-    "Literature/The Choice I Made, Straight Up.md",
-    "poems/The Choice I Made, Straight Up.md",
-    "nerdy-tourism/nerdy-tourist-attractions-in-the-netherlands.md",
-    "projects/Nerdy Tourism/nerdy-tourist-attractions-in-the-netherlands.md",
-    "projects/Iscout Better source/images/oleaatAnswer-sd8907dg.jpg.jpg",
-    "projects/Iscout Better source/images/oleaat.png.png",
-    "projects/Iscout Better source/images/batmap.png.png",
+    "Scripts and Guides/Downloading-from-instagram.md",
     "Scripts and Guides/har download button.png",
-    "technical-docs/har download button.png",
+    "nsi-notes.md",
+    "Ideas/free-ideas.md",
+    "Projects/screen-reader/screen-reader.md",
+    "Scouting/Scout stock game.md",
+    "Concerts.md",
+    "media-to-watch.md",
+    "Scripts and Guides/Extract frames from videos.md",
+    "Scripts and Guides/Keychron K6 pro via programming.md",
+    "Scripts and Guides/Google recorder to obsidian.md",
+    "Scripts and Guides/Gether nsi targets.md",
+    "Scripts and Guides/find-hidden-drawio-files.md",
+    "Projects/osm-province-of-the-month/queries.md",
+    "emergency-kit.md",
+    "technical-docs/config files/gitconfig.md",
+    "technical-docs/config files/winget list.md",
+    "technical-docs/gitlab-markdown-notes.md",
+    "Scripts and Guides",
+    "Projects/media-manager/Idea sources.md",
+    "Projects/screen-reader",
+    "Projects/Nerdy Tourism/seoul.md",
+    "Projects/Nerdy Tourism/nerdy-tourist-attractions-in-the-netherlands.md",
+    "Projects/Nerdy Tourism/london.md",
+    "Projects/Nerdy Tourism/artical.wiki",
+    "Projects/Nerdy Tourism",
+    "files/Pasted image 20240527111844.png",
+    "Blog posts/Popcorntime-with-DHT.md",
+    "Blog posts/First person rts.md",
+    "Blog posts",
+    "Personal/food order reviews.md",
+    "Personal/1 videos that describe my live perfectly.md",
+    "Literature",
+    "Job",
+    "Information",
+    "Ideas",
+    "technical-docs/software list/file.json",
     "Personal/medical images/EKG.jpg",
     "files/Pasted image 20240527111844.png",
     "Medical/medical images/EKG.jpg",
     "Medical/medical images/EKG.jpg",
     "Projects/Iscout Better source/images/oleaatAnswer-sd8907dg.jpg.jpg",
+    "Projects/Iscout Better source/images/oleaat.png.png",
+    "Projects/Iscout Better source/images/mostOfThis.jpg.jpg",
+    "Projects/Iscout Better source/images/batmap.png.png",
+    "Projects/digatising/images/name.png",
+    "Projects/digatising/images/IO.png",
     "Untitled.canvas"
   ]
 }
