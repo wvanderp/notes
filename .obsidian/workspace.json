@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Medical/Historical likes.md",
+                "file": "Funerals/Mas begevenis.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Medical/Historical likes.md",
+                "file": "Funerals/Mas begevenis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Medical/Historical likes.md",
+                "file": "Funerals/Mas begevenis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Medical/Historical likes.md"
+                "file": "Funerals/Mas begevenis.md"
               }
             }
           },
@@ -157,44 +157,44 @@
   },
   "active": "567f4005f1f643e9",
   "lastOpenFiles": [
-    "Personal/hayfever.md",
-    "PG.md",
-    "Encro obsidian.md",
-    "Personal/Historical likes.md",
     "Medical/Historical likes.md",
-    "Funerals/Mas begevenis.md",
-    "Concerts.md",
     "technical-docs/airportCodes.md",
-    "Journal/Daily/2024-06-18.md",
-    "Journal/Template/template.md",
-    "Journal/Template/Untitled Folder",
-    "Journal/Daily/2024-06-17.md",
-    "Literature/The Choice I Made, Straight Up.md",
-    "litrature/The Choice I Made, Straight Up.md",
-    "Literature/poems/The Choice I Made, Straight Up.md",
-    "projects/Nerdy Tourism/nerdy-tourist-attractions-in-the-netherlands.md",
-    "nerdy-tourism/nerdy-tourist-attractions-in-the-netherlands.md",
-    "conflict-files-obsidian-git.md",
-    "Journal/Template/tsconfig.json",
-    "Journal/Template/package.json",
-    "Journal/Template/package-lock.json",
-    "Journal/Template/index.ts",
-    "Journal/Template",
-    "Journal/Goals.md",
-    "Journal/Administration.md",
-    "yearly-theme/2024/theme.md",
-    "Journal/Daily",
-    "Journal",
-    "technical-docs/config files/gitconfig.md",
-    "Literature/poems",
+    "scouting/ScoutStockGame/Scout stock game.md",
+    "recipies/stampot-peen-en-uien.md",
+    "recipies/pasta-spinasie-pennen.md",
+    "recipies/meatloaf.md",
+    "recipies",
+    "projects/media-manager/The-dispatcher.md",
+    "projects/media-manager/The pack.md",
+    "poems/The Choice I Made, Straight Up.md",
+    "poems",
     "new information for the internet.md",
+    "my-favourite-copypastas.md",
     "nerdy-tourism/seoul.md",
+    "nerdy-tourism/nerdy-tourist-attractions-in-the-netherlands.md",
     "nerdy-tourism/london.md",
     "nerdy-tourism/artical.wiki",
-    "my-favourite-copypastas.md",
-    "military-installations-netherlands.md",
-    "Scripts and Guides/har download button.png",
+    "nerdy-tourism",
+    "litrature/my-favourite-copypastas.md",
+    "litrature/The Choice I Made, Straight Up.md",
+    "litrature",
     "Personal/medical images/EKG.jpg",
+    "Personal/medical images",
+    "gitlab-markdown-notes.md",
+    "funurals/begravenis-van-oma.md",
+    "funurals/Mas begevenis.md",
+    "funurals/Ideas for my funeral.md",
+    "funurals",
+    "free-ideas-worked-out/Popcorntime-with-DHT.md",
+    "food order reviews.md",
+    "PG.md",
+    "Personal/hayfever.md",
+    "Personal/Medical.md",
+    "Personal/Historical likes.md",
+    "Journal/Template/Untitled Folder",
+    "Journal/Template/tsconfig.json",
+    "Journal/Template/package.json",
+    "Scripts and Guides/har download button.png",
     "files/Pasted image 20240527111844.png",
     "Medical/medical images/EKG.jpg",
     "projects/Iscout Better source/images/oleaatAnswer-sd8907dg.jpg.jpg",
