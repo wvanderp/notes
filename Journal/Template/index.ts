@@ -38,11 +38,13 @@ async function newTemplate() {
 
 
 async function generateSummary(yesterdaysEntry: string) {
+  // we need to cut out yesterday's summary because the ai will confuse the two days
+  const questions = yesterdaysEntry.split('## What happened today?')[1];
+
   const systemPrompt = `
 You summarize yesterdays journal entries to one paragraph.
 This summary should be short and to the point. 
-But it should contain all the important information.
-It ends with action items for the next day.`;
+But it should contain all the important information.`;
 
   const response = await openai.chat.completions.create({
     model: "gpt-4o",
@@ -61,13 +63,13 @@ It ends with action items for the next day.`;
         "content": [
           {
             "type": "text",
-            "text": yesterdaysEntry
+            "text": questions
           }
         ]
       },
     ],
     temperature: 1,
-    max_tokens: 350,
+    max_tokens: 450,
     top_p: 1,
     frequency_penalty: 0,
     presence_penalty: 0,
@@ -83,22 +85,40 @@ It ends with action items for the next day.`;
  * @returns the cleaned string
  */
 function cleanString(input: string): string {
-  return input.replace(/&#x27;/g, "'");
+  return input.replace(/&#(\d+);|&#x([0-9A-Fa-f]+);|&(\w+);/g, (match, dec, hex, named) => {
+    if (dec) {
+        return String.fromCharCode(parseInt(dec, 10));
+    } else if (hex) {
+        return String.fromCharCode(parseInt(hex, 16));
+    } else if (named) {
+        const entities = {
+            amp: '&',
+            lt: '<',
+            gt: '>',
+            quot: '"',
+            apos: '\'',
+            // Add more named entities as needed
+        };
+        // @ts-expect-error
+        return entities[named] || match;
+    }
+    return match;
+});
 }
 
 async function generateTemplate(summary: string, goals: string) {
   const systemPrompt = `
 You are a Journal template generator and a therapist.
-I want a journal template that helps me reflect back on the day.
+I want a journal template that helps me reflect on the day.
 I will be filling it out in the evening.
 
 Generate a daily journal template based on some goals and the summary of the previous day's journal entry.
-Don't include the date or a heading in the template, I will add that myself.
+Don't include the date or a heading in the template. I will add that myself.
 
 The template should relate to the goals and the previous day's entry summary.
 The questions should be designed to help me reach my goals.
 
-The exercise should take at most 5 minutes.`;
+The exercise will contain five questions.`;
 
   const response = await openai.chat.completions.create({
     model: "gpt-4o",

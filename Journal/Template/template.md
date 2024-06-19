@@ -9,13 +9,20 @@ auteur:
 
 # Journal entry for {{TodaysDate}}
 
-**What did you have for dinner?**: 
-**Grade for the day**: 
-
 ## Summary of yesterday's entry
 
 {{Summary}}
+## What happened today?
 
+**What did you have for dinner**: 
+**Grade for the day**: 
+
+### What did you do today?
+
+**Morning**: 
+**Afternoon**: 
+**After work**: 
+**Evening**: 
 ## The questions
 
 {{Template}}
