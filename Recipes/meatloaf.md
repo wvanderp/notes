@@ -5,7 +5,7 @@ author: Eten met Nick
 ---
 # Meatloaf
 
-bron: <https://www.youtube.com/watch?v=2s8IZfP96is>
+Bron: <https://www.youtube.com/watch?v=2s8IZfP96is>
 Meatloaf van eten met nick
 
 Ingrediënten Meatloaf:
@@ -28,12 +28,12 @@ Ingrediënten Meatloaf:
 
 ## stap 1
 
-snipper je ui en knoflook.
-karimaliseer de ui en knoflook in een pan.
+Snipper je ui en knoflook.
+Karimaliseer de ui en knoflook in een pan.
 
 ## stap 2
 
-gooi het volgende in een bak:
+Gooi het volgende in een bak:
 
 - **1kg** gehakt
 - **180 ml** ketchup
@@ -47,29 +47,29 @@ gooi het volgende in een bak:
 - **150 gram** cheddar
 - Gebakken ui en knoflook
 
-kneed alle ingrediënten goed door elkaar.
+Kneed alle ingrediënten goed door elkaar.
 
 ## stap 3
 
-maak de saus voor over de meatloaf met:
+Maak de saus voor over de meatloaf met:
 
 - **60 ml** ketchup
 - **3 el** suiker
 - **1 tl** azijn
 
-meng de saus goed door elkaar.
+Meng de saus goed door elkaar.
 
 ## stap 4
 
-smeer een broodblik in met wat boter en bedek deze met allemaal plakken bacon.
-stop het gehaktmengsel in het broodblik en druk goed aan.
+Smeer een broodblik in met wat boter en bedek deze met allemaal plakken bacon.
+Stop het gehaktmengsel in het broodblik en druk goed aan.
 
 ## stap 5
 
-oven voorverwarmen op **190 graden**.
-stop de meatloaf in de oven en laat **1 uur** cremeren.
+Oven voorverwarmen op **190 graden**.
+Stop de meatloaf in de oven en laat **1 uur** cremeren.
 
 ## stap 6
 
-na 1 uur eruit halen en nog **20 minuten** laten rusten.
-snij in mooie, dikke plakken.
+Na 1 uur eruit halen en nog **20 minuten** laten rusten.
+Snij in mooie, dikke plakken.

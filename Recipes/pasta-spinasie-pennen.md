@@ -37,18 +37,18 @@ Hak **3 teentjes** knoflook fijn.
 ## Stap 2
 
 Bak de **300 g** spekjes in olijfolie.
-droog de spekjes daarna op keukenpapier
-laat het vet in de pan zitten.
+Droog de spekjes daarna op keukenpapier
+Laat het vet in de pan zitten.
 
 ## Stap 3
 
 Fruit de knoflook in het spekvet
-voeg daarna de spinazie toe
+Voeg daarna de spinazie toe
 Breng op smaak met zout en peper.
 
 ## Stap 4
 
-voeg het volgende toe
+Voeg het volgende toe
 
 - **200 g** crème fraîche
 - Het achtergehouden kookvocht
@@ -57,7 +57,7 @@ voeg het volgende toe
 - 20 g geraspte Italiaanse kaas
 - De  voorgekookte pasta
 
-laat het geheel nog **1 minute** door koken
+Laat het geheel nog **1 minute** door koken
 
 ## Tip
 

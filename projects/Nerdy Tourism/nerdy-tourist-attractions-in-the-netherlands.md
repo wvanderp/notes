@@ -80,7 +80,7 @@ Prepare to be captivated by the Netherlands Institute for Sound and Vision in Hi
 
 ## oude kerk
 
-this location from cod: mordern warfare is a must visit for gamers
+This location from cod: modern warfare is a must visit for gamers
 
 ## Conclusion: Embark on an Unforgettable Nerdy Adventure
 

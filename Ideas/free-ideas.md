@@ -30,7 +30,7 @@ It would be fun to see old chess engines play against each other.
 
 Then, we can compare the different old implementations.
 
-see also: <https://github.com/wvanderp/Accent-Chess>
+See also: <https://github.com/wvanderp/Accent-Chess>
 
 ## flat photo stitcher
 
@@ -136,8 +136,8 @@ Are these instructions clear?
 This is the magic incantation to make chatgpt extract information from websites. Then, you pass all text from the website into chatgpt, which will spit out some useful information.
 
 There are only two problems with this:  
-chatgpt is mostly correct, but not always, so a human must verify the address. (maybe nominatum can be used to check if it's even close.)  
-it is still not machine-readable, so a human still needs to be in the loop.
+Chatgpt is mostly correct, but not always, so a human must verify the address. (maybe nominatum can be used to check if it's even close.)  
+It is still not machine-readable, so a human still needs to be in the loop.
 
 Some minimal research concludes that it works on websites with limited text. But when the website includes a restaurant's history or a menu, chatgpt goes off on its own and just summarizes that. So, some more work in crafting the instructions is needed.
 

@@ -3,7 +3,7 @@ tags:
   - Guide
 ---
 
-run a overpass query like so:
+Run a overpass query like so:
 
 ```overpass
 [out:csv('brand', 'brand:wikidata', 'operator', 'operator:wikidata')]
@@ -13,4 +13,4 @@ nwr["amenity"="charging_station"](area.searchArea);
 out body;
 ```
 
-you will get a csv file witch can be opened in excel and analysed
+You will get a csv file witch can be opened in excel and analysed

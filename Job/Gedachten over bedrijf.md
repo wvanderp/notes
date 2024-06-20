@@ -17,16 +17,16 @@ Niet deep embedded met registers en zo.
 
 ## Shell
 
-op vrijdag 2024-01-06 belde [[Elisabet]] mij met het voorstel om voor shell aan de slag the gaan.
+Op vrijdag 2024-01-06 belde [[Elisabet]] mij met het voorstel om voor shell aan de slag the gaan.
 
-ik wordt de vervanger van Nikita. hij houden zich binnen het aardlagen project voornamelijk bezig met cmake.
+Ik wordt de vervanger van Nikita. hij houden zich binnen het aardlagen project voornamelijk bezig met cmake.
 
-het team krijgt een vaste opdracht en die wordt over het team verdeeld.
+Het team krijgt een vaste opdracht en die wordt over het team verdeeld.
 
-the test taken zijn al ingevuld dus daar hoven ik me geen zorgen over te maken.
+De test taken zijn al ingevuld dus daar hoven ik me geen zorgen over te maken.
 
-het werk in in de adc in Capelle en soms in het hoofdkantoor in den haag / rijswijk
+Het werk in in de adc in Capelle en soms in het hoofdkantoor in Den Haag / Rijswijk
 
-er komt volgende week een gesprek tussen mij, Nikita, en Hugo
+Er komt volgende week een gesprek tussen mij, Nikita, en Hugo
 
-in princiepen is er geen intake voor dit project. de verwachting is wel dat er een aantal welkoms gesprekken gehouden gaan worden.
+In princiepen is er geen intake voor dit project. de verwachting is wel dat er een aantal welkoms gesprekken gehouden gaan worden.

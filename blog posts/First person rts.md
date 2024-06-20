@@ -6,8 +6,7 @@ What I like about this concept is that it's both a first-person shooter, so peop
 
 For this to work, it must be a larger play space with many people. However, you also need a way to concentrate the people so that nobody is at the corner of the edge, just defending nothing because everybody is in the middle.
 
-Here are some examples of things that I already thought up so you could have rank. I already set combat drones that shoot from afar, but they don't need those can be air-to-ground or air-to-air
-combat drones, or they can be surveillance drones, and then to combat that, you can have anti-air missiles that shoot down the drones, and to combat that,  you can have sacrificial drones that just hit the missiles so that hit those, Оr the missiles hit those drones
+Here are some examples of things that I already thought up so you could have rank. I already set combat drones that shoot from afar, but they don't need those can be air-to-ground or air-to-air combat drones, or they can be surveillance drones, and then to combat that, you can have anti-air missiles that shoot down the drones, and to combat that,  you can have sacrificial drones that just hit the missiles so that hit those, Оr the missiles hit those drones
 
 You can create some cover, so you don't need to cross it all simultaneously. I was thinking about maybe plasma shields where all of the bullets that are fired can't penetrate the plasma shield. The significant advantage is that enemies can't hit you, but also the problem is that you can't fire from within the plasma shield. So you need to have some things that shoot outside the plasma shield. Then I was also thinking about little sentries. That is just a small robot that alerts you when somebody is near. I was also thinking about little walking robots, and those walking robots are there to deliver either a payload or shoot. You can also have a Team Fortress 2 teleporter.
 

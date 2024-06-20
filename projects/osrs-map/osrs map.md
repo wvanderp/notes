@@ -7,7 +7,7 @@ tags:
 
 The idea here is to recreate the map view from old school runescape from scratch and then integrate other features into it.
 
-the steps are:
+The steps are:
 
 - Parse the osrs cache to get the map and position of entities
 - Render the base map
@@ -16,18 +16,18 @@ the steps are:
 
 ## Current problems
 
-how the hell do we work the the caches
+How the hell do we work the the caches
 
 ## useful links
 
 <https://archive.openrs2.org/>
-to find cashes
+To find cashes
 
 <https://docs.rs/rs2-cache/latest/rs2cache/all.html>
-for cache reading
+For cache reading
 
 <https://oldschool.runescape.wiki/w/RuneScape:Map>
-documentation from osrs wiki
+Documentation from osrs wiki
 
 <https://docs.google.com/document/d/1xv7iVBkG6eWDrXFhIYi77AVodJc0D-4Aqn0ncZXKJfw/edit#heading=h.kk1966kbedef>
-a doc describing the process of creating the map in general and some other ideas
+A doc describing the process of creating the map in general and some other ideas

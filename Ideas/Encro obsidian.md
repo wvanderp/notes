@@ -15,10 +15,10 @@ The key is stored and shared trought a other channel
 
 The attack vector is files on a public GitHub. You computer is concidered to be save.
 
-## usefull linked
+## useful linked
 
-https://github.com/deathau/txt-as-md-obsidian
+<https://github.com/deathau/txt-as-md-obsidian>
 Txt as markdown could be read as enc as markdown
 
-https://github.com/meld-cp/obsidian-encrypt
+<https://github.com/meld-cp/obsidian-encrypt>
 Already does encryption

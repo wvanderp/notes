@@ -1,5 +1,6 @@
 
-mooie side quest bij orga. Leuk om ander te helpen en leuk om mijn oude project terug te zien.
+Mooie side quest bij orga. Leuk om ander te helpen en leuk om mijn oude project terug te zien.
 
-nieuwe uitdaging bij deltares. met een nieuwe taal en een nieuwe rol.
+Nieuwe uitdaging bij deltares. met een nieuwe taal en een nieuwe rol.
 
+## 2024

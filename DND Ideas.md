@@ -10,22 +10,16 @@ modified: 2024-01-02T09:40:21+01:00
 ```plaintext
 This is one of my favorite D&D puzzles.
 A mirror with a magical aura.
-If the players try to pass through it,
-they will be blocked by their own reflection.
-But instead of cool glass,
-they feel their own skin on the other side.
-If they inspect the reflection and get a good dice roll,
-they'll see something that's not in the room with them.
-Maybe a key.
-They can use their reflection to pick up the key
-and throw it through the mirror,
-bringing it to the real world.
-Another fun, more sinister thing you can add to this
-is if the players try to break the mirror,
-then maybe their reflection gets angry
-and starts attacking one of your party members' reflections.
+If the players try to pass through it, they will be blocked by their own reflection.
+But instead of cool glass, they feel their own skin on the other side.
+If they inspect the reflection and get a good dice roll, they'll see something that's not in the room with them. Maybe a key.
+
+They can use their reflection to pick up the key and throw it through the mirror, bringing it to the real world.
+
+Another fun, more sinister thing you can add to this is if the players try to break the mirror, then maybe their reflection gets angry and starts attacking one of your party members' reflections.
 And maybe that damage transfers to the real world.
 You can change up this puzzle however you like.
+
 Give it a go.
 Subscribe to the Rogue's Roll Call for more D&D content.
 ```

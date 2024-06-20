@@ -37,7 +37,7 @@ These codes can be found here: <https://www.faa.gov/documentLibrary/media/Order/
 
 `FAA's Landing Facility Site Number` is a unique numeric identifier assigned by the FAA to each landing facility in the United States. It is used primarily for internal FAA purposes and is not widely used by pilots or airlines.
 
-from [this document](https://www.faa.gov/documentlibrary/media/advisory_circular/150-5200-35/150_5200_35.doc) we learn:
+From [this document](https://www.faa.gov/documentlibrary/media/advisory_circular/150-5200-35/150_5200_35.doc) we learn:
 
 ```plain
 This is a number that contains a one-letter suffix.
@@ -56,12 +56,12 @@ S = Stolport
 U = Ultralight Flightpark
 ```
 
-alias: FAA SITE NR  
+Alias: `FAA SITE NR`  
 [source](https://wiki.openstreetmap.org/wiki/Tag:aeroway%3Daerodrome)
 
 ## Transport Canada identifier
 
-alias: TC LID, TCLID
+Alias: `TC LID`, `TCLID`
 [Wikipedia](https://en.wikipedia.org/wiki/Location_identifier#Transport_Canada_identifier)  
 [Wikidata](https://www.wikidata.org/wiki/Q55773856)
 
@@ -114,7 +114,7 @@ TODO: expand
 ## CIAD
 
 [Wikidata](https://www.wikidata.org/wiki/Q113950896)  
-full name: `code de l'administration nationale civile du Brésil`
+Full name: `code de l'administration nationale civile du Brésil`
 
 ## Our airports
 

@@ -4,7 +4,7 @@ tags:
 created: {{TodaysDate}}
 auteur:
   - ChatGPT 4-o
-  - me
+  - Me
 ---
 
 # Journal entry for {{TodaysDate}}
@@ -12,6 +12,7 @@ auteur:
 ## Summary of yesterday's entry
 
 {{Summary}}
+
 ## What happened today?
 
 **What did you have for dinner**: 
@@ -23,6 +24,7 @@ auteur:
 **Afternoon**: 
 **After work**: 
 **Evening**: 
+
 ## The questions
 
 {{Template}}

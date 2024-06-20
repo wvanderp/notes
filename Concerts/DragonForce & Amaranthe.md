@@ -15,10 +15,10 @@ tags:
 
 ---
 
-samen met Matthijs. We zijn eerst naar de fat greek gegaan en hebben daar te veel gegeten.
+Samen met Matthijs. We zijn eerst naar de fat greek gegaan en hebben daar te veel gegeten.
 Het was veel lekker en het duurde lang.
 
-daarna kwamen we te laat aan bij de de concertzaal dus we hebben het meeste van infected rain gemist.
+Daarna kwamen we te laat aan bij de de concertzaal dus we hebben het meeste van infected rain gemist.
 
 Bij [[Amaranthe]] was de muziek goed, alleen zat er niet heel veel energie in de crowd.
 

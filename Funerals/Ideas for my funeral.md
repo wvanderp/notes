@@ -7,9 +7,9 @@ modified: 2024-03-26T19:30:23+01:00
 
 ## The funeral
 
-in general a normal funeral is ok.
+In general a normal funeral is ok.
 
-don't be afraid to play some inappropriate music for a funeral. aka don't limit yourself to the funeral 500.
+Don't be afraid to play some inappropriate music for a funeral. aka don't limit yourself to the funeral 500.
 
 Take a Group picture because all the people that were significant to me should be there. And there are never any photos from funerals.
 

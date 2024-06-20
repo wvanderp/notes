@@ -13,11 +13,11 @@ tags:
 
 ## een goede schuifmaat
 
-liefts digitaal met weinig error
+Liefts digitaal met weinig error
 
 ## Een internet kabel kaart voor aan de muur
 
-https://shop.telegeography.com/products/2023-submarine-cable-map-free-shipping
+<https://shop.telegeography.com/products/2023-submarine-cable-map-free-shipping>
 
 ## Logitech k400+
 
@@ -25,10 +25,10 @@ Toetsenbord met ingebouwde trackpad
 
 ## flipper zero
 
-https://flipperzero.one/
+<https://flipperzero.one/>
 
 ## FLIR ONE EDGE
 
 ## pouch for my Keychron k6 pro
 
-something like https://www.keychron.com/products/keychron-travel-pouch
+Something like <https://www.keychron.com/products/keychron-travel-pouch>

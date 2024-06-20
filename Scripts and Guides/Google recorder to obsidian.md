@@ -3,17 +3,17 @@ tags:
   - Guide
 ---
 
-I like to record larger pieces of text with google recorder. but this text needs to be transcribed in to real text.
+I like to record larger pieces of text with Google Recorder. But this text needs to be transcribed into actual text.
 
-Google recorder already does this but its a bit shit so in this article I will use Google Collab and OpenAI Whisper to fix this.
+Google Recorder already does this, but it's a bit shit, so in this article, I will use Google Collab and OpenAI Whisper to fix this.
 
-first download the `m4a` file from google recorder
+First, download the `m4a` file from Google Recorder.
 
 [Open this Google Collab](https://colab.research.google.com/drive/1WLYoBvA3YNKQ0X2lC9udUOmjK7rZgAwr?usp=sharing) 
-follow the steps in the Collab to install whisper
+Follow the steps in the Google Collab to install OpenAI Whisper.
 
-you can change some setting in the Collab command. I would recommend changing `--model medium` with `--model large`
+You can change some settings in the Collab command. I would recommend changing `--model medium` with `--model large`
 
-After the Whisper cell has ran and you have refreshed the side bar, all the files are available in the side bar this includes subtitle files and raw text files.
+After the Whisper cell has run and you have refreshed the sidebar, all the files, including subtitle and raw text files, are available on the sidebar.
 
-these files do need post-processing in the form of grammar check and the addition of paragraphs.
+These files do need post-processing in the form of grammar checks and the addition of paragraphs.

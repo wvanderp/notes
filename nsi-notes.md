@@ -1,12 +1,13 @@
-name suggestion index
 # Possible improvements to the NSI data
+
+Name Suggestion Index
 
 Berkman pompstation
 <https://www.wikidata.org/wiki/Q121742717>
-has multiple brands need further investigation
+Has multiple brands need further investigation
 
 Ecotap
-is ecotab een merk van oplaadpalen of een bedrijf dat oplaadpalen maakt?
+Is ecotab een merk van oplaadpalen of een bedrijf dat oplaadpalen maakt?
 
 Park n Charge
 
@@ -16,31 +17,30 @@ WAT?
 Ambachtelijke Slagerij
 WAT
 
-brand=DAF
-should work
+`brand=DAF`
+Should work
 
 Daihatsu
-see what they want to do with the Japanese tag
+See what they want to do with the Japanese tag
 
 Iveco
 Daewoo
 
 Picnic
-vomar Voordeelmarkt
+Vomar Voordeelmarkt
 
 Budbee
 
-we drive solar
+We drive solar
 
 Bo-Rent
-operator=Gemeente Den Haag
-
+`operator=Gemeente Den Haag`
 
 Handyman
 
 The Stone
 
-```
+```json
 {
 	"displayName": "Odido ",
 	"locationSet": {"include": ["nl"]},
@@ -55,11 +55,11 @@ The Stone
 
 PostNL parcel locker
 
-bubble post locker
+Bubble post locker
 
-alberthein to go
+Albert Heijn to go
 
-depricate any atm other then geldmaat
+Deprecate any atm other then geldmaat
 
 TotalEnergies Express
 

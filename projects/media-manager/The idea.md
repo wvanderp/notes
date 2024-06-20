@@ -30,11 +30,11 @@ One of the core tasks of the media manager is to store the files and keep track 
 
 This filesystem will be used to store the files and metadata about the files. This will allow us to have a single source of truth about the files and the metadata. There will be no database or other storage system for the metadata.
 
-having the metadata in the file system allows us to use already available command line tools to edit the files
+Having the metadata in the file system allows us to use already available command line tools to edit the files
 
 ### ingesting files
 
-the media manager will have a way to ingest files. These files can be from all over. A camera, a phone, social media, a website with a large collection, or an already existing library. The media manager will have a way to ingest all of these, including metadata.
+The media manager will have a way to ingest files. These files can be from all over. A camera, a phone, social media, a website with a large collection, or an already existing library. The media manager will have a way to ingest all of these, including metadata.
 
 ### a tasking system
 
@@ -48,7 +48,7 @@ These plugins will be able to add new tasks to the tasking system, new ways to i
 
 ### an API
 
-working with the metadata files in the filesystem will be a bit of a hassle. that is why we will be providing a API that helps us with doing queries on the data
+Working with the metadata files in the filesystem will be a bit of a hassle. that is why we will be providing a API that helps us with doing queries on the data.
 
 ### a web interface
 

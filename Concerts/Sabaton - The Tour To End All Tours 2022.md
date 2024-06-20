@@ -13,6 +13,6 @@ tags:
 
 ---
 
-ik was best koortsig tijdens dit conecrt. isabelle en kay hadden tickets voor het zit gedeelte en matthijs en ik hadden sta tickets.
+Ik was best koortsig tijdens dit concert. Isabelle en Kay hadden tickets voor het zit gedeelte en Matthijs en ik hadden sta tickets.
 
-ik het de hele show maar half mee gekregen maar ik heb het wel naar mijn zin gehad.
+Ik het de hele show maar half mee gekregen maar ik heb het wel naar mijn zin gehad.

@@ -180,7 +180,7 @@ Check on the parking spaces with a weird capacity
 - `capacity is not a number`
 
 If necessary, split the parking space into multiple parking spaces with the correct capacity.
-or add a parking lot if the capacity is very high.
+Or add a parking lot if the capacity is very high.
 ```
 
 ```markdown

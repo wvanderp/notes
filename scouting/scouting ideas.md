@@ -5,32 +5,32 @@ tags:
   - Scouting
 ---
 
-Naar de scouting wiki
+Naar de scouting wiki.
 
 ## Butu
 
 <https://youtu.be/SDWyb7t7vkw>
 
-Soort van trefbal maar er staan er maar twee in het midde die een fles met zand moeten vullen. En andere moeten hen af gooien. Dus vul de fles en ontwijk de bal.je krijgt een punt als de fles gevuld en weer leeg gemaakt is
+Soort van trefbal maar er staan er maar twee in het midde die een fles met zand moeten vullen. En andere moeten hen af gooien. Dus vul de fles en ontwijk de bal.je krijgt een punt als de fles gevuld en weer leeg gemaakt is.
 
 Werkt ook goed met water. Maar zorg dat je de bal niet kwijt kan raken in de bosjes wat dan gaat het spel fout
 
 ## Over loper
 
-Kennismakingsspel
+Kennismakingsspel.
 
 Verdeel de groep in 2 delen. Beide groepen proberen alle mensen naar hun kant te krijgen. Dat doen ze door een te vragen naar een eigenschap.
 
 Bijvoorbeeld:
- Ik zit in groep acht
- Ib zit op nog een sport naast scouting
+ `Ik zit in groep acht`
+ `Ik zit op nog een sport naast scouting`
 
 Als alle mensen worden geselecteerd met een vraag dan verliest het vragende team.
 Een team heeft gewonnen als er nog maar een persoon over is bij het andere team.
 
 De kinderen gaan dit spel al snel optimaliseren zodat iedereen zo snel mogelijk naar de andere kant komt.
 
-Ook is het moeilijk om bij te houden wie er aan de beurd is om een vraag te betekenen
+Ook is het moeilijk om bij te houden wie er aan de beurd is om een vraag te betekenen.
 
 ## Joachime mag ik u met mijn tas slaan?
 
@@ -40,8 +40,8 @@ Is een vikingspel uit een lange noorse traditie. Het wordt gespeeld met een kist
 
 Het doel van het spel is om elkaar met de tas te slaan. Wie dit drie keer lukt heeft gewonnen.
 
-Het spel wordt omstebeurt gespeeld. Ik het begin van de beurd mag de hand nog over de kist verplaatst worden. Daana roept de speler die aan de beurd de ander de spelers naam. Deze moet hier ja op antwoorden. Hierna mag de hand niet meer worden verplaatst. Het lichaam daarentegen mag nog wel worden bewogen. Daana vraag de speler: “mag ik u met mijn tas slaan”, waarop de tegenspeler ook “ja” moet antwoorden. Daarna probeert de speler de ander te raken met de tas. En dan wordt er van beurt gewisseld
-Nog niet getest
+Het spel wordt omstebeurt gespeeld. Ik het begin van de beurd mag de hand nog over de kist verplaatst worden. Daana roept de speler die aan de beurd de ander de spelers naam. Deze moet hier ja op antwoorden. Hierna mag de hand niet meer worden verplaatst. Het lichaam daarentegen mag nog wel worden bewogen. Daana vraag de speler: “mag ik u met mijn tas slaan”, waarop de tegenspeler ook “ja” moet antwoorden. Daarna probeert de speler de ander te raken met de tas. En dan wordt er van beurt gewisseld.
+Nog niet getest.
 
 ## 닭싸움 (dakssaum)
 
@@ -96,12 +96,12 @@ Iedereen krijgt een handicap en daarna gaan we een aantal spellen doen.
 
 ## Beursspel
 
-zie ook [[Scouting/ScoutStockGame/Scout stock game|Scout stock game]]
+Zie ook [[Scout stock game]]
 De koersen worden in het verkenner lokaal weergegeven. Maar er kunnen alleen maar orders gemaakt worden in het dolfijnen lokaal. Hierdoor moeten ze heen en weer rennen met info. Als alle verkenners dit individueel doen dan kunnen we misschien echte beurs effecten krijgen.
 
 ## Ik ga op scouting kamp en ik neem mee
 
-In dit spel maakt iedereen een lijst met de spullen die ze meenemen. Daarna wordt dit op een groot bord geschreven
+In dit spel maakt iedereen een lijst met de spullen die ze meenemen. Daarna wordt dit op een groot bord geschreven.
 
 ## Lagerhuis
 
@@ -137,7 +137,7 @@ Blind Man's Bluff
 
 ## Egg trust exercise
 
-OFFLINETV EGG TRUST BUILDING EXERCISE ft. Sykkuno
+OFFLINETV EGG TRUST BUILDING EXERCISE ft. Sykkuno.
 
 ## Op doosje of op een ei slaan
 
@@ -145,16 +145,16 @@ OFFLINETV EGG TRUST BUILDING EXERCISE ft. Sykkuno
 
 ## Odd one out
 
-OFFLINETV PLAYS ODD ONE OUT
+OFFLINETV PLAYS ODD ONE OUT.
 
 ## Skull - betting game
 
-non-extreme, entirely normal $0,000 game of Skull
+Non-extreme, entirely normal $0,000 game of Skull.
 
 Place a skull or flower on the table or place a bet on how many flowers the are on the table.
 If you are correct, then you win if you lose, you lose a card.
 
-If you are out of cards, you are out of the game. Last player standing wins
+If you are out of cards, you are out of the game. Last player standing wins.
 
 ## Upgraded Tic Tac Toe
 
@@ -162,7 +162,7 @@ If you are out of cards, you are out of the game. Last player standing wins
 
 In deze versie van boter kaas en eiren heb je meerdere grootes van hoetjes die je over elkaar mag plaaten als het past mag je zo over elkaar platensen
 
-Wie als eerste drie op een rij heeft gewonnen
+Wie als eerste drie op een rij heeft gewonnen.
 
 ## Gaaf en stom
 

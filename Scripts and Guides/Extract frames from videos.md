@@ -5,13 +5,13 @@ tags:
 ---
 
 
-in its most basic from is the following command
+In its most basic from is the following command.
 
 ```shell
 ffmpeg -i input.mp4 -vf "fps=1" frame%04d.png
 ```
 
-`-i input.mp4` is the selecting the input file
+`-i input.mp4` is the selecting the input file.
 
 `-vf "fps=1"` set the amount of frames to be saved. with:
 - `1` => 1 every second
@@ -20,12 +20,12 @@ ffmpeg -i input.mp4 -vf "fps=1" frame%04d.png
 - `1/4` => 1 every 4 seconds
 - `1/30` => 1 every 30 seconds
 
-`frame%04d.png` is the name of the output file. with `%04d` being replaced by a counter from `0000` to `9999`
+`frame%04d.png` is the name of the output file. with `%04d` being replaced by a counter from `0000` to `9999`.
 
-for a more comparative guide go to: [`Extract Frames using FFmpeg: A Comprehensive Guide` by  OTTVerse](https://ottverse.com/extract-frames-using-ffmpeg-a-comprehensive-guide/https://ottverse.com/extract-frames-using-ffmpeg-a-comprehensive-guide/)
+For a more comparative guide go to: [`Extract Frames using FFmpeg: A Comprehensive Guide` by  OTTVerse](https://ottverse.com/extract-frames-using-ffmpeg-a-comprehensive-guide/https://ottverse.com/extract-frames-using-ffmpeg-a-comprehensive-guide/)
 ## bat script
 
-this is a script that will collects all `mp4` and `webm` videos and extracts every second frame with `ffmpeg` 
+This is a script that will collects all `mp4` and `webm` videos and extracts every second frame with `ffmpeg`.
 
 ```bash
 @echo off

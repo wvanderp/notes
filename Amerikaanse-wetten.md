@@ -1,6 +1,6 @@
 # Nederlandse equivalenten van Amerikaanse wetten
 
-als eerste ibga (ik ben geen advocaat) en ik ben ook geen jurist. ik ben iemand die zich interesseert in de wet en de Nederlandse wet probeert te begrijpen. ik ben geen expert en ik kan fouten maken. als je een fout ziet, laat het me weten.
+Als eerste ibga (ik ben geen advocaat) en ik ben ook geen jurist. ik ben iemand die zich interesseert in de wet en de Nederlandse wet probeert te begrijpen. ik ben geen expert en ik kan fouten maken. als je een fout ziet, laat het me weten.
 
 ## Constitutional amendments
 
@@ -10,15 +10,15 @@ als eerste ibga (ik ben geen advocaat) en ik ben ook geen jurist. ik ben iemand 
 
 In dit amendment is vast gelegd dat de overheid geen wetten mag maken die de vrijheid van religie, vrijheid van meningsuiting, vrijheid van de pers, vrijheid van vreedzame vergadering en het recht om de overheid te vragen om iets te veranderen, beperken.
 
-in Nederland is dit op drie plekken vastgelegd:
+In Nederland is dit op drie plekken vastgelegd:
 
 * [Artikel 7 van de Nederlandse Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&hoofdstuk=1&artikel=7&z=2023-02-22&g=2023-02-22)
 * [artikel 10 van Europees Verdrag voor de Rechten van de Mens](https://wetten.overheid.nl/BWBV0001000/2021-08-01#:~:text=Article%2010.%20%2D%20Freedom%20of%20expression)
 * [Artikel 19 van de Universele Verklaring van de Rechten van de Mens](https://www.un.org/en/about-us/universal-declaration-of-human-rights#:~:text=worship%20and%20observance.-,Article%2019,-Everyone%20has%20the)
 
-hierbij word artikel 10 het meest gebruikt in de rechtspraak.
+Hierbij word artikel 10 het meest gebruikt in de rechtspraak.
 
-vrijheid van religie is vastgelegd in [artikel 6 van de Nederlandse Grondwet](https://wetten.overheid.nl/BWBR0001840/2023-02-22/#Hoofdstuk1_Artikel6)
+Vrijheid van religie is vastgelegd in [artikel 6 van de Nederlandse Grondwet](https://wetten.overheid.nl/BWBR0001840/2023-02-22/#Hoofdstuk1_Artikel6)
 
 ### Second Amendment
 
@@ -48,7 +48,7 @@ vrijheid van religie is vastgelegd in [artikel 6 van de Nederlandse Grondwet](ht
 
 >> The right of citizens of the United States to vote shall not be denied or abridged by the United States or by any State on account of race, color, or previous condition of servitude.
 
-and
+And
 
 >> The right of citizens of the United States to vote shall not be denied or abridged by the United States or by any State on account of sex.
 
@@ -58,11 +58,11 @@ and
 
 >> You have the right to remain silent. Anything you say can and will be used against you in a court of law. You have the right to an attorney. If you cannot afford an attorney, one will be provided for you. Do you understand the rights I have just read to you? With these rights in mind, do you wish to speak to me?
 
-### double jeopardy
+### Double jeopardy
 
 >> No person shall be held to answer for a capital, or otherwise infamous crime, unless on a presentment or indictment of a Grand Jury, except in cases arising in the land or naval forces, or in the Militia, when in actual service in time of War or public danger; nor shall any person be subject for the same offence to be twice put in jeopardy of life or limb
 
-### eminent domain
+### Eminent domain
 
 >> nor shall private property be taken for public use, without just compensation.
 

@@ -5,7 +5,7 @@ tags:
 
 # OSRS DB
 
-osrs-db is a data collection project for Old School Runescape. The goal is to create a low-maintenance, machine-readable database of all items, monsters, and other data in the game.
+OSRS-DB is a data collection project for Old School Runescape. The goal is to create a low-maintenance, machine-readable database of all items, monsters, and other data in the game.
 
 It should consist of two types of data:
 
@@ -50,7 +50,7 @@ Then, some workers run the dynamic data against the static data and update the s
 
 The data collected by the Runelite plugin could be used to create a web app that shows interesting stats about the game.
 
-for example,
+For example,
 
 - The most popular gear setups
 - The most popular locations

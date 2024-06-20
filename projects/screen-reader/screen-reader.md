@@ -2,7 +2,7 @@
 
 Many a time ive had the situation where I wanted  to extract text from a video or livestream. But i never found a good solution for this. So this is me planting the seed for a project that would solve this problem.
 
-my solution consists of two parts:
+My solution consists of two parts:
 
 - A web app where you can define the capture areas and the text extraction method and other extraction settings.
 - A cli tool that takes a video file and the settings file and extracts the data.

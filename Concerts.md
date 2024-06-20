@@ -1,9 +1,9 @@
 ---
 tags:
-  - concert
+  - Concert
 ---
-To add new conecrts to this list add a new conecrt note to the concerts forlder
-use the following template: [[Concert]]
+To add new conecrts to this list add a new conecrt note to the concerts forlder.
+Use the following template: [[Concert]]
 
 ---
 

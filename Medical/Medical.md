@@ -76,7 +76,7 @@ Een huisarts (die ik normaal gesproken niet heb) zei dat alles goed is.
 
 De computer zegt ook dat het goed is en de computer is nooit tevreden.
 
-dus het is waarschijnlijk spier of gewrichtspijn. Dit zou met 3 dagen over moeten zijn.
+Dus het is waarschijnlijk spier of gewrichtspijn. Dit zou met 3 dagen over moeten zijn.
 
 Wel heb ik een uitdraai van mijn ekg gekregen. :)
 
@@ -84,7 +84,7 @@ Wel heb ik een uitdraai van mijn ekg gekregen. :)
 
 ## 2024-03-08
 
-ik heb nog steeds pijn in mijn schouder
+Ik heb nog steeds pijn in mijn schouder
 
 Nu merk ik wel dat ik momenteel het slechtste postuur ooit heb terwijl ik hier zit.
 
@@ -98,7 +98,7 @@ Ze zag dat mijn moeder drager is van het p16-Leiden gen. Ik ben zelf niet getest
 
 Zo ver bij zowel mij als mijn moeder bekend is er geen geschiedenis van alvleesklierkanker aan mijn moeders kant van de familie.
 
-de dermatoloog heeft mij helemaal bekeken en een aantal plekken iets over gezegd
+De dermatoloog heeft mij helemaal bekeken en een aantal plekken iets over gezegd
 
 Ik heb drie dermatofibromen.
 
@@ -107,8 +107,8 @@ Ik heb drie dermatofibromen.
 - Linker heup
 
 Op een na zagen al mijn moedervlekken er goed uit.
-die op mijn knie is niet kwaadaardig maar ziet er wel anders uit dan de anderen en daarom moet die er uit.
+Die op mijn knie is niet kwaadaardig maar ziet er wel anders uit dan de anderen en daarom moet die er uit.
 
-ik heb al eerder een foto gemaakt van die moedervlek en hij is niet echt veranderd sinds 2023.
+Ik heb al eerder een foto gemaakt van die moedervlek en hij is niet echt veranderd sinds 2023.
 
-nu gaat hij er 15 augustus?? er uit.
+Nu gaat hij er 15 augustus?? er uit.
