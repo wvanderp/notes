@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Scripts and Guides/Extract frames from videos.md",
+                "file": "Journal/Daily/2024-06-20.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Scripts and Guides/Extract frames from videos.md",
+                "file": "Journal/Daily/2024-06-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Scripts and Guides/Extract frames from videos.md",
+                "file": "Journal/Daily/2024-06-20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Scripts and Guides/Extract frames from videos.md"
+                "file": "Journal/Daily/2024-06-20.md"
               }
             }
           }
@@ -149,46 +149,45 @@
   },
   "active": "36a1977a1fd8e5d3",
   "lastOpenFiles": [
-    "Scripts and Guides/Downloading-from-instagram.md",
-    "Scripts and Guides/har download button.png",
-    "nsi-notes.md",
-    "Ideas/free-ideas.md",
-    "Projects/screen-reader/screen-reader.md",
-    "Scouting/Scout stock game.md",
-    "Concerts.md",
-    "media-to-watch.md",
+    "Journal/Template/template.md",
+    "Journal/Daily/2024-06-20.md",
+    "Journal/Daily/2024-06-19.md",
+    "Journal/Template/node_modules/handlebars/types/index.d.ts",
+    "Journal/Template/node_modules/handlebars/types",
+    "Journal/Template/node_modules/@esbuild/android-x64",
+    "Journal/Template/node_modules/@esbuild/aix-ppc64",
+    "Journal/Template/node_modules/@esbuild/win32-ia32",
+    "Journal/Template/node_modules/fsevents",
+    "Journal/Template/node_modules/@esbuild/sunos-x64",
+    "Journal/Template/node_modules/@esbuild/win32-arm64",
+    "Journal/Template/node_modules/@esbuild/netbsd-x64",
+    "Journal/Template/node_modules/@esbuild/openbsd-x64",
+    "Journal/Template/node_modules/openai/src/_shims/README.md",
+    "Journal/Template/node_modules/typescript/README.md",
+    "Journal/Template/node_modules/openai/_shims/README.md",
+    "Journal/Template/node_modules/node-domexception/README.md",
+    "Journal/Template/node_modules/formdata-node/readme.md",
+    "Journal/Template/node_modules/form-data-encoder/readme.md",
+    "Journal/Template/node_modules/@types/node/README.md",
+    "Journal/Template/node_modules/openai/README.md",
+    "Journal/Template/node_modules/openai/CHANGELOG.md",
+    "Journal/Template/node_modules/source-map/CHANGELOG.md",
+    "Journal/Template/node_modules/agentkeepalive/History.md",
+    "Journal/Template/node_modules/dotenv/README-es.md",
+    "Journal/Template/node_modules/node-fetch/README.md",
+    "Journal/Template/node_modules/webidl-conversions/LICENSE.md",
+    "Journal/Template/node_modules/combined-stream/Readme.md",
+    "Journal/Template/node_modules/ms/license.md",
+    "Journal/Daily/2024-06-18.md",
+    "Journal/Daily/2024-06-17.md",
     "Scripts and Guides/Extract frames from videos.md",
-    "Scripts and Guides/Keychron K6 pro via programming.md",
-    "Scripts and Guides/Google recorder to obsidian.md",
-    "Scripts and Guides/Gether nsi targets.md",
-    "Scripts and Guides/find-hidden-drawio-files.md",
-    "Projects/osm-province-of-the-month/queries.md",
-    "emergency-kit.md",
-    "technical-docs/config files/gitconfig.md",
-    "technical-docs/config files/winget list.md",
-    "technical-docs/gitlab-markdown-notes.md",
-    "Scripts and Guides",
-    "Projects/media-manager/Idea sources.md",
-    "Projects/screen-reader",
-    "Projects/Nerdy Tourism/seoul.md",
-    "Projects/Nerdy Tourism/nerdy-tourist-attractions-in-the-netherlands.md",
-    "Projects/Nerdy Tourism/london.md",
-    "Projects/Nerdy Tourism/artical.wiki",
-    "Projects/Nerdy Tourism",
-    "files/Pasted image 20240527111844.png",
-    "Blog posts/Popcorntime-with-DHT.md",
-    "Blog posts/First person rts.md",
-    "Blog posts",
-    "Personal/food order reviews.md",
-    "Personal/1 videos that describe my live perfectly.md",
-    "Literature",
-    "Job",
-    "Information",
-    "Ideas",
-    "technical-docs/software list/file.json",
+    "technical-docs/airportCodes.md",
+    "recipies/stampot-peen-en-uien.md",
+    "recipies/pasta-spinasie-pennen.md",
+    "recipies/meatloaf.md",
     "Personal/medical images/EKG.jpg",
+    "Scripts and Guides/har download button.png",
     "files/Pasted image 20240527111844.png",
-    "Medical/medical images/EKG.jpg",
     "Medical/medical images/EKG.jpg",
     "Projects/Iscout Better source/images/oleaatAnswer-sd8907dg.jpg.jpg",
     "Projects/Iscout Better source/images/oleaat.png.png",

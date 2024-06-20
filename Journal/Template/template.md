@@ -6,7 +6,6 @@ auteur:
   - ChatGPT 4-o
   - Me
 ---
-
 # Journal entry for {{TodaysDate}}
 
 ## Summary of yesterday's entry
@@ -17,14 +16,12 @@ auteur:
 
 **What did you have for dinner**: 
 **Grade for the day**: 
-
 ### What did you do today?
 
 **Morning**: 
 **Afternoon**: 
 **After work**: 
 **Evening**: 
-
 ## The questions
 
 {{Template}}
