@@ -1,17 +1,21 @@
 ---
 created: 2023-03-15T00:31:20+01:00
 modified: 2023-03-15T00:31:20+01:00
+aliases:
+  - Dystopian movie inspiration
 ---
 
 # Vibes for my dystopian sci-fi movie
 
 ## Visuals
 
+### Gun instructor, Maeri shooting range, Pyongyang
+
 ![Gun instructor, Maeri shooting range, Pyongyang 2015 © Eddo Hartmann](Gun_instructor_Pyongyang_2015_Eddo_Hartmann.jpg)
 
 One of the vibes important to this movie is conflict. So, one of the themes can be progressive vs. conservative. Do we lean into technology or humanity, and what happens when one side dives into the other domain?
 
----
+### Rammstein - Deutschland
 
 ![Deutschland](deuchland.avif)
 [Rammstein - Deutschland](https://www.youtube.com/watch?v=NeQM1c-XCDc)
@@ -19,13 +23,13 @@ One of the vibes important to this movie is conflict. So, one of the themes can 
 There are a few excellent concepts in this video clip. Like the same mysterious entity reoccurring in many historical settings. The way color red highlights the presence of this entity.
 
 Every shot is the best version of the shot. There is movement, cool visuals, and a story in every shot.
+### Falling In Reverse - "Ronald" (feat. Tech N9ne & Alex Terrible)
+https://www.youtube.com/watch?v=wWoQ7PFSYlk
 
 ## Music
 
 There is nothing better than having a fantastic song in your movie.
-
 But what if the entire movie consists of nothing but excellent songs that drive the story?
-
 This list has songs that can be incredible movie scenes.
 
 ### Evanescence - Going Under
@@ -46,7 +50,7 @@ The light gets a bit brighter as the men disappear into the light as if the bodi
 
 We hang a moment in utter silence to get the impact of the loss we have suffered with our victory over the general.
 
-## movies
+## Movies
 
 ### heart of stone
 

@@ -1,3 +1,9 @@
+---
+tags:
+  - OSM
+---
+
+
 # stats for province van de maand
 
 ## geofabrik size

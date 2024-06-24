@@ -1,3 +1,8 @@
+---
+tags:
+  - OSM
+---
+
 Ik denk dat we terug kunnen kijken op een succesvolle maand.
 
 Ookal was het voor mij persoonlijk een drukke maand. (vandaar dat deze post pas halverwege de maand komt)

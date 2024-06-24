@@ -1,3 +1,8 @@
+---
+tags:
+  - OSM
+---
+
 # queries
 
 `Friesland`
