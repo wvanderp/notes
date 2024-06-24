@@ -17,7 +17,8 @@ async function newTemplate() {
 
   const todaysDate = new Date().toISOString().split('T')[0];
   const todaysPath = Path.join(currentPath, `Daily/${todaysDate}.md`);
-  const yesterdaysDate = new Date(new Date().setDate(new Date().getDate() - 1)).toISOString().split('T')[0];
+
+  const yesterdaysDate = new Date(new Date(todaysDate).getTime() - 24 * 60 * 60 * 1000).toISOString().split('T')[0];
   const yesterdaysPath = Path.join(currentPath, `Daily/${yesterdaysDate}.md`);
 
   if (!fs.existsSync(yesterdaysPath)) {

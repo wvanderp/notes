@@ -1,3 +1,9 @@
+---
+tags:
+  - Blog
+BlogIndex: 2
+---
+
 I have this unique concept for a game that blends the intense action of a first-person shooter with the strategic depth of a real-time strategy game. The game is set in a futuristic world where various factions compete for global dominance. In this game, your focus is not just on shooting but also on constructing support structures and vehicles crucial for your path to world domination. This blend of action and strategy will appeal to gamers who enjoy both genres, offering a unique and immersive gaming experience.
 
 For example, one of the unique features of the game is the ability to construct various structures that provide strategic advantages. You could have a constructible wall that provides shelter when you think you are working from somewhere, or you could have combat drones that shoot from a higher angle, so the walls need to be higher if you don't want to get shot. On the other hand, you can then have anti-drone defenses that shoot little rockets at the drones to make them go away. These unique gameplay elements add depth and variety to the game, making each match a unique strategic challenge.

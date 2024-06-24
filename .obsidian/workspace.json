@@ -11,8 +11,12 @@
             "id": "1e7b82027ea38c2e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Journal/Daily/2024-06-24.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -61,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -82,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Journal/Daily/2024-06-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Journal/Daily/2024-06-24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Journal/Daily/2024-06-24.md"
+              }
             }
           }
         ]
@@ -142,24 +149,37 @@
   },
   "active": "1e7b82027ea38c2e",
   "lastOpenFiles": [
+    "Journal/Daily/2024-06-23.md",
+    "Journal/Daily/2024-06-21.md",
+    "Journal/Daily/2024-06-24.md",
+    "Journal/Template/template.md",
+    "Journal/Daily/2024-06-22.md",
+    "Blog posts/Best camera for photogrammetry.md",
+    "Pasted image 20240624224819.png",
+    "Pasted image 20240624224522.png",
+    "Pasted image 20240624224101.png",
+    "Pasted image 20240624223944.png",
+    "Pasted image 20240624222954.png",
+    "Pasted image 20240624222918.png",
+    "Pasted image 20240624222757.png",
+    "Pasted image 20240624222715.png",
+    "Pasted image 20240624222508.png",
+    "Pasted image 20240624222349.png",
+    "Blog posts/First person rts.md",
+    "Blog posts/Popcorntime-with-DHT.md",
+    "Best camera for photogrammetry.md",
     "Projects/CartoCam/sources for CartoCam.md",
     "Projects/CartoCam",
-    "Journal/Daily/2024-06-24.md",
-    "Journal/Daily/2024-06-23.md",
     "Projects/osm-province-of-the-month/stats.md",
     "creative-vibes/Vibes-for-my-dystopian-sci-fi-movie.md",
     "creative-vibes/Hacker film inspiration.md",
     "Weddenschappen.md",
-    "Projects/osm-province-of-the-month/image.png",
     "Projects/osm-province-of-the-month/observations.md",
     "Projects/osm-province-of-the-month/post.md",
     "Projects/osm-province-of-the-month/queries.md",
     "Projects/osm-province-of-the-month/Stats.md",
     "Projects/osrs-map/osrs map.md",
     "Journal/Daily/2024-06-20.md",
-    "Journal/Daily/2024-06-22.md",
-    "Journal/Daily/2024-06-21.md",
-    "Journal/Template/template.md",
     "Journal/Daily/2024-06-19.md",
     "Journal/Template/node_modules/handlebars/types/index.d.ts",
     "Journal/Template/node_modules/handlebars/types",
@@ -174,19 +194,6 @@
     "Journal/Template/node_modules/typescript/README.md",
     "Journal/Template/node_modules/openai/_shims/README.md",
     "Journal/Template/node_modules/node-domexception/README.md",
-    "Journal/Template/node_modules/formdata-node/readme.md",
-    "Journal/Template/node_modules/form-data-encoder/readme.md",
-    "Journal/Template/node_modules/@types/node/README.md",
-    "Journal/Template/node_modules/openai/README.md",
-    "Personal/medical images/EKG.jpg",
-    "Scripts and Guides/har download button.png",
-    "files/Pasted image 20240527111844.png",
-    "Medical/medical images/EKG.jpg",
-    "Projects/Iscout Better source/images/oleaatAnswer-sd8907dg.jpg.jpg",
-    "Projects/Iscout Better source/images/oleaat.png.png",
-    "Projects/Iscout Better source/images/mostOfThis.jpg.jpg",
-    "Projects/Iscout Better source/images/batmap.png.png",
-    "Projects/digatising/images/name.png",
     "Untitled.canvas"
   ]
 }

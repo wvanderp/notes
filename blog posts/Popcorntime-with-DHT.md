@@ -1,3 +1,10 @@
+---
+tags:
+  - Blog
+BlogIndex: 1
+---
+
+
 # Recreating popcorn time using DHT and Proof of Seed
 
 I have had that idea for a long time because popcorn time was the favorite way to pirate our favorite movies and TV shows. The big problem with Popcorn Time was that it relied on a central database that all kinds of authorities could take down. because of that, there was never a reliable source of popcorn time because they were popping up and going down all over the place.
