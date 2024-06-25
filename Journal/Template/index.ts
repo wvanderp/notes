@@ -28,7 +28,10 @@ async function newTemplate() {
   const yesterdaysEntry = fs.readFileSync(yesterdaysPath, 'utf8');
 
   const summary = await generateSummary(yesterdaysEntry);
-  const newTemplate = await generateTemplate(summary, goals);
+  const TherapistQuestions = await generateTherapistTemplate(summary, goals);
+  const GeneralQuestions = await generateGeneralTemplate(summary, goals);
+
+  const newTemplate = fillOutTemplate(summary, TherapistQuestions, GeneralQuestions);
   fs.writeFileSync(todaysPath, newTemplate);
 }
 
@@ -107,7 +110,7 @@ function cleanString(input: string): string {
 });
 }
 
-async function generateTemplate(summary: string, goals: string) {
+async function generateTherapistTemplate(summary: string, goals: string) {
   const systemPrompt = `
 You are a Journal template generator and a therapist.
 I want a journal template that helps me reflect on the day.
@@ -116,7 +119,7 @@ I will be filling it out in the evening.
 Generate a daily journal template based on some goals and the summary of the previous day's journal entry.
 Don't include the date or a heading in the template. I will add that myself.
 
-The template should relate to the goals and the previous day's entry summary.
+The template should reference to the previous day's entry summary and use the goals as a guide.
 The questions should be designed to help me reach my goals.
 
 The exercise will contain five questions.`;
@@ -161,19 +164,69 @@ The exercise will contain five questions.`;
 
   const AITemplate = response?.choices[0]?.message?.content ?? '';
 
-
-  // read in the handlebars template
-  const templatePath = Path.join(currentPath, 'Template/template.md');
-  const templateContent = fs.readFileSync(templatePath, 'utf8');
-
-  const template = Handlebars.compile(templateContent);
-
-  const context = {
-    TodaysDate: new Date().toISOString().split('T')[0],
-    Summary: cleanString(summary),
-    Template: cleanString(AITemplate),
-  };
+  return cleanString(AITemplate);
+}
 
 
-  return cleanString(template(context));
+async function generateGeneralTemplate(summary: string, goals: string) {
+  // bot to extract as much additional information as possible from the summary
+  const systemPrompt = `
+  You are writing questions to extract more information from the summary.
+  You get three questions to clear up any confusion and to get more information.
+
+  the questions should reference the summary and be designed to make the user write more about the summary.
+`;
+
+  const response = await openai.chat.completions.create({
+    model: "gpt-4o",
+    messages: [
+      {
+        "role": "system",
+        "content": [
+          {
+            "type": "text",
+            "text": systemPrompt
+          }
+        ]
+      },
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": `**Summary of yesterday's entry**\n${summary}`
+          }
+        ]
+      }
+    ],
+    temperature: 1,
+    max_tokens: 256,
+    top_p: 1,
+    frequency_penalty: 0,
+    presence_penalty: 0,
+  });
+
+  const AITemplate = response?.choices[0]?.message?.content ?? '';
+
+  return cleanString(AITemplate);
+
+}
+
+// ----------------------------
+
+function fillOutTemplate(summary: string, TherapistQuestions: string, GeneralQuestions: string){
+    const templatePath = Path.join(currentPath, 'Template/template.md');
+    const templateContent = fs.readFileSync(templatePath, 'utf8');
+  
+    const template = Handlebars.compile(templateContent);
+  
+    const context = {
+      TodaysDate: new Date().toISOString().split('T')[0],
+      Summary: cleanString(summary),
+      TherapistQuestions: cleanString(TherapistQuestions),
+      GeneralQuestions: cleanString(GeneralQuestions),
+    };
+  
+  
+    return cleanString(template(context));
 }
