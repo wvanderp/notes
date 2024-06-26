@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b274e18477cf3a09",
+        "id": "5ae4753a266e8875",
         "type": "tabs",
         "children": [
           {
-            "id": "65775a209f70fc1b",
+            "id": "1e7b82027ea38c2e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/Daily/2024-06-25.md",
+                "file": "Journal/Daily/2024-06-26.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "auteur",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/Daily/2024-06-25.md",
+                "file": "Journal/Daily/2024-06-26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/Daily/2024-06-25.md",
+                "file": "Journal/Daily/2024-06-26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,16 +125,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/Daily/2024-06-25.md"
+                "file": "Journal/Daily/2024-06-26.md"
               }
-            }
-          },
-          {
-            "id": "f2264c11d69f8475",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
             }
           }
         ]
@@ -155,16 +147,16 @@
       "random-note:Open random note": false
     }
   },
-  "active": "65775a209f70fc1b",
+  "active": "1e7b82027ea38c2e",
   "lastOpenFiles": [
-    "Journal/Template/template.md",
-    "Journal/Daily/2024-06-25.md",
     "Journal/Daily/2024-06-25.md",
     "Journal/Daily/2024-06-24.md",
-    "Recipes/pasta-spinasie-pennen.md",
-    "projects/CartoCam/sources for CartoCam.md",
-    "projects/CartoCam",
-    "blog posts/Best camera for photogrammetry.md",
+    "Journal/Daily/2024-06-26.md",
+    "Journal/Daily/2024-06-23.md",
+    "Journal/Daily/2024-06-21.md",
+    "Journal/Template/template.md",
+    "Journal/Daily/2024-06-22.md",
+    "Blog posts/Best camera for photogrammetry.md",
     "Pasted image 20240624224819.png",
     "Pasted image 20240624224522.png",
     "Pasted image 20240624224101.png",
@@ -175,34 +167,34 @@
     "Pasted image 20240624222715.png",
     "Pasted image 20240624222508.png",
     "Pasted image 20240624222349.png",
-    "Journal/Daily/2024-06-23.md",
-    "Journal/Daily/2024-06-21.md",
+    "Blog posts/First person rts.md",
+    "Blog posts/Popcorntime-with-DHT.md",
+    "Best camera for photogrammetry.md",
+    "Projects/CartoCam/sources for CartoCam.md",
+    "Projects/CartoCam",
+    "Projects/osm-province-of-the-month/stats.md",
+    "creative-vibes/Vibes-for-my-dystopian-sci-fi-movie.md",
+    "creative-vibes/Hacker film inspiration.md",
+    "Weddenschappen.md",
+    "Projects/osm-province-of-the-month/observations.md",
+    "Projects/osm-province-of-the-month/post.md",
+    "Projects/osm-province-of-the-month/queries.md",
+    "Projects/osm-province-of-the-month/Stats.md",
+    "Projects/osrs-map/osrs map.md",
     "Journal/Daily/2024-06-20.md",
     "Journal/Daily/2024-06-19.md",
-    "Journal/Daily/2024-06-19 1.md",
-    "Journal/Template/node_modules/typescript/ThirdPartyNoticeText.txt",
-    "Journal/Template/node_modules/typescript/LICENSE.txt",
-    "Journal/Template/node_modules/typescript/lib/typescript.d.ts",
-    "Journal/Template/node_modules/typescript/lib/tsserverlibrary.d.ts",
-    "Journal/Template/node_modules/typescript/lib/lib.webworker.iterable.d.ts",
-    "Journal/Template/node_modules/typescript/lib/lib.webworker.importscripts.d.ts",
-    "Journal/Template/node_modules/typescript/lib/lib.webworker.d.ts",
-    "Journal/Template/node_modules/typescript/lib/lib.webworker.asynciterable.d.ts",
-    "Journal/Template/node_modules/typescript/lib/lib.scripthost.d.ts",
-    "Journal/Template/node_modules/typescript/SECURITY.md",
-    "Journal/Template/node_modules/typescript/README.md",
-    "Journal/Template/node_modules/@esbuild/linux-x64/README.md",
-    "Journal/Template/node_modules/web-streams-polyfill/README.md",
-    "Journal/Template/node_modules/handlebars/release-notes.md",
+    "Journal/Template/node_modules/handlebars/types/index.d.ts",
+    "Journal/Template/node_modules/handlebars/types",
+    "Journal/Template/node_modules/@esbuild/android-x64",
+    "Journal/Template/node_modules/@esbuild/aix-ppc64",
+    "Journal/Template/node_modules/@esbuild/win32-ia32",
+    "Journal/Template/node_modules/fsevents",
+    "Journal/Template/node_modules/@esbuild/sunos-x64",
+    "Journal/Template/node_modules/@esbuild/win32-arm64",
+    "Journal/Template/node_modules/@esbuild/netbsd-x64",
     "Journal/Template/node_modules/openai/src/_shims/README.md",
-    "Journal/Template/node_modules/uglify-js/README.md",
+    "Journal/Template/node_modules/typescript/README.md",
     "Journal/Template/node_modules/openai/_shims/README.md",
-    "Journal/Template/node_modules/neo-async/README.md",
-    "Journal/Template/node_modules/tsx/README.md",
-    "Journal/Template/node_modules/formdata-node/node_modules/web-streams-polyfill/README.md",
-    "Journal/Template/node_modules/form-data-encoder/readme.md",
-    "Journal/Template/node_modules/formdata-node/readme.md",
-    "Journal/Template/node_modules/esbuild/README.md",
     "Untitled.canvas"
   ]
 }
