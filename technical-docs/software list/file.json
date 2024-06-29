@@ -1,0 +1,173 @@
+{
+	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
+	"CreationDate" : "2024-03-20T20:33:20.238-00:00",
+	"Sources" : 
+	[
+		{
+			"Packages" : 
+			[
+				{
+					"PackageIdentifier": "AceStream.AceStream"
+				},
+				{
+					"PackageIdentifier": "AndreWiethoff.ExactAudioCopy"
+				},
+				{
+					"PackageIdentifier": "AppWork.JDownloader"
+				},
+				{
+					"PackageIdentifier": "Audacity.Audacity"
+				},
+				{
+					"PackageIdentifier": "Axosoft.GitKraken"
+				},
+				{
+					"PackageIdentifier": "BiglySoftware.BiglyBT"
+				},
+				{
+					"PackageIdentifier": "BlenderFoundation.Blender"
+				},
+				{
+					"PackageIdentifier": "CodeSector.TeraCopy"
+				},
+				{
+					"PackageIdentifier": "Discord.Discord"
+				},
+				{
+					"PackageIdentifier": "Docker.DockerDesktop"
+				},
+				{
+					"PackageIdentifier": "Dropbox.Dropbox"
+				},
+				{
+					"PackageIdentifier": "DupeGuru.DupeGuru"
+				},
+				{
+					"PackageIdentifier": "EclipseAdoptium.Temurin.11.JDK"
+				},
+				{
+					"PackageIdentifier": "EclipseAdoptium.Temurin.17.JDK"
+				},
+				{
+					"PackageIdentifier": "EclipseAdoptium.Temurin.21.JDK"
+				},
+				{
+					"PackageIdentifier": "EclipseAdoptium.Temurin.8.JDK"
+				},
+				{
+					"PackageIdentifier": "GIMP.GIMP"
+				},
+				{
+					"PackageIdentifier": "Git.Git"
+				},
+				{
+					"PackageIdentifier": "Google.Chrome"
+				},
+				{
+					"PackageIdentifier": "Google.ChromeRemoteDesktop"
+				},
+				{
+					"PackageIdentifier": "GuinpinSoft.MakeMKV"
+				},
+				{
+					"PackageIdentifier": "HandBrake.HandBrake"
+				},
+				{
+					"PackageIdentifier": "Hugin.Hugin"
+				},
+				{
+					"PackageIdentifier": "Inkscape.Inkscape"
+				},
+				{
+					"PackageIdentifier": "Insomnia.Insomnia"
+				},
+				{
+					"PackageIdentifier": "LIGHTNINGUK.ImgBurn"
+				},
+				{
+					"PackageIdentifier": "Malwarebytes.Malwarebytes"
+				},
+				{
+					"PackageIdentifier": "Microsoft.VisualStudio.2022.Community"
+				},
+				{
+					"PackageIdentifier": "Microsoft.VisualStudioCode"
+				},
+				{
+					"PackageIdentifier": "MusicBrainz.Picard"
+				},
+				{
+					"PackageIdentifier": "Mythicsoft.AgentRansack"
+				},
+				{
+					"PackageIdentifier": "OBSProject.OBSStudio"
+				},
+				{
+					"PackageIdentifier": "Obsidian.Obsidian"
+				},
+				{
+					"PackageIdentifier": "OpenStreetMap.Josm"
+				},
+				{
+					"PackageIdentifier": "PrivateInternetAccess.PrivateInternetAccess"
+				},
+				{
+					"PackageIdentifier": "Prusa3D.PrusaSlicer"
+				},
+				{
+					"PackageIdentifier": "PuTTY.PuTTY"
+				},
+				{
+					"PackageIdentifier": "Python.Python.3.12"
+				},
+				{
+					"PackageIdentifier": "RARLab.WinRAR"
+				},
+				{
+					"PackageIdentifier": "ShareX.ShareX"
+				},
+				{
+					"PackageIdentifier": "SyncTrayzor.SyncTrayzor"
+				},
+				{
+					"PackageIdentifier": "TGRMNSoftware.BulkRenameUtility"
+				},
+				{
+					"PackageIdentifier": "TheDocumentFoundation.LibreOffice"
+				},
+				{
+					"PackageIdentifier": "Ultimaker.Cura"
+				},
+				{
+					"PackageIdentifier": "Valve.Steam"
+				},
+				{
+					"PackageIdentifier": "VideoLAN.VLC"
+				},
+				{
+					"PackageIdentifier": "WinDirStat.WinDirStat"
+				},
+				{
+					"PackageIdentifier": "WinSCP.WinSCP"
+				},
+				{
+					"PackageIdentifier": "darktable.darktable"
+				},
+				{
+					"PackageIdentifier": "karakun.OpenWebStart"
+				},
+				{
+					"PackageIdentifier": "qBittorrent.qBittorrent"
+				}
+			],
+			"SourceDetails" : 
+			{
+				"Argument" : "https://cdn.winget.microsoft.com/cache",
+				"Identifier" : "Microsoft.Winget.Source_8wekyb3d8bbwe",
+				"Name" : "winget",
+				"Type" : "Microsoft.PreIndexed.Package"
+			}
+		}
+	],
+	"WinGetVersion" : "1.7.10661"
+}

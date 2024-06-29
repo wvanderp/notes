@@ -1,0 +1,199 @@
+{{pagebanner|Netherlands Banner.jpg}}
+'''Nerdy Tourist Attractions in the Netherlands''' is a guide to exploring the Netherlands through its captivating destinations for technology enthusiasts, science aficionados, history buffs, and curious minds. From scientific landmarks to architectural wonders, the country offers a rich cultural heritage and significant contributions to various fields of knowledge. Embark on an unforgettable nerdy adventure in the Netherlands and ignite your curiosity for these captivating destinations.
+
+== Understand ==
+The Netherlands is known for its scientific advancements and technological innovations. This guide highlights some of the country's prominent nerdy tourist attractions that showcase the intersection of knowledge, technology, and culture.
+{{Mapframe}}
+
+== Destinations ==
+Below are some of the top nerdy tourist attractions in the Netherlands:
+
+=== Westerbork Synthesis Radio Telescope ===
+{{see also|Westerbork}} 
+
+{{see
+| name= Westerbork Synthesis Radio Telescope | alt= | url= https://www.astron.nl/telescopes/wsrt-apertif/ | email=
+| address= | lat=52.914736 | long=6.603342 | directions=
+| phone= | tollfree=
+| hours= | price=
+| wikidata=Q2556501
+| lastedit=2023-06-15
+| content=
+}}
+
+Explore the '''Westerbork Synthesis Radio Telescope''', a symbol of scientific progress situated in the historic grounds of the former Westerbork concentration camp.
+This radio telescope, built in 1970, not only advances our understanding of the universe but also serves as a reminder of human resilience.
+
+=== Multiple Large Datacenters ===
+[[File:Google Data Center.jpg|thumb|300px|A Google data center]]
+Visit colossal data centers like Google and Microsoft, which open their doors to curious visitors. Discover the cutting-edge technology and infrastructure that power our digital lives and witness their awe-inspiring scale and sophistication.
+
+* google datacenter in Eemshaven
+* google datacenter in Middenmeer
+* microsoft datacenter in Middenmeer
+
+=== TU Delft Campus ===
+{{Mapframe|51.999|4.373|zoom=14}}
+Immerse yourself in the '''TU Delft Campus''', a hub of scientific and technological innovation. With state-of-the-art research facilities and distinguished faculty, this campus offers a glimpse into the forefront of advancements in science and technology.
+
+=== ASML Campus ===
+{{see
+| name=ASML Campus | alt= | url=https://www.asml.com/en/contacts | email=
+| address=De Run 6501, Veldhoven | lat=51.4025 | long=5.3917 | directions=
+| phone=+31 40 268 3000 | tollfree= | fax=
+| hours= | price=
+| lastedit=2021-06-15
+| content=
+}}
+
+
+ASML, a Dutch company, holds the top position globally as the leading provider of photolithography systems for the semiconductor industry.
+With a focus on manufacturing machines that produce integrated circuits, ASML plays a crucial role in the production of computer chips, which serve as the fundamental components of modern technology.
+The company's significance is underscored by its inclusion in the Euro Stoxx 50 stock market index, showcasing its prominence and influence in the industry.
+
+At the ASML Campus, one can witness the remarkable artistry behind semiconductor manufacturing.
+This cutting-edge facility unravels the intricate processes involved in creating computer chips, revealing the meticulous steps required for their production.
+From the initial design phase to the final manufacturing stages, ASML's campus showcases the wizardry of semiconductor production, offering a comprehensive exploration of the vital building blocks that power today's advanced technology.
+
+=== Philips Museum ===
+[[File:Philips Museum Eindhoven.jpg|thumb|300px|Philips Museum in Eindhoven]]
+Discover the legacy of Philips at the '''Philips Museum''' in Eindhoven. This museum chronicles the groundbreaking inventions and contributions that have shaped the realms of electronics and healthcare.
+
+=== Madurodam ===
+* {{do
+| name=Madurodam | alt= | url=http://www.madurodam.nl/en | email=
+| address=George Maduroplein 1 | lat=52.09943 | long=4.29731 | directions=tram 9 or 22 (toward Scheveningen Noorderstrand
+| phone=+31 70 416 2400 | tollfree=
+| hours=9AM-6PM daily | price=€14.50 for adults, €10.50 for children
+| image=Madurodam main entrance.jpg | wikidata=Q747322
+| content=This miniature city contains a selection of Dutch architecture, ranging from Amsterdam's canals and church spires from Utrecht and Den Bosch, to modern architecture from Rotterdam and the enormous Delta works that protect the country from the sea. Madurodam also has an airport, a seaport, beaches, and little cars, trams and trains running through the entire town. Madurodam is open year round.
+}}
+Step into the enchanting world of '''Madurodam''', a miniature park that showcases famous Dutch landmarks, historical sites, and architectural marvels.
+ Experience the rich tapestry of Dutch history and culture within this miniature wonderland.
+
+=== Radio Kootwijk ===
+{{see
+| name=Radio Kootwijk | alt= | url=https://hierradiokootwijk.nl/ | email=
+| address=Kootwijkerdijk 465, Kootwijk | lat=52.1833 | long=5.7833 | directions=
+| phone=+31 55 519 1469 | tollfree= | fax=
+| hours= | price=
+| lastedit=2021-06-15
+| content=
+}}
+Visit '''Radio Kootwijk''', a former radio transmission complex turned architectural marvel and cultural heritage site.
+Marvel at the distinctive art-deco building and immerse yourself in the surrounding landscapes.
+
+=== Space Expo ===
+{{see
+| name=Space Expo | alt= | url=https://www.space-expo.nl/en | email=
+| address=Kemperlaan 3, Noordwijk | lat=52.2153 | long=4.4207 | directions=
+| phone=+31 713 646 489 | tollfree= | fax=
+| hours= | price=
+| lastedit=2017-11-20
+| content=Various showcases of space flight technology, also serves as an ESA visitors' center.
+}}
+Embark on an interstellar adventure at '''Space Expo''', an educational attraction dedicated to space exploration.
+Discover the history of space travel, marvel at actual space artifacts, and ignite your imagination with interactive exhibits.
+
+=== NEMO Science Museum ===
+[[File:NEMO and area.jpg|thumb|right|NEMO's distinctive building]]
+* {{do
+| name=NEMO | alt= | url=http://www.nemosciencemuseum.nl/ | email=
+| address=Oosterdok 2 | lat=52.374106 | long=4.912392 | directions=bus 32, 33 or 34 to Prins Hendrikkade/IJ-tunnel
+| phone=+31 20 531-3233 | tollfree= | fax=
+| hours=Tu-Su 10:00-17:00 | price=€11.50
+| wikipedia=NEMO (museum) | image=NEMO (Amsterdam).jpg | wikidata=Q1422000
+| content=
+}}
+
+
+Discover the wonders of the NEMO Science Museum in Amsterdam, situated above a tunnel overlooking the IJ. 
+This expansive museum is a captivating showcase of how scientific phenomena shape our daily lives. 
+With dedicated sections focusing on technology and engineering, ICT, and bio- and behavioral sciences, it offers an array of interactive exhibits and experiments that engage and educate young minds.
+Perfect for children aged 11 and below, NEMO provides a stimulating environment that encourages curiosity and exploration. 
+While teenagers might find themselves less enthralled, weekends can be bustling with excited children. 
+Additionally, during the summer, visitors can enjoy the panorama roof terrace with its inviting deckchairs, offering a breathtaking view and free entry. Unleash your curiosity at NEMO Science Museum and embark on a journey of hands-on discovery.
+
+=== Nationaal Militair Museum ===
+{{see
+| name=Nationaal Militair Museum | alt= 
+| url=https://www.nmm.nl/en/ 
+| address=Verlengde Paltzerweg 1 | lat=52.1318 | long=5.2761
+| directions=accessed via Verlengde Paltzerweg; Syntus Utrecht bus route 575
+| phone=+31 85 003 6000 
+| hours= | price= 
+| wikipedia=Nationaal Militair Museum
+| lastedit=2022-01-07
+| content=
+}}
+For military history enthusiasts, the '''Nationaal Militair Museum''' in Soest offers a captivating collection of military vehicles, aircraft, and artifacts, providing profound insights into Dutch military history.
+
+=== Rijksmuseum Boerhaave ===
+[[File:Museum Boerhaave Room 4 University of Leiden.jpg|thumb|Museum Boerhaave, Room 4: ''University of Leiden, Boerhaave and ‘s Gravensande'']]
+{{see
+| name=Museum Boerhaave | alt=National Museum for the History of Science and Medicine | url=http://www.museumboerhaave.nl/english/ | email=
+| wikidata = Q759169
+| address=Lange St. Agnietenstraat 10 | lat=52.161445 | long= 4.489025| directions=
+| phone=+31 71 5214 224 | tollfree= | fax=
+| hours=Tu-Sa 10:00-17:00, Su/holidays 12:00-17:00 | price=Adults €7.50, child and over 65 €3.50
+| lastedit=2020-07-18 
+| content=
+}}
+
+
+The Boerhaave Museum, also known as the Rijksmuseum Boerhaave, is the Dutch National Museum of the History of Science and Medicine, named after the renowned 16th-century physician and biologist Herman Boerhaave.
+It offers a fascinating journey through the annals of science and medicine, showcasing an extensive collection of scientific equipment dating back to 1600 and beyond.
+Among its notable highlights are the Theatrum Anatomicum, a realistic recreation of a lecture theatre where anatomical lessons were conducted, as well as the groundbreaking Gravesande demonstration experiments, which provided the first demonstrations of Newtonian physics.
+The museum also houses significant artifacts such as the first microscope, the pioneering helium liquefier, and the inaugural Fahrenheit thermometer. Immerse yourself in this captivating museum, where you can explore the rich history and pivotal discoveries that have shaped the fields of science and medicine.
+
+=== Naturalis Biodiversity Center ===
+[[File:WLANL - thedogg - Mammoet (2).jpg|thumb|Mammoth skeleton on display in Naturalis in the section about prehistoric animals]]
+{{see
+| name=Nederlands Centrum voor Biodiversiteit Naturalis | alt=Naturalis Biodiversity Center | url=http://www.naturalis.nl/en/ | email=contact@naturalis.nl
+| address=Darwinweg 2 | lat=52.164614 | long=4.473002 | directions=
+| phone=+31 71 568 7600 | tollfree= | fax=+31 71 568 7666
+| hours=M-F 10:00-17:00, Sa Su holidays 10:00-18:00 | price=Adult (18+) €11, child (4-17) €8, (0-3) free
+| wikidata=Q641676
+| content=Naturalis (aka National Museum of Natural History) is a museum on the history of life and the natural planet. The museum has undergone large renovations and is now housed in stunning new architecture. The exhibition is organized in a number of themed rooms. On the ground floor, the LiveScience section is accessible at no charge and is the place where small lectures and show-and-tell events are hosted and where some of the research staff can be seen at work and interacted with. Higher floors include tour taken through the world's present biodiversity, where the visitor is guided from underwater to the land; a dinosaur exhibit including the spectacular T. Rex, Trix; a room about the Ice Ages in the Netherlands; a room about geology, volcanism, and seismic activity; a room with the first-ever discovered human ancestor: the Java man; and themed rooms about death and about attraction. The museum is in walking distance of the station and has fairly good parking.
+}}
+Enter the '''Naturalis Biodiversity Center''' in Leiden, a treasure trove of natural history and biodiversity. Explore a vast collection of specimens, including fossils, plants, and animal samples, and uncover the wonders of the natural world.
+
+=== EYE Filmmuseum ===
+Celebrate the art of cinema at the '''EYE Filmmuseum''' in Amsterdam. Traverse the captivating world of film through exhibitions, immersive screenings, and interactive displays.
+
+=== National Aviation Theme Park Aviodrome ===
+{{do
+| name=National Aviation Theme Park Aviodrome | alt= | url=http://www.aviodrome.nl/english/ | email=
+| address= | lat=52.4575 | long=5.531111 | directions=Arrive by bus line 7 from the railway station
+| phone= | tollfree=
+| hours= | price=
+| wikidata=Q791082
+| content=
+}}
+For aviation enthusiasts, the '''National Aviation Theme Park Aviodrome''' in Lelystad offers a vast collection of aircraft, a captivating history of flight, and state-of-the-art flight simulators.
+
+=== Waterloopkundig laboratorium ===
+{{Mapframe|52.651|5.714|zoom=14}}
+Marvel at the '''Waterloopkundig laboratorium''' in Marknesse, a unique attraction showcasing the history of hydraulic engineering. Explore scale models of hydraulic structures and discover their impact on the Dutch landscape.
+
+=== The Delta Works ===
+[[File:Neeltje Jans Delta Works.jpg|thumb|300px|The Delta Works]]
+Witness the awe-inspiring '''Delta Works''', a series of engineering marvels designed to protect the Netherlands from flooding. Explore visitor centers and learn about innovative techniques used for water management.
+
+=== Computer Museums ===
+Discover the history of computing and the evolution of technology at the '''Computer Museum''' in Zwolle and the '''HomeComputerMuseum''' in Helmond.
+
+=== The Netherlands Institute for Sound and Vision ===
+[[File:Netherlands Institute for Sound and Vision.jpg|thumb|300px|Netherlands Institute for Sound and Vision]]
+Immerse yourself in the history of media at the '''Netherlands Institute for Sound and Vision''' in Hilversum. Explore media artifacts, interactive exhibits, and the captivating world of media production.
+
+=== Oude Kerk ===
+[[File:Oude Kerk Amsterdam.jpg|thumb|300px|Oude Kerk in Amsterdam]]
+Fans of the game Call of Duty: Modern Warfare II can visit the '''Oude Kerk''', a must-see location in Amsterdam.
+The church and serounding areas are featured in level Wetwork.
+
+== See also ==
+* {{PartOfTopic|Netherlands}}
+* {{outlinetopic}}
+
+{{IsPartOf|Netherlands}}
