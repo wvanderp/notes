@@ -1,6 +1,6 @@
 ---
 created: 2024-06-29T09:26:53+02:00
-modified: 2024-06-29T15:23:24+02:00
+modified: 2024-06-29T17:25:12+02:00
 ---
 
 # Defqon.1 2024
@@ -20,5 +20,7 @@ Dikke baap
 ## Saturday 
 Anime
 Lunakorpz
+Power hour
+Geck-o
 
 ## Sunday
