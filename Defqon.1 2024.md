@@ -1,6 +1,6 @@
 ---
 created: 2024-06-29T09:26:53+02:00
-modified: 2024-06-29T09:31:13+02:00
+modified: 2024-06-29T15:23:24+02:00
 ---
 
 # Defqon.1 2024
@@ -18,5 +18,7 @@ Audiofreq
 Dikke baap
 
 ## Saturday 
+Anime
+Lunakorpz
 
 ## Sunday
