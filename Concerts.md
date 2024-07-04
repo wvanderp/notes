@@ -2,7 +2,7 @@
 tags:
   - Concert
 ---
-To add new conecrts to this list add a new conecrt note to the concerts forlder.
+To add new concerts to this list add a new concert note to the concerts folder.
 Use the following template: [[Concert]]
 
 ---

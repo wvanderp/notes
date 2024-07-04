@@ -3,13 +3,14 @@ import Path from 'path';
 import OpenAI from "openai";
 import Handlebars from "handlebars";
 import dotenv from 'dotenv';
+import cleanString from '../utils/clearString';
 dotenv.config();
 
 const openai = new OpenAI({
   apiKey: process.env.OPENAI_API_KEY,
 });
 
-const currentPath = Path.join(__dirname, '../');
+const currentPath = Path.join(__dirname, '../../');
 
 async function newTemplate() {
 
@@ -17,7 +18,6 @@ async function newTemplate() {
 
   const todaysDate = new Date().toISOString().split('T')[0];
   const todaysPath = Path.join(currentPath, `Daily/${todaysDate}.md`);
-
   const yesterdaysDate = new Date(new Date(todaysDate).getTime() - 24 * 60 * 60 * 1000).toISOString().split('T')[0];
   const yesterdaysPath = Path.join(currentPath, `Daily/${yesterdaysDate}.md`);
 
@@ -29,9 +29,9 @@ async function newTemplate() {
 
   const summary = await generateSummary(yesterdaysEntry);
   const TherapistQuestions = await generateTherapistTemplate(summary, goals);
-  const GeneralQuestions = await generateGeneralTemplate(summary, goals);
+  const GeneralQuestions = await generateGeneralTemplate(yesterdaysEntry, goals);
 
-  const newTemplate = fillOutTemplate(summary, TherapistQuestions, GeneralQuestions);
+  const newTemplate = fillOutTemplate(summary, TherapistQuestions, GeneralQuestions, todaysDate);
   fs.writeFileSync(todaysPath, newTemplate);
 }
 
@@ -83,46 +83,20 @@ But it should contain all the important information.`;
   return summary;
 }
 
-/**
- * cleans the string from '&#x27;'
- * @param input the string to clean
- * @returns the cleaned string
- */
-function cleanString(input: string): string {
-  return input.replace(/&#(\d+);|&#x([0-9A-Fa-f]+);|&(\w+);/g, (match, dec, hex, named) => {
-    if (dec) {
-        return String.fromCharCode(parseInt(dec, 10));
-    } else if (hex) {
-        return String.fromCharCode(parseInt(hex, 16));
-    } else if (named) {
-        const entities = {
-            amp: '&',
-            lt: '<',
-            gt: '>',
-            quot: '"',
-            apos: '\'',
-            // Add more named entities as needed
-        };
-        // @ts-expect-error
-        return entities[named] || match;
-    }
-    return match;
-});
-}
-
 async function generateTherapistTemplate(summary: string, goals: string) {
   const systemPrompt = `
 You are a Journal template generator and a therapist.
-I want a journal template that helps me reflect on the day.
-I will be filling it out in the evening.
-
-Generate a daily journal template based on some goals and the summary of the previous day's journal entry.
-Don't include the date or a heading in the template. I will add that myself.
+You will generate journal template that helps me reflect back on the day.
+The template will Be fill out at the end of the day.
 
 The template should reference to the previous day's entry summary and use the goals as a guide.
 The questions should be designed to help me reach my goals.
+Don't include the date or a heading in the template. This will be added later.
 
-The exercise will contain five questions.`;
+The exercise will contain five questions.
+
+Generate a daily journal template based on the summary of the previous day's journal entry and the provided goals.
+`;
 
   const response = await openai.chat.completions.create({
     model: "gpt-4o",
@@ -156,7 +130,7 @@ The exercise will contain five questions.`;
       }
     ],
     temperature: 1,
-    max_tokens: 256,
+    max_tokens: 400,
     top_p: 1,
     frequency_penalty: 0,
     presence_penalty: 0,
@@ -168,14 +142,17 @@ The exercise will contain five questions.`;
 }
 
 
-async function generateGeneralTemplate(summary: string, goals: string) {
+async function generateGeneralTemplate(yesterdaysEntry: string, goals: string) {
   // bot to extract as much additional information as possible from the summary
   const systemPrompt = `
-  You are writing questions to extract more information from the summary.
+  You are given yesterday's journal entry. Your goal is to generate three pointed questions to extract more information from the user.  
   You get three questions to clear up any confusion and to get more information.
 
-  the questions should reference the summary and be designed to make the user write more about the summary.
+  The questions should reference the summary and be designed to make the user write more in-depth about the topic.
 `;
+
+  // we need to cut out yesterday's summary because the ai will confuse the two days
+  const questions = yesterdaysEntry.split('## What happened today?')[1];
 
   const response = await openai.chat.completions.create({
     model: "gpt-4o",
@@ -194,7 +171,7 @@ async function generateGeneralTemplate(summary: string, goals: string) {
         "content": [
           {
             "type": "text",
-            "text": `**Summary of yesterday's entry**\n${summary}`
+            "text": `**Yesterday's entry**\n${questions}`
           }
         ]
       }
@@ -214,14 +191,18 @@ async function generateGeneralTemplate(summary: string, goals: string) {
 
 // ----------------------------
 
-function fillOutTemplate(summary: string, TherapistQuestions: string, GeneralQuestions: string){
-    const templatePath = Path.join(currentPath, 'Template/template.md');
+function fillOutTemplate(summary: string, TherapistQuestions: string, GeneralQuestions: string, todaysDate: string){
+    const templatePath = Path.join(currentPath, 'Template/Daily/DailyTemplate.md');
     const templateContent = fs.readFileSync(templatePath, 'utf8');
   
     const template = Handlebars.compile(templateContent);
+
+    // the name of todays date
+    const dayOfWeek = new Date(todaysDate).toLocaleDateString('en-US', { weekday: 'long' });
   
     const context = {
-      TodaysDate: new Date().toISOString().split('T')[0],
+      TodaysDate: todaysDate,
+      dayOfWeek: dayOfWeek,
       Summary: cleanString(summary),
       TherapistQuestions: cleanString(TherapistQuestions),
       GeneralQuestions: cleanString(GeneralQuestions),

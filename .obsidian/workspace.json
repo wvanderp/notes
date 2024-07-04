@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5ae4753a266e8875",
+        "id": "d42e096c29e5aa46",
         "type": "tabs",
         "children": [
           {
-            "id": "1e7b82027ea38c2e",
+            "id": "c57e63fdb303a507",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/Daily/2024-06-26.md",
+                "file": "Journal/Daily/2024-06-27.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/Daily/2024-06-26.md",
+                "file": "Journal/Daily/2024-06-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/Daily/2024-06-26.md",
+                "file": "Journal/Daily/2024-06-27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/Daily/2024-06-26.md"
+                "file": "Journal/Daily/2024-06-27.md"
               }
             }
           }
@@ -147,54 +147,54 @@
       "random-note:Open random note": false
     }
   },
-  "active": "1e7b82027ea38c2e",
+  "active": "c57e63fdb303a507",
   "lastOpenFiles": [
-    "Journal/Daily/2024-06-25.md",
-    "Journal/Daily/2024-06-24.md",
-    "Journal/Daily/2024-06-26.md",
-    "Journal/Daily/2024-06-23.md",
-    "Journal/Daily/2024-06-21.md",
-    "Journal/Template/template.md",
-    "Journal/Daily/2024-06-22.md",
-    "Blog posts/Best camera for photogrammetry.md",
-    "Pasted image 20240624224819.png",
-    "Pasted image 20240624224522.png",
-    "Pasted image 20240624224101.png",
-    "Pasted image 20240624223944.png",
+    "Journal/Daily/2024-07-04.md",
+    "Journal/Daily/2024-06-27.md",
+    "Journal/Weekly/2024-27.md",
+    "Journal/Template/node_modules/@types/node/globals.d.ts",
+    "Journal/Weekly",
+    "Journal/Template/utils/getWeekNumber.ts",
+    "Journal/Template/Weekly/Weekly.ts",
+    "Journal/Template/Weekly/WeeklyTemplate.md",
+    "Journal/Template/Weekly/WeeklyTemplate",
+    "Journal/Template/Weekly",
+    "Journal/Template/Daily/DailyTemplate.md",
+    "Journal/Template/Daily/Daily.ts",
+    "Journal/Template/Daily",
+    "Journal/Template/daily/Daily.ts",
+    "Journal/Template/daily/DailyTemplate.md",
+    "Journal/Template/daily/Daily.md",
+    "Journal/Template/daily/index.ts",
+    "Journal/Template/daily/template.md",
+    "Journal/Daily/2024-07-03.md",
+    "Journal/Daily/2024-06-28.md",
+    "Concerts/Defqon.1 2024.md",
+    "Journal/Template/node_modules/typescript/README.md",
+    "Journal/Template/node_modules/openai/src/_shims/README.md",
+    "Journal/Template/node_modules/openai/_shims/README.md",
+    "Journal/Template/node_modules/minimist/README.md",
+    "Journal/Template/node_modules/source-map/README.md",
+    "Journal/Template/node_modules/undici-types/README.md",
+    "Journal/Template/node_modules/openai/CHANGELOG.md",
+    "Concerts/Alestorm - European Tour 2023.md",
+    "Concerts/AMARANTHE & BEYOND THE BLACK.md",
+    "Concerts.md",
+    "Concerts/DragonForce & Amaranthe.md",
+    "Concerts/BABYMETAL UK & EU TOUR 2023.md",
+    "Dikke Baap.md",
+    "Walibi Evenemententerrein.md",
+    "Opgekonkerd.md",
     "Pasted image 20240624222954.png",
-    "Pasted image 20240624222918.png",
-    "Pasted image 20240624222757.png",
     "Pasted image 20240624222715.png",
+    "Pasted image 20240624222102.png",
+    "Pasted image 20240624221757.png",
+    "technical-docs/har download button.png",
+    "Personal/medical images/EKG.jpg",
     "Pasted image 20240624222508.png",
     "Pasted image 20240624222349.png",
-    "Blog posts/First person rts.md",
-    "Blog posts/Popcorntime-with-DHT.md",
-    "Best camera for photogrammetry.md",
-    "Projects/CartoCam/sources for CartoCam.md",
-    "Projects/CartoCam",
-    "Projects/osm-province-of-the-month/stats.md",
-    "creative-vibes/Vibes-for-my-dystopian-sci-fi-movie.md",
-    "creative-vibes/Hacker film inspiration.md",
-    "Weddenschappen.md",
-    "Projects/osm-province-of-the-month/observations.md",
-    "Projects/osm-province-of-the-month/post.md",
-    "Projects/osm-province-of-the-month/queries.md",
-    "Projects/osm-province-of-the-month/Stats.md",
-    "Projects/osrs-map/osrs map.md",
-    "Journal/Daily/2024-06-20.md",
-    "Journal/Daily/2024-06-19.md",
-    "Journal/Template/node_modules/handlebars/types/index.d.ts",
-    "Journal/Template/node_modules/handlebars/types",
-    "Journal/Template/node_modules/@esbuild/android-x64",
-    "Journal/Template/node_modules/@esbuild/aix-ppc64",
-    "Journal/Template/node_modules/@esbuild/win32-ia32",
-    "Journal/Template/node_modules/fsevents",
-    "Journal/Template/node_modules/@esbuild/sunos-x64",
-    "Journal/Template/node_modules/@esbuild/win32-arm64",
-    "Journal/Template/node_modules/@esbuild/netbsd-x64",
-    "Journal/Template/node_modules/openai/src/_shims/README.md",
-    "Journal/Template/node_modules/typescript/README.md",
-    "Journal/Template/node_modules/openai/_shims/README.md",
+    "Pasted image 20240624222227.png",
+    "Pasted image 20240624222157.png",
     "Untitled.canvas"
   ]
 }

@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "main": "newTemplate.js",
   "scripts": {
-    "generate": "tsx index.ts"
+    "daily": "tsx Daily/Daily.ts",
+    "weekly": "tsx Weekly/Weekly.ts"
   },
   "author": "",
   "license": "ISC",
