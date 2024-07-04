@@ -20,6 +20,8 @@ auteur:
 
 **What did you have for dinner**: 
 **Grade for the day**: 
+**Were you on time for work?**:
+
 
 ## What did you do today?
 
@@ -31,5 +33,9 @@ auteur:
 ## Reflections
 
 {{TherapistQuestions}}
+
+## What did you learn today?
+
+- 
 
 ## Plans for Tomorrow

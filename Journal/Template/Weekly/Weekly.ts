@@ -47,6 +47,9 @@ function getPreviousEntries() {
 async function generateSummary(previousEntries: string[]) {
   const systemPrompt = `
 You summarize the previous 7 days of journal entries.
+Dont use bullet points or lists, write in full sentences.
+
+Finnish off with a overarching theme or lesson you learned from the week.
 `;
 
 const apiPrevEntries = previousEntries.map((entry) => {
@@ -94,6 +97,7 @@ async function generateTherapistOpinion(previousEntries: string[]) {
 Your therapist gives you their opinion on the previous 7 days of journal entries.
 
 The therapist should be empathetic and understanding.
+This should not be a summary, but an opinion on the users mental state and well-being.
 `;
 
 const apiPrevEntries = previousEntries.map((entry) => {

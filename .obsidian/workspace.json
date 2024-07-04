@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d42e096c29e5aa46",
+        "id": "b274e18477cf3a09",
         "type": "tabs",
         "children": [
           {
-            "id": "c57e63fdb303a507",
+            "id": "65775a209f70fc1b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/Daily/2024-06-27.md",
+                "file": "Journal/Weekly/2024-27.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/Daily/2024-06-27.md",
+                "file": "Journal/Weekly/2024-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/Daily/2024-06-27.md",
+                "file": "Journal/Weekly/2024-27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,8 +125,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/Daily/2024-06-27.md"
+                "file": "Journal/Weekly/2024-27.md"
               }
+            }
+          },
+          {
+            "id": "f2264c11d69f8475",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
             }
           }
         ]
@@ -147,54 +155,53 @@
       "random-note:Open random note": false
     }
   },
-  "active": "c57e63fdb303a507",
+  "active": "65775a209f70fc1b",
   "lastOpenFiles": [
     "Journal/Daily/2024-07-04.md",
-    "Journal/Daily/2024-06-27.md",
     "Journal/Weekly/2024-27.md",
-    "Journal/Template/node_modules/@types/node/globals.d.ts",
+    "Journal/Daily/2024-07-03.md",
+    "Journal/Daily/2024-06-25.md",
+    "Potential projects.md",
     "Journal/Weekly",
     "Journal/Template/utils/getWeekNumber.ts",
-    "Journal/Template/Weekly/Weekly.ts",
+    "Journal/Template/utils/clearString.ts",
+    "Journal/Template/utils",
     "Journal/Template/Weekly/WeeklyTemplate.md",
-    "Journal/Template/Weekly/WeeklyTemplate",
+    "Journal/Template/Weekly/Weekly.ts",
     "Journal/Template/Weekly",
     "Journal/Template/Daily/DailyTemplate.md",
     "Journal/Template/Daily/Daily.ts",
     "Journal/Template/Daily",
-    "Journal/Template/daily/Daily.ts",
-    "Journal/Template/daily/DailyTemplate.md",
-    "Journal/Template/daily/Daily.md",
-    "Journal/Template/daily/index.ts",
-    "Journal/Template/daily/template.md",
-    "Journal/Daily/2024-07-03.md",
     "Journal/Daily/2024-06-28.md",
+    "Journal/Daily/2024-06-27.md",
+    "Journal/Daily/2024-06-26.md",
     "Concerts/Defqon.1 2024.md",
-    "Journal/Template/node_modules/typescript/README.md",
-    "Journal/Template/node_modules/openai/src/_shims/README.md",
-    "Journal/Template/node_modules/openai/_shims/README.md",
-    "Journal/Template/node_modules/minimist/README.md",
-    "Journal/Template/node_modules/source-map/README.md",
-    "Journal/Template/node_modules/undici-types/README.md",
-    "Journal/Template/node_modules/openai/CHANGELOG.md",
-    "Concerts/Alestorm - European Tour 2023.md",
-    "Concerts/AMARANTHE & BEYOND THE BLACK.md",
-    "Concerts.md",
-    "Concerts/DragonForce & Amaranthe.md",
-    "Concerts/BABYMETAL UK & EU TOUR 2023.md",
-    "Dikke Baap.md",
-    "Walibi Evenemententerrein.md",
-    "Opgekonkerd.md",
+    "Journal/Template/template.md",
+    "Journal/Daily/2024-06-24.md",
+    "Recipes/pasta-spinasie-pennen.md",
+    "projects/CartoCam/sources for CartoCam.md",
+    "projects/CartoCam",
+    "blog posts/Best camera for photogrammetry.md",
+    "Pasted image 20240624224819.png",
+    "Pasted image 20240624224522.png",
+    "Pasted image 20240624224101.png",
+    "Pasted image 20240624223944.png",
     "Pasted image 20240624222954.png",
+    "Pasted image 20240624222918.png",
+    "Pasted image 20240624222757.png",
     "Pasted image 20240624222715.png",
-    "Pasted image 20240624222102.png",
-    "Pasted image 20240624221757.png",
-    "technical-docs/har download button.png",
-    "Personal/medical images/EKG.jpg",
     "Pasted image 20240624222508.png",
     "Pasted image 20240624222349.png",
-    "Pasted image 20240624222227.png",
-    "Pasted image 20240624222157.png",
+    "Journal/Daily/2024-06-23.md",
+    "Journal/Daily/2024-06-21.md",
+    "Journal/Daily/2024-06-20.md",
+    "Journal/Daily/2024-06-19.md",
+    "Journal/Daily/2024-06-19 1.md",
+    "Journal/Template/node_modules/typescript/ThirdPartyNoticeText.txt",
+    "Journal/Template/node_modules/typescript/SECURITY.md",
+    "Journal/Template/node_modules/typescript/README.md",
+    "Journal/Template/node_modules/@esbuild/linux-x64/README.md",
+    "Journal/Template/node_modules/web-streams-polyfill/README.md",
     "Untitled.canvas"
   ]
 }
