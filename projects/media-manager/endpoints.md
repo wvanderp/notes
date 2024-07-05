@@ -5,7 +5,7 @@ tags:
 
 # Endpoints
 
-This but than with graphql
+This but than with Graphql
 
 `get /photo/#id`  
 Get all the info for a photo

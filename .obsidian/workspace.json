@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/Weekly/2024-27.md",
+                "file": "Journal/Administration.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "`",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/Weekly/2024-27.md",
+                "file": "Journal/Administration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/Weekly/2024-27.md",
+                "file": "Journal/Administration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/Weekly/2024-27.md"
+                "file": "Journal/Administration.md"
               }
             }
           },
@@ -157,6 +158,16 @@
   },
   "active": "65775a209f70fc1b",
   "lastOpenFiles": [
+    "Journal/Daily/2024-06-28.md",
+    "projects/osm-province-of-the-month/stats.md",
+    "Scripts and Guides/find-hidden-drawio-files.md",
+    "Journal/Template/node_modules/get-tsconfig/README.md",
+    "projects/media-manager/endpoints.md",
+    "Information/airportCodes.md",
+    "projects/Project person db.md",
+    "Amerikaanse-wetten.md",
+    "Journal/Template/node_modules/asynckit/README.md",
+    "Journal/Daily/2024-07-05.md",
     "Journal/Daily/2024-07-04.md",
     "Journal/Weekly/2024-27.md",
     "Journal/Daily/2024-07-03.md",
@@ -172,7 +183,6 @@
     "Journal/Template/Daily/DailyTemplate.md",
     "Journal/Template/Daily/Daily.ts",
     "Journal/Template/Daily",
-    "Journal/Daily/2024-06-28.md",
     "Journal/Daily/2024-06-27.md",
     "Journal/Daily/2024-06-26.md",
     "Concerts/Defqon.1 2024.md",
@@ -193,15 +203,7 @@
     "Pasted image 20240624222508.png",
     "Pasted image 20240624222349.png",
     "Journal/Daily/2024-06-23.md",
-    "Journal/Daily/2024-06-21.md",
-    "Journal/Daily/2024-06-20.md",
-    "Journal/Daily/2024-06-19.md",
-    "Journal/Daily/2024-06-19 1.md",
     "Journal/Template/node_modules/typescript/ThirdPartyNoticeText.txt",
-    "Journal/Template/node_modules/typescript/SECURITY.md",
-    "Journal/Template/node_modules/typescript/README.md",
-    "Journal/Template/node_modules/@esbuild/linux-x64/README.md",
-    "Journal/Template/node_modules/web-streams-polyfill/README.md",
     "Untitled.canvas"
   ]
 }
