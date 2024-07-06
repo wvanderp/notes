@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/Administration.md",
+                "file": "Journal/Daily/2024-07-06.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/Administration.md",
+                "file": "Journal/Daily/2024-07-06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/Administration.md",
+                "file": "Journal/Daily/2024-07-06.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/Administration.md"
+                "file": "Journal/Daily/2024-07-06.md"
               }
             }
           },
@@ -158,6 +157,10 @@
   },
   "active": "65775a209f70fc1b",
   "lastOpenFiles": [
+    "Journal/Goals.md",
+    "Journal/Daily/2024-07-06.md",
+    "Journal/Template/Daily/DailyTemplate.md",
+    "Journal/Administration.md",
     "Journal/Daily/2024-06-28.md",
     "projects/osm-province-of-the-month/stats.md",
     "Scripts and Guides/find-hidden-drawio-files.md",
@@ -180,7 +183,6 @@
     "Journal/Template/Weekly/WeeklyTemplate.md",
     "Journal/Template/Weekly/Weekly.ts",
     "Journal/Template/Weekly",
-    "Journal/Template/Daily/DailyTemplate.md",
     "Journal/Template/Daily/Daily.ts",
     "Journal/Template/Daily",
     "Journal/Daily/2024-06-27.md",
@@ -189,9 +191,7 @@
     "Journal/Template/template.md",
     "Journal/Daily/2024-06-24.md",
     "Recipes/pasta-spinasie-pennen.md",
-    "projects/CartoCam/sources for CartoCam.md",
     "projects/CartoCam",
-    "blog posts/Best camera for photogrammetry.md",
     "Pasted image 20240624224819.png",
     "Pasted image 20240624224522.png",
     "Pasted image 20240624224101.png",
@@ -202,7 +202,6 @@
     "Pasted image 20240624222715.png",
     "Pasted image 20240624222508.png",
     "Pasted image 20240624222349.png",
-    "Journal/Daily/2024-06-23.md",
     "Journal/Template/node_modules/typescript/ThirdPartyNoticeText.txt",
     "Untitled.canvas"
   ]

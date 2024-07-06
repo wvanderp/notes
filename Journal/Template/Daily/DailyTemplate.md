@@ -22,7 +22,6 @@ auteur:
 **Grade for the day**: 
 **Were you on time for work?**:
 
-
 ## What did you do today?
 
 **Morning**: 
