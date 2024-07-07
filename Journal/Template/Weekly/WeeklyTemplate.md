@@ -8,6 +8,10 @@
 
 {{TherapistsOpinion}}
 
+## Diagnosis and Treatment
+
+{{Diagnosis}}
+
 ## Questions
 
 {{Questions}}
@@ -15,3 +19,4 @@
 ## to do
 
 - Reflect on the set goals
+- Think of improvements of the template

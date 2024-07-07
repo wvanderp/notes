@@ -47,7 +47,7 @@ function getPreviousEntries() {
 async function generateSummary(previousEntries: string[]) {
   const systemPrompt = `
 You summarize the previous 7 days of journal entries.
-Dont use bullet points or lists, write in full sentences.
+Don't use bullet points or lists, write in full sentences.
 
 Finnish off with a overarching theme or lesson you learned from the week.
 `;
@@ -94,9 +94,10 @@ return summary;
  */
 async function generateTherapistOpinion(previousEntries: string[]) {
   const systemPrompt = `
-Your therapist gives you their opinion on the previous 7 days of journal entries.
+You are a top tier therapist.
+You give your opinion on the previous 7 days of journal entries.
 
-The therapist should be empathetic and understanding.
+You should be empathetic and understanding.
 This should not be a summary, but an opinion on the users mental state and well-being.
 `;
 
@@ -189,9 +190,63 @@ return cleanString(Questions);
 }
 
 /**
+ * this function generates generates a diagnosis and goals/treatment plan
+ */
+async function diagnosisAndGoals(summary: string, therapistOpinion: string) {
+  const systemPrompt = `
+You are a top tier therapist.
+You are given a summary of the previous 7 days of journal entries and a therapists opinion
+
+Your goal is to generate a diagnosis and goals/treatment plan for the user.
+Keep it short and to the point.
+`;
+
+const response = await openai.chat.completions.create({
+  model: "gpt-4o",
+  messages: [
+    {
+      "role": "system",
+      "content": [
+        {
+          "type": "text",
+          "text": systemPrompt
+        }
+      ]
+    },
+    {
+      "role": "user",
+      "content": [
+        {
+          "type": "text",
+          "text": summary
+        }
+      ]
+    },
+    {
+      "role": "user",
+      "content": [
+        {
+          "type": "text",
+          "text": therapistOpinion
+        }
+      ]
+    }
+  ],
+  temperature: 1,
+  top_p: 1,
+  frequency_penalty: 0,
+  presence_penalty: 0,
+});
+
+const Questions = response?.choices[0]?.message?.content ?? '';
+
+return cleanString(Questions);
+}
+
+/**
  * this function generates a template for the week
  */
-async function generateTemplate(summary: string, therapistOpinion: string, questions: string) {
+async function generateTemplate(summary: string, therapistOpinion: string, questions: string, diagnosis: string) {
   const templatePath = Path.join(currentPath, 'Template/Weekly/WeeklyTemplate.md');
   const templateContent = fs.readFileSync(templatePath, 'utf8');
 
@@ -206,6 +261,7 @@ async function generateTemplate(summary: string, therapistOpinion: string, quest
     Summary: cleanString(summary),
     TherapistsOpinion: cleanString(therapistOpinion),
     Questions: cleanString(questions),
+    Diagnosis: cleanString(diagnosis)
   };
 
 
@@ -221,13 +277,14 @@ async function generateTemplate(summary: string, therapistOpinion: string, quest
   // generate a therapists opinion
   const therapistOpinion = await generateTherapistOpinion(previousEntries);
 
+  // Diagnosis and goals
+  const diagnosis = await diagnosisAndGoals(summary, therapistOpinion);
 
   // generate 10 pointed questions
   const questions = await generateQuestions(summary, therapistOpinion);
 
-
   // generate a template for the week
-  const template = await generateTemplate(summary, therapistOpinion, questions);
+  const template = await generateTemplate(summary, therapistOpinion, questions, diagnosis);
 
   const weekNumber = getWeekNumber(new Date());
   const year = new Date().getFullYear();

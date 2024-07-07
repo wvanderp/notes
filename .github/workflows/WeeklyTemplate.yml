@@ -1,0 +1,32 @@
+name: Weekly Template
+
+on:
+  schedule:
+  - cron: "5 12 * * 0"
+  workflow_dispatch:
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    defaults:
+      run:
+        working-directory: ./Journal/Template
+
+    steps:
+    - uses: actions/checkout@v4
+    - uses: actions/setup-node@v3
+      with:
+        node-version: 22
+        cache: 'npm'
+        cache-dependency-path: ./Journal/Template/package-lock.json
+    - run: npm install
+    - name: Generate Daily Template
+      run: npm run weekly
+      env:
+        OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+    - uses: EndBug/add-and-commit@v9
+      with:
+        default_author: github_actions
+        message: Weekly Template Update
