@@ -9,8 +9,6 @@ Has multiple brands need further investigation
 Ecotap
 Is ecotab een merk van oplaadpalen of een bedrijf dat oplaadpalen maakt?
 
-Park n Charge
-
 Esso charging poles
 WAT?
 
@@ -93,3 +91,22 @@ OK express
 Pets Place - Boerenbond
 
 Avia Truck
+
+Smoov
+car charger
+
+PNB
+car charger
+
+Tritium
+car charger
+
+SPAR express
+
+Enexis
+car charger
+
+
+Boon's Markt
+
+Range Charging
