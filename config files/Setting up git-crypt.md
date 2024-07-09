@@ -1,5 +1,5 @@
 
-My notes is mostly a open book. but some notes are private like contact informaion of other people.
+My notes is mostly a open book. but some notes are private like contact information of other people.
 
 That is why I use git-crypt to encrypt the notes that are private.
 

@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "config files/Setting up git-crypt.md",
+                "file": "Kadeotjes/Kadeotjes voor Daniel.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "config files/Setting up git-crypt.md",
+                "file": "Kadeotjes/Kadeotjes voor Daniel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "config files/Setting up git-crypt.md",
+                "file": "Kadeotjes/Kadeotjes voor Daniel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "config files/Setting up git-crypt.md"
+                "file": "Kadeotjes/Kadeotjes voor Daniel.md"
               }
             }
           },
@@ -170,6 +170,15 @@
   },
   "active": "4741c10e65a9ac70",
   "lastOpenFiles": [
+    "emergency-kit.md",
+    "Kadeotjes/Kadeotjes voor Daniel.md",
+    "scouting/scouting ideas.md",
+    "technical-docs/Loading AHN files into reality capture.md",
+    "Journal/Daily/2024-07-09.md",
+    "Journal/Daily/2024-07-06.md",
+    "Journal/Daily/2024-07-07.md",
+    "Journal/Daily/2024-07-08.md",
+    "config files/Setting up git-crypt.md",
     "Contacts/2423856.crypt.jpeg",
     "Contacts/2423856.crypt.jpeg.crdownload",
     "Contacts/Wouter.crypt.md",
@@ -185,12 +194,8 @@
     "blog posts/Pasted image 20240624222757.png",
     "blog posts/Pasted image 20240624222715.png",
     "blog posts/Pasted image 20240624222508.png",
-    "blog posts/Pasted image 20240624222349.png",
     "Journal/Weekly/2024-27.md",
-    "config files/Setting up git-crypt.md",
     "conflict-files-obsidian-git.md",
-    "Journal/Daily/2024-07-07.md",
-    "Journal/Daily/2024-07-06.md",
     "Journal/Goals.md",
     "Journal/Template/Daily/DailyTemplate.md",
     "Journal/Administration.md",
@@ -205,17 +210,12 @@
     "Journal/Template/node_modules/asynckit/README.md",
     "Journal/Daily/2024-07-05.md",
     "Journal/Daily/2024-07-04.md",
-    "Journal/Daily/2024-07-03.md",
-    "Journal/Daily/2024-06-25.md",
-    "Potential projects.md",
     "Journal/Weekly",
     "Journal/Template/utils/getWeekNumber.ts",
     "Journal/Template/utils/clearString.ts",
     "Journal/Template/utils",
-    "Journal/Template/Weekly/WeeklyTemplate.md",
     "Journal/Template/Weekly/Weekly.ts",
     "Journal/Template/Weekly",
-    "Journal/Daily/2024-06-27.md",
     "Untitled.canvas"
   ]
 }

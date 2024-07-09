@@ -75,6 +75,10 @@ The kit should include:
   - List of emergency numbers
   - List of emergency frequencies
 
+
+## possible things to buy
+
+`The Guerrilla's Guide To The Baofeng Radio`
 ## Sources
 
 <https://www.denkvooruit.nl/bereid-je-voor/stel-je-noodpakket-samen>
