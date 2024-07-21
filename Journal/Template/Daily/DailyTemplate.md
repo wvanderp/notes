@@ -21,6 +21,9 @@ auteur:
 **What did you have for dinner**: 
 **Grade for the day**: 
 **Were you on time for work?**:
+{{#if isShowerDay}}
+**Did you shower?**:
+{{/if}}
 
 ## What did you do today?
 
