@@ -25,13 +25,7 @@ Iveco
 Daewoo
 
 Picnic
-Vomar Voordeelmarkt
 
-Budbee
-
-We drive solar
-
-Bo-Rent
 `operator=Gemeente Den Haag`
 
 Handyman
@@ -51,42 +45,24 @@ The Stone
 }
 ```
 
-PostNL parcel locker
-
-Bubble post locker
 
 OK Café
 
 OK express
 
-ABN AMRO MeesPierson
-
 Jumbo Foodmarkt
 
-Livera Bad en Lingerie
-wrong end
 
 Threeforce
 
 Kindergarden
 
-Tamoil Express
-
-DA Drogisterij & Parfumerie
 
 TotalEnergies CNG Express
 
-TotalEnergies Express
-
-SPAR city
-alberthein to go
-Albert Heijn to go
 
 Deprecate any atm other then geldmaat
 
-TotalEnergies Express
-
-OK express
 
 Pets Place - Boerenbond
 
@@ -110,3 +86,9 @@ car charger
 Boon's Markt
 
 Range Charging
+
+Aers energy
+
+E-laad
+
+Praxis City
