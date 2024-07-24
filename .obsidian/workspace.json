@@ -4,59 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "b274e18477cf3a09",
+        "id": "1cb6a92a265fff36",
         "type": "tabs",
         "children": [
           {
-            "id": "65775a209f70fc1b",
+            "id": "0c0e6f10d6d567d7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/Weekly/2024-27.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4741c10e65a9ac70",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Journal/Daily/2024-07-15.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d9aea92bc0f3323e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Journal/Daily/2024-07-21.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "de9bc039576ac4a1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Journal/Daily/2024-07-22.md",
+                "file": "Config files/winget list.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -85,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "`",
+                "query": "winget",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -123,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/Daily/2024-07-22.md",
+                "file": "Config files/winget list.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/Daily/2024-07-22.md",
+                "file": "Config files/winget list.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,16 +125,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/Daily/2024-07-22.md"
+                "file": "Config files/winget list.md"
               }
-            }
-          },
-          {
-            "id": "f2264c11d69f8475",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
             }
           }
         ]
@@ -193,54 +147,54 @@
       "random-note:Open random note": false
     }
   },
-  "active": "de9bc039576ac4a1",
+  "active": "0c0e6f10d6d567d7",
   "lastOpenFiles": [
+    "Config files/winget list.md",
+    "Concerts.md",
+    "Contacts/Wouter.crypt.md",
+    "Creative vibes/Vibes-for-my-dystopian-sci-fi-movie.md",
+    "Creative vibes/Hacker film inspiration.md",
+    "Scripts and Guides/Loading AHN files into reality capture.md",
+    "Scripts and Guides/gitlab-markdown-notes.md",
+    "Scripts and Guides/actually-starting-Rosbridge.md",
+    "Scripts and Guides/Keychron K6 pro via programming.md",
+    "Scripts and Guides/files",
+    "Scripts and Guides/Extract frames from videos.md",
+    "conflict-files-obsidian-git.md",
+    "Kadeotjes/Kadeotjes voor Daniel.md",
     "Journal/Weekly/2024-29.md",
+    "Journal/Weekly/2024-28.md",
+    "Journal/Daily/2024-07-20.md",
+    "Journal/Daily/2024-07-23.md",
     "Journal/Daily/2024-07-22.md",
     "Journal/Daily/2024-07-21.md",
-    "Journal/Daily/2024-07-21 copy.md",
-    "Journal/Daily/2024-07-20.md",
     "Journal/Daily/2024-07-16.md",
-    "Journal/Daily/2024-07-15.md",
     "Journal/Daily/2024-07-09.md",
-    "Journal/Daily/2024-07-14.md",
-    "Journal/Daily/2024-07-10.md",
-    "Journal/Daily/2024-07-11.md",
-    "Journal/Daily/2024-07-12.md",
-    "Journal/Daily/2024-07-13.md",
-    "Journal/Daily/2024-07-17.md",
-    "Journal/Daily/2024-07-18.md",
-    "Kadeotjes/Kadeotjes voor Daniel.md",
-    "emergency-kit.md",
-    "scouting/scouting ideas.md",
-    "technical-docs/Loading AHN files into reality capture.md",
+    "Journal/Daily/2024-07-15.md",
+    "blog posts/is-google-just-shit-now.md",
+    "nsi-notes.md",
+    "Journal/Daily/2024-07-04.md",
     "Journal/Daily/2024-07-06.md",
-    "Journal/Daily/2024-07-07.md",
-    "Journal/Daily/2024-07-08.md",
-    "config files/Setting up git-crypt.md",
-    "Contacts/2423856.crypt.jpeg",
-    "Contacts/2423856.crypt.jpeg.crdownload",
-    "Contacts/Wouter.crypt.md",
-    "Contacts",
-    "git-crypt.key",
-    "key",
-    "blog posts/Pasted image 20240624224819.png",
-    "blog posts/Pasted image 20240624224522.png",
-    "blog posts/Pasted image 20240624224101.png",
-    "blog posts/Pasted image 20240624223944.png",
-    "blog posts/Pasted image 20240624222954.png",
-    "blog posts/Pasted image 20240624222918.png",
-    "blog posts/Pasted image 20240624222757.png",
-    "blog posts/Pasted image 20240624222715.png",
-    "blog posts/Pasted image 20240624222508.png",
-    "Journal/Weekly/2024-27.md",
-    "conflict-files-obsidian-git.md",
+    "Journal/Daily/2024-07-05.md",
+    "Journal/Template/node_modules/@types/node/globals.d.ts",
     "Journal/Weekly",
     "Journal/Template/utils/getWeekNumber.ts",
-    "Journal/Template/utils/clearString.ts",
-    "Journal/Template/utils",
     "Journal/Template/Weekly/Weekly.ts",
+    "Journal/Template/Weekly/WeeklyTemplate",
     "Journal/Template/Weekly",
+    "Journal/Template/Daily/Daily.ts",
+    "Journal/Template/Daily",
+    "Journal/Template/daily/Daily.ts",
+    "Pasted image 20240624222954.png",
+    "Pasted image 20240624222715.png",
+    "Pasted image 20240624222102.png",
+    "Pasted image 20240624221757.png",
+    "technical-docs/har download button.png",
+    "Personal/medical images/EKG.jpg",
+    "Pasted image 20240624222508.png",
+    "Pasted image 20240624222349.png",
+    "Pasted image 20240624222227.png",
+    "Pasted image 20240624222157.png",
     "Untitled.canvas"
   ]
 }
