@@ -38,6 +38,9 @@ auteur:
 
 ## What did you learn today?
 
-- 
+-
+
+## The dump
+*dump any thoughts here*
 
 ## Plans for Tomorrow
