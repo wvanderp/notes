@@ -4,34 +4,127 @@
     "type": "split",
     "children": [
       {
-        "id": "48249d41763029ca",
+        "id": "180a4c371d0edc60",
         "type": "tabs",
         "children": [
           {
-            "id": "03d8f6544eb502ff",
+            "id": "bf6498af06aa29a0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/Daily/2024-07-30.md",
+                "file": "G Adventures - Uncover Korea K Pop & Hanok Villages.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "5d1acda480e09f24",
+            "id": "9c66afff6c3f1fe8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/Template/Daily/DailyTemplate.md",
+                "file": "G Adventures - Japan Kyoto, Tokyo & the Michinoku Coastal Trail.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "36bf30db33cfcea5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "G Adventures - Japan Family Journey From Ancient to Modern Times.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8c8e1e287d24f4dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "G Adventures - Back Roads of Japan.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "baeb05181b4eef4f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "G Adventures - Best of South Korea.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0523622f67e0edd3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "G Adventures - Japan Castles & Cuisine.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "884b51a4754efbe5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "G Adventures - Japan Tokyo Nights & Kyoto Temples.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a3320282679c1467",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "G Adventures - Journeys Iconic Japan.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "123d4cf155cfead8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "G Adventures - Discover Japan.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d4c2e6ee77c3320a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -97,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/Daily/2024-07-30.md",
+                "file": "G Adventures - Uncover Korea K Pop & Hanok Villages.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/Daily/2024-07-30.md",
+                "file": "G Adventures - Uncover Korea K Pop & Hanok Villages.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/Daily/2024-07-30.md"
+                "file": "G Adventures - Uncover Korea K Pop & Hanok Villages.md"
               }
             }
           }
@@ -159,25 +252,38 @@
       "random-note:Open random note": false
     }
   },
-  "active": "03d8f6544eb502ff",
+  "active": "d4c2e6ee77c3320a",
   "lastOpenFiles": [
-    "Journal/Daily/2024-07-29.md",
-    "Journal/Template/Daily/DailyTemplate.md",
-    "Journal/Daily/2024-07-30.md",
-    "Contacts/Contact template.md",
-    "Journal/Daily/2024-07-27.md",
-    "Journal/Daily/2024-07-26.md",
-    "Journal/Daily/2024-07-25.md",
-    "Journal/Daily/2024-07-24.md",
-    "Journal/Daily/2024-07-23.md",
-    "Journal/Goals.md",
+    "nomadicmatt - The Ultimate Japan Itinerary for First-Timers From 1 to 3 Weeks.md",
+    "G Adventures - Discover Japan.md",
+    "G Adventures - Journeys Iconic Japan.md",
+    "G Adventures - Japan Tokyo Nights & Kyoto Temples.md",
+    "G Adventures - Epic Japan Speed Trains & Street Food.md",
+    "G Adventures - Japan Castles & Cuisine.md",
+    "G Adventures - Best of South Korea.md",
+    "G Adventures - Back Roads of Japan.md",
+    "G Adventures - Japan Family Journey From Ancient to Modern Times.md",
+    "G Adventures - Japan Kyoto, Tokyo & the Michinoku Coastal Trail.md",
+    "G Adventures - Uncover Korea K Pop & Hanok Villages.md",
+    "G Adventures - Korea to Japan Epic Eats & Bright City Lights.md",
+    "G Adventures - Seoul to Osaka Beaches & Big Cities.md",
+    "G Adventures - Essential Korea.md",
+    "G Adventures - South Korea Explorer.md",
+    "G Adventures - Korea & Japan Encompassed.md",
+    "G Adventures - Japan Express – Osaka to Tokyo.md",
+    "Travel/Japan/Tours/Kensington Tours - Best of Japan by Cruise.md",
+    "Travel/Japan/Tours/Kensington Tours - East Asia Exclusive.md",
+    "Travel/Japan/Tours/Kensington Tours - Japan Family Samurai Warriors & Anime Heroes.md",
+    "Travel/Japan/Tours/Kensington Tours - Japan's Fall Foliage.md",
+    "Travel/Japan/Tours/Kensington Tours - Tokyo Escape The International Megacity.md",
+    "image-link.md",
+    "Travel/Japan/Tours/Kensington Tours - Land of the Rising Sun A Japan Heritage Discovery.md",
+    "Travel/Japan/Tours/Kensington Tours - Pure Japan Winter  Shrines - Snow Monkeys.md",
+    "Travel/Japan/Tours/Kensington Tours - Japan Peace, History & Art Islands.md",
+    "Travel/Japan/Tours",
+    "Travel/Japan",
+    "Travel",
     "Contacts/angeliqe",
-    "{{.md",
-    "Journal/Daily/2024-07-22.md",
-    "Journal/Daily/2024-07-28.md",
-    "Scripts and Guides/Extract frames from videos.md",
-    "config files/Setting up git-crypt.md",
-    "Blog posts/is-google-just-shit-now.md",
     "Blog posts/Pasted image 20240624224819.png",
     "Blog posts/Pasted image 20240624224522.png",
     "Blog posts/Pasted image 20240624224101.png",
@@ -188,25 +294,12 @@
     "Blog posts/Pasted image 20240624222715.png",
     "Blog posts/Pasted image 20240624222508.png",
     "Blog posts/Pasted image 20240624222349.png",
-    "Scripts and Guides/gitlab-markdown-notes.md",
     "Scripts and Guides/files",
-    "Scripts and Guides/actually-starting-Rosbridge.md",
-    "Scripts and Guides/Loading AHN files into reality capture.md",
-    "Potential projects.md",
-    "Kadeotjes/Kadeotjes voor Daniel.md",
-    "Journal/Weekly/2024-30.md",
-    "Journal/Weekly/2024-28.md",
-    "Journal/Weekly/2024-29.md",
-    "Journal/Weekly/2024-27.md",
     "Journal/Weekly",
     "Journal/Template/utils/getWeekNumber.ts",
     "Journal/Template/utils/clearString.ts",
     "Journal/Template/utils",
-    "Journal/Template/Weekly/WeeklyTemplate.md",
     "Journal/Template/Weekly/Weekly.ts",
-    "Journal/Template/Weekly",
-    "Journal/Template/Daily/Daily.ts",
-    "Journal/Template/Daily",
     "Untitled.canvas"
   ]
 }

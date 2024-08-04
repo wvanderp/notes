@@ -1,0 +1,1 @@
+https://www.nomadicmatt.com/travel-blogs/japan-itinerary/
