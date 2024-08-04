@@ -1,0 +1,14 @@
+- [[Hida Folk Village]]
+- [[Hida no Sato (Hida Minzoku Mura Folk Village)]]
+- [[Hida no Sato (Hida Minzoku Mura Folk Village)]]
+- [[Hida no Sato (Hida Minzoku Mura Folk Village)]] (Optional)
+- [[Miyagawa Morning Market]]
+- [[Miyagawa Morning Market]]
+- [[Sake Street]]
+- [[Sake Street]]
+- [[Sake Street]]
+- [[Sake Street]] (Optional)
+- [[Shirakawa-go]]
+- [[Shirakawago]]
+- [[Takayama Old Town]]
+- [[Takayama Orientation Walk]]

@@ -1,0 +1,3 @@
+- [[Mt. Fuji]]
+- [[Lake Kawaguchi]]
+- [[Five Lakes]]

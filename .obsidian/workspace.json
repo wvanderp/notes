@@ -4,119 +4,59 @@
     "type": "split",
     "children": [
       {
-        "id": "180a4c371d0edc60",
+        "id": "b274e18477cf3a09",
         "type": "tabs",
         "children": [
           {
-            "id": "bf6498af06aa29a0",
+            "id": "65775a209f70fc1b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "G Adventures - Uncover Korea K Pop & Hanok Villages.md",
+                "file": "Journal/Weekly/2024-27.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "9c66afff6c3f1fe8",
+            "id": "4741c10e65a9ac70",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "G Adventures - Japan Kyoto, Tokyo & the Michinoku Coastal Trail.md",
+                "file": "Journal/Daily/2024-07-15.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "36bf30db33cfcea5",
+            "id": "d9aea92bc0f3323e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "G Adventures - Japan Family Journey From Ancient to Modern Times.md",
+                "file": "Journal/Daily/2024-07-21.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "8c8e1e287d24f4dd",
+            "id": "de9bc039576ac4a1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "G Adventures - Back Roads of Japan.md",
+                "file": "Journal/Daily/2024-07-22.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "baeb05181b4eef4f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "G Adventures - Best of South Korea.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0523622f67e0edd3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "G Adventures - Japan Castles & Cuisine.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "884b51a4754efbe5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "G Adventures - Japan Tokyo Nights & Kyoto Temples.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a3320282679c1467",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "G Adventures - Journeys Iconic Japan.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "123d4cf155cfead8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "G Adventures - Discover Japan.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d4c2e6ee77c3320a",
+            "id": "1bf5cff9aec738fc",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -124,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -153,7 +93,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ffmpeg",
+                "query": "`",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -190,7 +130,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "G Adventures - Uncover Korea K Pop & Hanok Villages.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +146,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "G Adventures - Uncover Korea K Pop & Hanok Villages.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -229,9 +167,15 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "G Adventures - Uncover Korea K Pop & Hanok Villages.md"
-              }
+              "state": {}
+            }
+          },
+          {
+            "id": "f2264c11d69f8475",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
             }
           }
         ]
@@ -252,54 +196,54 @@
       "random-note:Open random note": false
     }
   },
-  "active": "d4c2e6ee77c3320a",
+  "active": "1bf5cff9aec738fc",
   "lastOpenFiles": [
-    "nomadicmatt - The Ultimate Japan Itinerary for First-Timers From 1 to 3 Weeks.md",
-    "G Adventures - Discover Japan.md",
-    "G Adventures - Journeys Iconic Japan.md",
-    "G Adventures - Japan Tokyo Nights & Kyoto Temples.md",
-    "G Adventures - Epic Japan Speed Trains & Street Food.md",
-    "G Adventures - Japan Castles & Cuisine.md",
-    "G Adventures - Best of South Korea.md",
-    "G Adventures - Back Roads of Japan.md",
-    "G Adventures - Japan Family Journey From Ancient to Modern Times.md",
-    "G Adventures - Japan Kyoto, Tokyo & the Michinoku Coastal Trail.md",
-    "G Adventures - Uncover Korea K Pop & Hanok Villages.md",
-    "G Adventures - Korea to Japan Epic Eats & Bright City Lights.md",
-    "G Adventures - Seoul to Osaka Beaches & Big Cities.md",
-    "G Adventures - Essential Korea.md",
-    "G Adventures - South Korea Explorer.md",
-    "G Adventures - Korea & Japan Encompassed.md",
-    "G Adventures - Japan Express – Osaka to Tokyo.md",
-    "Travel/Japan/Tours/Kensington Tours - Best of Japan by Cruise.md",
-    "Travel/Japan/Tours/Kensington Tours - East Asia Exclusive.md",
-    "Travel/Japan/Tours/Kensington Tours - Japan Family Samurai Warriors & Anime Heroes.md",
     "Travel/Japan/Tours/Kensington Tours - Japan's Fall Foliage.md",
-    "Travel/Japan/Tours/Kensington Tours - Tokyo Escape The International Megacity.md",
-    "image-link.md",
-    "Travel/Japan/Tours/Kensington Tours - Land of the Rising Sun A Japan Heritage Discovery.md",
-    "Travel/Japan/Tours/Kensington Tours - Pure Japan Winter  Shrines - Snow Monkeys.md",
+    "Travel/Japan/Tours/Kensington Tours - Japan Pop Culture & Cuisine.md",
     "Travel/Japan/Tours/Kensington Tours - Japan Peace, History & Art Islands.md",
+    "Travel/Japan/Tours/Kensington Tours - Japan Family Samurai Warriors & Anime Heroes.md",
+    "Travel/Japan/Tours/Kensington Tours - Japan Cherry Blossom Edition.md",
+    "Travel/Japan/Tours/Kensington Tours - East Asia Exclusive.md",
+    "Travel/Japan/Tours/Kensington Tours - Discover Japan.md",
+    "Travel/Japan/Tours/Kensington Tours - Best of Japan by Cruise.md",
+    "Travel/Japan/cities/Nagasaki.md",
+    "Travel/Japan/Tours/G Adventures - Uncover Korea K Pop & Hanok Villages.md",
+    "Travel/Japan/Tours/G Adventures - South Korea Explorer.md",
+    "Travel/Japan/Tours/G Adventures - Seoul to Osaka Beaches & Big Cities.md",
+    "Travel/Japan/Tours/G Adventures - Korea to Japan Epic Eats & Bright City Lights.md",
+    "Travel/Japan/Tours/G Adventures - Korea & Japan Encompassed.md",
+    "Travel/Japan/Tours/G Adventures - Journeys Iconic Japan.md",
+    "Travel/Japan/Tours/G Adventures - Japan Tokyo Nights & Kyoto Temples.md",
+    "Travel/Japan/Tours/G Adventures - Japan Kyoto, Tokyo & the Michinoku Coastal Trail.md",
+    "Travel/Japan/cities/other.md",
+    "Travel/Japan/Tours/G Adventures - Japan Family Journey From Ancient to Modern Times.md",
+    "Travel/Japan/cities/Nara.md",
+    "Travel/Japan/cities/Matsumoto.md",
+    "Travel/Japan/Tours/G Adventures - Japan Express – Osaka to Tokyo.md",
+    "Travel/Japan/cities/Mount Koya.md",
+    "Travel/Japan/Tours/G Adventures - Japan Castles & Cuisine.md",
+    "Travel/Japan/Tours/G Adventures - Essential Korea.md",
+    "Travel/Japan/cities/Yeosu.md",
+    "Travel/Japan/cities",
     "Travel/Japan/Tours",
     "Travel/Japan",
     "Travel",
-    "Contacts/angeliqe",
-    "Blog posts/Pasted image 20240624224819.png",
-    "Blog posts/Pasted image 20240624224522.png",
-    "Blog posts/Pasted image 20240624224101.png",
-    "Blog posts/Pasted image 20240624223944.png",
-    "Blog posts/Pasted image 20240624222954.png",
-    "Blog posts/Pasted image 20240624222918.png",
-    "Blog posts/Pasted image 20240624222757.png",
-    "Blog posts/Pasted image 20240624222715.png",
-    "Blog posts/Pasted image 20240624222508.png",
-    "Blog posts/Pasted image 20240624222349.png",
+    "Scripts and Guides/files/har download button.png",
     "Scripts and Guides/files",
-    "Journal/Weekly",
-    "Journal/Template/utils/getWeekNumber.ts",
-    "Journal/Template/utils/clearString.ts",
-    "Journal/Template/utils",
-    "Journal/Template/Weekly/Weekly.ts",
+    "Creative vibes/Vibes-for-my-dystopian-sci-fi-movie-files/deuchland.avif",
+    "Creative vibes/Vibes-for-my-dystopian-sci-fi-movie-files/Gun_instructor_Pyongyang_2015_Eddo_Hartmann.jpg",
+    "Creative vibes/Vibes-for-my-dystopian-sci-fi-movie-files",
+    "Creative vibes",
+    "Contacts/2423856.crypt.jpeg",
+    "Contacts/2423856.crypt.jpeg.crdownload",
+    "Contacts",
+    "git-crypt.key",
+    "blog posts/Pasted image 20240624224819.png",
+    "blog posts/Pasted image 20240624224522.png",
+    "blog posts/Pasted image 20240624224101.png",
+    "blog posts/Pasted image 20240624223944.png",
+    "blog posts/Pasted image 20240624222954.png",
+    "blog posts/Pasted image 20240624222918.png",
     "Untitled.canvas"
   ]
 }
