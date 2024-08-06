@@ -5,7 +5,7 @@ https://www.gadventures.com/trips/japan-family-journey-from-ancient-to-modern-ti
 
 Arrive in time to meet your fellow travelers for a welcome gathering this evening. Your arrival transfer is included.
 
-On our tours in [[Japan]] we use public transport, making use of Japan's world-famous transportation system. From the super fast [[Shinkansen]] Bullet Train to Kyoto's extensive local bus network, we ride with the locals.
+On our tours in Japan we use public transport, making use of Japan's world-famous transportation system. From the super fast [[Shinkansen]] Bullet Train to Kyoto's extensive local bus network, we ride with the locals.
 
 As well, there is a lot of walking on this trip, every day - please ensure you have an average level of fitness and can walk unaided for long periods of time. A good pair of walking shoes are highly recommended.
 
@@ -32,7 +32,7 @@ Below is an example of the hotel we may use in this city. For the actual hotel y
 
 # Day 2: Tokyo
 
-Today, we’ll see [[Tokyo]] from a local’s perspective, traveling by public transit. We start from a traditional Japanese taiko drumming class. Hear how these traditional wooden drums are made and learn three different playing techniques. Put your newly acquired skills to the test during a group performance together with a professional [[Wadaiko]] drummer. Later a visit to the serene [[Meiji Jingu]] shrine, dedicated to the spirit of Emperor [[Meiji]]. Then hit the streets of the buzzing [[Harajuku]] district, where kitschy-cute street fashion and candy-colored wigs are the order of the day.
+Today, we’ll see [[Tokyo]] from a local’s perspective, traveling by public transit. We start from a traditional Japanese taiko drumming class. Hear how these traditional wooden drums are made and learn three different playing techniques. Put your newly acquired skills to the test during a group performance together with a professional [[Wadaiko]] drummer. Later a visit to the serene [[Meiji Jingu Shrine]], dedicated to the spirit of Emperor Meiji. Then hit the streets of the buzzing [[Harajuku district]], where kitschy-cute street fashion and candy-colored wigs are the order of the day.
 
 Wear your comfortable shoes - today we will get around by public bus, metro, and on foot.
 
@@ -40,16 +40,16 @@ Wear your comfortable shoes - today we will get around by public bus, metro, and
 Get around underground via public transit.
 
 ### Meiji Shrine (Meiji Jingū) Visit
-Visit this shrine dedicated to the 123rd emperor of Japan, [[Emperor Meiji]] and his wife. The shrine is a great place to escape the bustle of the city and wander the grounds along the wide walking paths.
+Visit this shrine dedicated to the 123rd emperor of Japan, Emperor Meiji and his wife. The shrine is a great place to escape the bustle of the city and wander the grounds along the wide walking paths.
 
 ### Harajuku Visit
-The [[Harajuku]] district is known as the center of Japanese youth culture and fashion. Here, find dozens of shopping and dining options including independent boutiques and larger international luxury stores.
+The [[Harajuku district]] is known as the center of Japanese youth culture and fashion. Here, find dozens of shopping and dining options including independent boutiques and larger international luxury stores.
 
 ### Your Family Journeys Moment: Traditional Taiko Drumming Class
 Take part in a Taiko drumming class facilitated by a professional Wadaiko drummer. Learn how Wadaiko is made, the history of Taiko, how to stand (posture), kamae instruction (the stance), and how to hold the drumsticks. Learn and practice three different styles and then perform together as a group.
 
 ### Asakusa Walk
-Discover this historic entertainment district on a guided orientation tour of the area with your CEO. Take in one of Tokyo's iconic sites with a stop at [[Sensoji]] temple.
+Discover this historic entertainment district on a guided orientation tour of the area with your CEO. Take in one of Tokyo's iconic sites with a stop at [[Sensoji temple]].
 
 ### Accommodation
 **Hotel Villa Fontaine Shiodome (or similar)**
@@ -79,7 +79,7 @@ Enjoy some time to explore the city on your own. Opt to visit [[Ueno Park]] or h
 As Japan's most popular city park, Ueno is known for its museums and cherry blossoms. Stroll the pathways, admire the thousands of trees, including approximately 800 Somei-yoshino cherry trees, look for lotus on the pond, or opt to visit the temples and museums (entrance fees).
 
 #### Tokyo Tower Visit
-Completed in 1958, the [[Tokyo Tower]] symbolized the rebirth of Japan as a post-war economic power. Standing 13 meters taller than the [[Eiffel Tower]], it has 2 observation decks which offer stunning views of Tokyo and the surrounding area. On a clear day, if you’re lucky, you can even catch a glimpse of [[Mount Fuji]]!
+Completed in 1958, the [[Tokyo Tower]] symbolized the rebirth of Japan as a post-war economic power. Standing 13 meters taller than the Eiffel Tower, it has 2 observation decks which offer stunning views of Tokyo and the surrounding area. On a clear day, if you’re lucky, you can even catch a glimpse of [[Mount Fuji]]!
 
 ### Accommodation
 **Hotel Villa Fontaine Shiodome (or similar)**
@@ -124,7 +124,7 @@ Enjoy some free time to wander through this traditional hot springs town.
 
 # Day 5: Nagano
 
-Nagano is home to the Japanese macaque, or snow monkey — one of the only primate species that can survive below freezing temperatures. Venture to [[Jigokudani Yaen Koen (Snow Monkey Park)]] to watch these furry simians scampering about the rocks or taking a soak in one of the thermal pools, fed by natural hot springs. Then head into Nagano city to explore the 7th-century Buddhist temple of [[Zenkoji]], home to the very first Buddha statue brought to Japan.
+Nagano is home to the Japanese macaque, or snow monkey — one of the only primate species that can survive below freezing temperatures. Venture to [[Jigokudani Monkey Park]] to watch these furry simians scampering about the rocks or taking a soak in one of the thermal pools, fed by natural hot springs. Then head into Nagano city to explore the 7th-century Buddhist temple of [[Zenkoji]], home to the very first Buddha statue brought to Japan.
 
 Wear your comfortable shoes - today we will get around by public bus, metro, train, and on foot.
 

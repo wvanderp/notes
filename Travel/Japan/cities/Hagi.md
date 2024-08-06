@@ -1,1 +1,0 @@
-- [[Hagi Community Homestay]]

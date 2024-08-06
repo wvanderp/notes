@@ -1,0 +1,5 @@
+---
+aliases:
+  - Sensoji Temple
+  - Sensoji
+---

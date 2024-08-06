@@ -1,6 +1,7 @@
-https://www.kensingtontours.com/tours/asia/japan/discover-japan
+<https://www.kensingtontours.com/tours/asia/japan/discover-japan>
 
 8 days
+
 ## Day 1 [[Tokyo]]
 
 ![Keio Plaza Tokyo](https://media.kensingtontours.com/image/upload/g_auto,f_auto,q_auto,w_644,h_442,c_fill/kt/live/pictures/asia/china-japan/japan/tokyo/hotel/keio-plaza-tokyo/exterior-keio-plaza-tokyo-japan-tours)
@@ -18,12 +19,12 @@ Meet your Kensington Tours Airport Representative who will escort you to your dr
 
 ![Sensoji Shrine](https://media.kensingtontours.com/image/upload/g_auto,f_auto,q_auto,w_644,h_442,c_fill/kt/live/pictures/asia/china-japan/japan/tokyo/service/service_54269/senso-ji-sensoji-temple-tokyo-japan-tours)
 
-
 ### Get In and Get Some Rest
 
 Today meet your guide to embark on a captivating half-day city tour to gain insights into some of the city's most iconic, historical, and cultural sights of Tokyo. Begin with visiting [[Hamarikyu]], a splendid Japanese garden that once belonged to a powerful feudal lord during the Edo Period. Admire the garden's diverse collection of seasonal flowers, drawing visitors from far and wide. The highlight awaits at Nakajima-no-Chaya, a charming teahouse offering freshly brewed green tea, delectable Japanese sweets, and picturesque views of the tranquil ponds and lush greenery. Uniquely, this landscape garden features seawater ponds that ebb and flow with the tides, adding to its allure. Take a delightful tea break as your guide shares intriguing insights into the art of sado, the traditional tea ceremony. From there, venture to Asakusa, a cherished part of Tokyo's old town known as [[shitamachi]]. Immerse yourself in the rich history of this district, once a flourishing geisha enclave. Discover the iconic [[Sensoji]] dating back to the 7th century, Tokyo's oldest Buddhist temple, and soak in the vibrant atmosphere of the surrounding streets. Delight in strolling through the traditional shops that line the streets, offering a glimpse into Japan's cultural heritage. Let the captivating charm of Asakusa captivate your senses as you explore its timeless beauty.
 
 After years of traveling to and from Japan, our Destination Experts all agree that when traveling to the other side of the globe, we all need some time at leisure to acclimate to the new time zone, a fast-paced city, and a different country, culture, and way of life. Take this day to explore the city at your own pace or rest at your accommodations and set off tomorrow fresh-faced and ready to take in the incredibly country that is Japan with your private guide along side.
+
 #### Where you’ll be staying
 
 - [[Keio Plaza Tokyo]]
@@ -34,7 +35,6 @@ After years of traveling to and from Japan, our Destination Experts all agree th
 ![Sushi from Tokyo](https://media.kensingtontours.com/image/upload/g_auto,f_auto,q_auto,w_644,h_442,c_fill/kt/live/pictures/asia/china-japan/japan/tokyo/service/service_54897/sushi-tokyo-japan-tours)
 
 ![Ginza](https://media.kensingtontours.com/image/upload/g_auto,f_auto,q_auto,w_644,h_442,c_fill/kt/live/pictures/asia/china-japan/japan/tokyo/service/service_50016/ginza-japan-tours)
-
 
 ### Explore with an Expert
 
@@ -54,9 +54,10 @@ Recognized as one of the country's best shopping districts, [[Ginza]] is the per
 Lake Ashinoko
 
 ![Hakone Kowakien Ten Yu](https://media.kensingtontours.com/image/upload/g_auto,f_auto,q_auto,w_644,h_442,c_fill/kt/live/pictures/asia/china-japan/japan/hakone/hotel/hakone-kowakien-ten-yu/kowakien-tenyu-exterior)
+
 ### A Change of Scenery
 
-Leave behind the hustle and bustle of Tokyo in favor of a day in Hakone; The gateway to Japan’s tallest mountain [[Mt. Fuji]] and the surrounding national park. Your local guide will meet you at your hotel this morning and accompany you on your private drive from Tokyo. Spend the day exploring [[Fuji-Hakone-Izu National Park]], making use of your private vehicle as well as Hakone’s experiential forms of transport. The first stop will be at the [[Hakone Checkpoint]] which has been reconstructed to look exactly as it did during the Feudal Edo Period. Your guide will explain its fascinating history and show you around the museum before taking a short walk through the beautiful Cedar Avenue nearby. After you have taken in the beauty of the forest, travel to the foot of [[Mt. Komagatake]] for a scenic ride on the gondola lift. If the skies are clear, Mt. Fuji might be visible. Hakone is also home to many museums and parks. Later in the day, visit the [[Hakone Open Air Museum]], which creates a harmonic balance of nature and art by exhibiting various sculptures on its spacious grounds. Besides the sculptures, the Hakone Open Air Museum also features various indoor galleries, including a sizable Picasso Collection. Throughout the day there is a chance to catch a glimpse of Mt. Fuji, however, please keep in mind that she is a notoriously shy mountain and it needs to be a clear day.  
+Leave behind the hustle and bustle of Tokyo in favor of a day in Hakone; The gateway to Japan’s tallest mountain [[Mount Fuji]] and the surrounding national park. Your local guide will meet you at your hotel this morning and accompany you on your private drive from Tokyo. Spend the day exploring [[Fuji-Hakone-Izu National Park]], making use of your private vehicle as well as Hakone’s experiential forms of transport. The first stop will be at the [[Hakone Checkpoint]] which has been reconstructed to look exactly as it did during the Feudal Edo Period. Your guide will explain its fascinating history and show you around the museum before taking a short walk through the beautiful Cedar Avenue nearby. After you have taken in the beauty of the forest, travel to the foot of [[Mt. Komagatake]] for a scenic ride on the gondola lift. If the skies are clear, Mt. Fuji might be visible. Hakone is also home to many museums and parks. Later in the day, visit the [[Hakone Open Air Museum]], which creates a harmonic balance of nature and art by exhibiting various sculptures on its spacious grounds. Besides the sculptures, the Hakone Open Air Museum also features various indoor galleries, including a sizable Picasso Collection. Throughout the day there is a chance to catch a glimpse of Mt. Fuji, however, please keep in mind that she is a notoriously shy mountain and it needs to be a clear day.  
 
 #### Where you’ll be staying
 
@@ -70,6 +71,7 @@ Leave behind the hustle and bustle of Tokyo in favor of a day in Hakone; The gat
 Arashiyama
 
 ![Noku Kyoto](https://media.kensingtontours.com/image/upload/g_auto,f_auto,q_auto,w_644,h_442,c_fill/kt/live/pictures/asia/china-japan/japan/kyoto/hotel/noku-kyoto/exterior-noku-hotel-kyoto-japan-tours)
+
 ### En Route
 
 Meet your driver for a train station transfer with a private vehicle.  
@@ -112,17 +114,18 @@ _Please note: This tour makes use of Kyoto's efficient public transportation to 
 ![](https://media.kensingtontours.com/image/upload/g_auto,f_auto,q_auto,w_644,h_442,c_fill/kt/live/pictures/asia/china-japan/japan/kyoto/transport/transport_15385/nara-park-cherry-blossoms-nara-japan-tours)
 
 ![Noku Kyoto](https://media.kensingtontours.com/image/upload/g_auto,f_auto,q_auto,w_644,h_442,c_fill/kt/live/pictures/asia/china-japan/japan/kyoto/hotel/noku-kyoto/exterior-noku-hotel-kyoto-japan-tours)
+
 ### Secrets of the City
 
 On today's tour, you will take to the streets of Japan's charming ancient capital, [[Nara]]. Hear tales of the city’s past while wandering by ancient shrines and traditional houses. Explore famous landmarks such as the 8th-century [[Todai-ji Temple]] and quiet back roads brimming with atmosphere, for a glimpse of Japan’s incredible heritage.
 
-Set off from the hotel with your private guide local guide in the morning to make the most of the day. Start with a visit to [[Isui Garden]], one of Nara’s most beautiful gardens. Stroll around the immaculate grounds, admiring views of [[Mt. Wakakusayama]] in the background while hearing about the city’s history. Relax and enjoy a cup of tea and some local sweets at a teahouse set amid the garden. Next, walk onwards to [[Todaiji Temple]], Nara’s most prominent landmark. Walk through the temple compound to enter [[Daibutsu-den building]], the largest wooden building in the world, and admire the 15-metre tall Buddha image found inside.   
-    
+Set off from the hotel with your private guide local guide in the morning to make the most of the day. Start with a visit to [[Isui Garden]], one of Nara’s most beautiful gardens. Stroll around the immaculate grounds, admiring views of [[Mt. Wakakusayama]] in the background while hearing about the city’s history. Relax and enjoy a cup of tea and some local sweets at a teahouse set amid the garden. Next, walk onwards to [[Todaiji Temple]], Nara’s most prominent landmark. Walk through the temple compound to enter [[Daibutsu-den building]], the largest wooden building in the world, and admire the 15-metre tall Buddha image found inside.
+
 Continue on to [[Nara Park]], where Nara's famous friendly deer casually graze, followed by a stroll through Nara’s backstreets. Pass local shops and traditional houses, gaining a better appreciation for the blend of old and new that defines so many towns in Japan. You arrive at [[Kasuga Taisha]]; Nara’s most sacred Shinto shrine. See the shrine’s famous bronze and stone lanterns that hang from the roof, donated to the shrine by devotees. Although only lit during lantern festivals in February and August, they are still an impressive site.
 
 Before departing Nara, take a walk through the [[Naramachi district]]. The streets of this former merchant neighborhood are filled with restaurants, cafes, boutique stores, and traditional inns. Many of the shopfronts are built in the traditional machiya style, which helps provide the district with its unique atmosphere.  
-    
-Wrap up the Nara day trip with a transfer to the train station, hopping on board for the return journey to Kyoto. 
+
+Wrap up the Nara day trip with a transfer to the train station, hopping on board for the return journey to Kyoto.
 
 #### Where you’ll be staying
 

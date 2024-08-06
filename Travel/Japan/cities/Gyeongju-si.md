@@ -1,12 +1,6 @@
-- [[Anapji Pond]]
-- [[Anapji Pond]]
-- [[Anapji Pond]] (Optional)
-- [[Bulguksa Temple]]
-- [[Bulguksa Temple]]
-- [[Bulguksa Temple]]
-- [[Cheomseongdae Observatory]]
-- [[Cheomseongdae Observatory]]
-- [[Cheomseongdae Observatory]]
+- [[Anapji Pond]] 3x
+- [[Bulguksa Temple]] 3x
+- [[Cheomseongdae Observatory]] 3x
 - [[Cheongun-gyo]]
 - [[Cheongun-gyo]]
 - [[Cheonmachong]]

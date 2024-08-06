@@ -2,20 +2,9 @@
 - [[Gora Kadan]]
 - [[Hakone Checkpoint]]
 - [[Hakone Kowakien Ten-yu]]
-- [[Hakone Open Air Museum]]
-- [[Hakone Open Air Museum]]
-- [[Lake Ashi]]
-- [[Lake Ashino-ko]]
-- [[Lake Ashino-ko]]
-- [[Lake Ashinoko]]
-- [[Lake Ashinoko]]
-- [[Mount Fuji]]
-- [[Mount Fuji]]
-- [[Mt Fuji]]
-- [[Mt Fuji]]
-- [[Mt. Fuji]]
-- [[Mt. Fuji]]
-- [[Mt. Fuji]]
+- [[Hakone Open Air Museum]] 3x
+- [[Lake Ashino-ko]] 5x
+- [[Mount Fuji]] 7x
 - [[Mt. Komagatake]]
 - [[Mt. Owakudani]]
 - [[Mt. Owakudani]]

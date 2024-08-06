@@ -107,7 +107,7 @@ Enjoy free time in [[Nampodong]], downtown Busan.
 #### Optional Activities - Day 5
 
 **Haeundae Beach and Dongbaek Island (APEC House) Visit**  
-Visit [[Haeundae Beach]], one of Korea's most beautiful beaches. Enjoy a walk along the shore, or take a swim (don't forget your suit!) And see the famed [[APEC House]] built to host the Asia-Pacific Economic Cooperation (APEC) summit meeting in 2005 on [[Dongbaek Island]].
+Visit [[Haeundae Beach]], one of Korea's most beautiful beaches. Enjoy a walk along the shore, or take a swim (don't forget your suit!) And see the famed [[APEC House & Dongbaek Island]] built to host the Asia-Pacific Economic Cooperation (APEC) summit meeting in 2005 on [[Dongbaek Island]].
 
 **Jjimjilbang**  
 Treat yourself in one of Busan's jjimjilbangs, a Korean spa bathhouse, with an array of hot spring tubs to rejuvenate mind, body, and soul.

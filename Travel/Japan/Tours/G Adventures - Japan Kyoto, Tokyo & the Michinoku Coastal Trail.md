@@ -149,7 +149,7 @@ Head into the metropolis and discover some of Tokyo's modern highlights on a CEO
 
 # Day 10: Tokyo: Your OMG Day
 
-Eat or walk, walk or eat? If you are an active foodie, you're familiar with this internal debate. Your OMG Day will be incredible no matter what you choose—but it's up to you to decide what the day holds. Join your CEO for a full day excursion to [[Mt. Fuji]] or meet a local guide and dive headfirst into all things Japanese cuisine, slurping and crunching your way through the day.
+Eat or walk, walk or eat? If you are an active foodie, you're familiar with this internal debate. Your OMG Day will be incredible no matter what you choose—but it's up to you to decide what the day holds. Join your CEO for a full day excursion to [[Mount Fuji]] or meet a local guide and dive headfirst into all things Japanese cuisine, slurping and crunching your way through the day.
 
 Your day will be epic no matter which way you spend it on your OMG Day. Fill in your fellow travelers on what the day held over a delicious farewell dinner in downtown [[Tokyo]].
 

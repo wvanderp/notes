@@ -4,67 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "b274e18477cf3a09",
+        "id": "180a4c371d0edc60",
         "type": "tabs",
         "children": [
           {
-            "id": "65775a209f70fc1b",
+            "id": "ab190c757ed1b26e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/Weekly/2024-27.md",
+                "file": "Travel/Japan/cities/Kyoto.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "4741c10e65a9ac70",
+            "id": "efcaa7f8d4e33f35",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Journal/Daily/2024-07-15.md",
-                "mode": "source",
-                "source": false
+                "file": "files/Pasted image 20240804214752.png"
               }
-            }
-          },
-          {
-            "id": "d9aea92bc0f3323e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Journal/Daily/2024-07-21.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "de9bc039576ac4a1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Journal/Daily/2024-07-22.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1bf5cff9aec738fc",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +59,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "`",
+                "query": "Kasuga Taisha",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -130,13 +96,14 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "files/Pasted image 20240804214752.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -146,6 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "files/Pasted image 20240804214752.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,23 +135,16 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
-            }
-          },
-          {
-            "id": "f2264c11d69f8475",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
+              "state": {
+                "file": "files/Pasted image 20240804214752.png"
+              }
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,54 +157,55 @@
       "random-note:Open random note": false
     }
   },
-  "active": "1bf5cff9aec738fc",
+  "active": "1ee23bd2dc37ffa1",
   "lastOpenFiles": [
-    "Travel/Japan/Tours/Kensington Tours - Japan's Fall Foliage.md",
-    "Travel/Japan/Tours/Kensington Tours - Japan Pop Culture & Cuisine.md",
-    "Travel/Japan/Tours/Kensington Tours - Japan Peace, History & Art Islands.md",
-    "Travel/Japan/Tours/Kensington Tours - Japan Family Samurai Warriors & Anime Heroes.md",
-    "Travel/Japan/Tours/Kensington Tours - Japan Cherry Blossom Edition.md",
-    "Travel/Japan/Tours/Kensington Tours - East Asia Exclusive.md",
-    "Travel/Japan/Tours/Kensington Tours - Discover Japan.md",
-    "Travel/Japan/Tours/Kensington Tours - Best of Japan by Cruise.md",
-    "Travel/Japan/cities/Nagasaki.md",
-    "Travel/Japan/Tours/G Adventures - Uncover Korea K Pop & Hanok Villages.md",
-    "Travel/Japan/Tours/G Adventures - South Korea Explorer.md",
-    "Travel/Japan/Tours/G Adventures - Seoul to Osaka Beaches & Big Cities.md",
-    "Travel/Japan/Tours/G Adventures - Korea to Japan Epic Eats & Bright City Lights.md",
-    "Travel/Japan/Tours/G Adventures - Korea & Japan Encompassed.md",
-    "Travel/Japan/Tours/G Adventures - Journeys Iconic Japan.md",
-    "Travel/Japan/Tours/G Adventures - Japan Tokyo Nights & Kyoto Temples.md",
-    "Travel/Japan/Tours/G Adventures - Japan Kyoto, Tokyo & the Michinoku Coastal Trail.md",
-    "Travel/Japan/cities/other.md",
-    "Travel/Japan/Tours/G Adventures - Japan Family Journey From Ancient to Modern Times.md",
-    "Travel/Japan/cities/Nara.md",
-    "Travel/Japan/cities/Matsumoto.md",
-    "Travel/Japan/Tours/G Adventures - Japan Express – Osaka to Tokyo.md",
-    "Travel/Japan/cities/Mount Koya.md",
-    "Travel/Japan/Tours/G Adventures - Japan Castles & Cuisine.md",
-    "Travel/Japan/Tours/G Adventures - Essential Korea.md",
-    "Travel/Japan/cities/Yeosu.md",
+    "files/Pasted image 20240527111844.png",
+    "files/chrome_SfFMHJBiK6.png",
+    "files/Pasted image 20240804214752.png",
+    "Projects/Nerdy Tourism/The Geek Atlas - 128 Places Where Science and Technology Come Alive.md",
+    "files/chrome_inb6rQCS2D.png",
+    "files/chrome_gXbNkWYeea.png",
+    "files/chrome_EBpYN30wIM.png",
+    "files/chrome_C8ROOtEilw.png",
+    "files/chrome_AgmbxhOEfv.png",
+    "Travel/Japan/atractions/Shibuya Crossing.md",
+    "Travel/Japan/vibes.md",
+    "Travel/Japan/Untitled.md",
+    "Travel/Japan/atractions/Tsukiji Fish Market.md",
+    "Travel/Japan/atractions/The Floating Torii Gate.md",
+    "Travel/Japan/atractions/Shirakawa-go.md",
+    "Travel/Japan/atractions/Sensō-ji Temple.md",
+    "Travel/Japan/atractions/Sadako Sasaki Statue.md",
+    "Travel/Japan/atractions/Philosopher's Path.md",
+    "Travel/Japan/atractions/Peace Memorial Park.md",
+    "Travel/Japan/atractions/Nomura Samurai House.md",
+    "Travel/Japan/atractions/Nijo Castle and Gardens.md",
+    "Travel/Japan/atractions/National Folklore Museum.md",
+    "Travel/Japan/atractions/Nagamachi Samurai district.md",
+    "Travel/Japan/atractions/Mt. Misen.md",
+    "Travel/Japan/atractions/Mount Fuji.md",
+    "Travel/Japan/atractions/Miyajima Island.md",
+    "Travel/Japan/atractions/Meiji Jingu Shrine.md",
+    "Travel/Japan/atractions/Lake Ashino-ko.md",
+    "Travel/Japan/atractions/Kiyomizu-dera Temple.md",
+    "Travel/Japan/atractions/Kinkaku-ji (Golden Pavilion).md",
+    "Travel/Japan/atractions/Kenroku-en Garden.md",
+    "Travel/Japan/atractions/Kasuga Taisha Shrine.md",
+    "Travel/Japan/atractions/Jigokudani Monkey Park.md",
+    "Travel/Japan/atractions",
+    "Travel/Japan/atra",
+    "files/Pasted image 20240804210818.png",
+    "Travel/Japan/Untitled.canvas",
     "Travel/Japan/cities",
     "Travel/Japan/Tours",
     "Travel/Japan",
     "Travel",
-    "Scripts and Guides/files/har download button.png",
+    "Contacts/angeliqe",
+    "Blog posts/Pasted image 20240624224819.png",
+    "Blog posts/Pasted image 20240624224522.png",
     "Scripts and Guides/files",
-    "Creative vibes/Vibes-for-my-dystopian-sci-fi-movie-files/deuchland.avif",
-    "Creative vibes/Vibes-for-my-dystopian-sci-fi-movie-files/Gun_instructor_Pyongyang_2015_Eddo_Hartmann.jpg",
-    "Creative vibes/Vibes-for-my-dystopian-sci-fi-movie-files",
-    "Creative vibes",
-    "Contacts/2423856.crypt.jpeg",
-    "Contacts/2423856.crypt.jpeg.crdownload",
-    "Contacts",
-    "git-crypt.key",
-    "blog posts/Pasted image 20240624224819.png",
-    "blog posts/Pasted image 20240624224522.png",
-    "blog posts/Pasted image 20240624224101.png",
-    "blog posts/Pasted image 20240624223944.png",
-    "blog posts/Pasted image 20240624222954.png",
-    "blog posts/Pasted image 20240624222918.png",
+    "Journal/Weekly",
+    "Journal/Template/utils/getWeekNumber.ts",
     "Untitled.canvas"
   ]
 }

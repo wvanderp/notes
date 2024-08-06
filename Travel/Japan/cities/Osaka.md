@@ -1,14 +1,8 @@
-- [[Abe no Harukas]]
+- [[Abe no Harukas]] 3x
 - [[Abe no Harukas]]
 - [[Abeno Harukas]]
-- [[Dotombori Bridge]]
-- [[Dotombori Bridge]]
-- [[Dotombori Bridge]]
-- [[Dotombori Bridge]]
-- [[Dotonbori]]
-- [[Dotonbori]]
-- [[Dotonbori]]
-- [[Dotonbori]]
+- [[Dotombori Bridge]] 4x
+- [[Dotonbori]] 4x
 - [[Himeji Castle]]
 - [[Himeji Castle]]
 - [[Himeji]]

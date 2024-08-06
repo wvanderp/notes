@@ -1,11 +1,15 @@
-- [[Todaiji Temple]]
+---
+aliases:
+  - Day Trip to Nara
+---
+
 - [[Kasuga Taisha Shrine]]
-- [[Nara Park]]
 - [[Naramachi District]]
 - [[Isui Garden]]
 - [[Mt. Wakakusayama]]
-- [[Todaiji Temple]]
 - [[Daibutsu-den]]
-- [[Nara Park]]
 - [[Kasuga Taisha]]
 - [[Naramachi district]]
+- [[Nara Park]] 5x 
+- [[Todaiji Temple]] 8x
+- [[Kasuga Taisha Shrine]] 5x

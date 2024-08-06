@@ -1,4 +1,7 @@
+---
+alias:
+---
+
 - [[Matsumoto Castle]]
-- [[Zenkō-ji Temple]]
+- [[Zenkō-ji Temple]] 2x
 - [[Jigokudani Yaen Koen (Snow Monkey Park)]]
-- [[Zenkō-ji Temple]]

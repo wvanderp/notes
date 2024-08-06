@@ -1,50 +1,17 @@
-- [[Akihabara]]
-- [[Akihabara]]
-- [[Akihabara]]
-- [[Akihabara]]
-- [[Akihabara]]
-- [[Akihabara]]
-- [[Akihabara]]
-- [[Akihabara]]
-- [[Akihabara]] (Optional)
+- [[Akihabara]] 9x
 - [[Asakusa Kannon Temple]]
-- [[Asakusa Shrine]]
-- [[Asakusa Shrine]]
-- [[Asakusa Shrine]] (Optional)
-- [[Asakusa]]
-- [[Asakusa]]
-- [[Asakusa]]
-- [[Asakusa]]
-- [[Asakusa]]
-- [[Asakusa]]
-- [[Asakusa]]
-- [[Asakusa]]
+- [[Asakusa Shrine]] 3x
+- [[Asakusa]] 8x
 - [[Fuji-Hakone-Izu National Park]]
 - [[Fukushima Sekisho-Ato]]
-- [[Ginza]]
-- [[Ginza]]
-- [[Ginza]]
-- [[Ginza]] (Optional)
-- [[Ginza]] (Optional)
+- [[Ginza]] 5x
 - [[Golden Gai]]
-- [[Hakone Open Air Museum]]
-- [[Hakone]]
 - [[Hamarikyu Gardens]]
 - [[Hamarikyu Gardens]]
 - [[Hamarikyu Tien]]
 - [[Hamarikyu]]
 - [[Hamarikyu]]
-- [[Harajuku]]
-- [[Harajuku]]
-- [[Harajuku]]
-- [[Harajuku]]
-- [[Harajuku]]
-- [[Harajuku]]
-- [[Harajuku]]
-- [[Harajuku]]
-- [[Harajuku]]
-- [[Harajuku]]
-- [[Harajuku]] (Optional)
+- [[Harajuku]] 11x
 - [[Imperial Palace and Garden]]
 - [[Imperial Palace East Gardens]]
 - [[Imperial Palace East Gardens]]
@@ -66,24 +33,9 @@
 - [[Magome]]
 - [[Meguro]]
 - [[Meguro]]
-- [[Meiji Jingu Shrine]]
-- [[Meiji Jingu Shrine]]
-- [[Meiji Jingu Shrine]]
-- [[Meiji Shrine (Meiji Jingū)]]
-- [[Meiji Shrine (Meiji Jingū)]]
-- [[Meiji Shrine (Meiji Jingū)]]
-- [[Meiji Shrine (Meiji Jingū)]]
-- [[Meiji Shrine (Meiji Jingū)]] (Optional)
-- [[Meiji Shrine (Meiji Jingū)]] (Optional)
-- [[Meiji Shrine]]
-- [[Meiji Shrine]]
-- [[Meiji Shrine]]
-- [[Meiji Shrine]]
-- [[Meiji Shrine]]
+- [[Meiji Jingu Shrine]] 15x
 - [[Minato Mirai]]
-- [[Mount Fuji]] (Optional)
-- [[Mt. Fuji]]
-- [[Mt. Fuji]]
+- [[Mount Fuji]] 3x
 - [[Mt. Owakudani]]
 - [[Mt. Owakudani]]
 - [[Nakajima-no-Chaya]]
@@ -112,29 +64,20 @@
 - [[Ryoan-ji Temple]]
 - [[Sannomaru-Shozo-kan Museum]]
 - [[scramble crossing]]
-- [[Sensō-ji Temple]]
+- [[Sensō-ji Temple]] 16x
 - [[Sensō-ji Temple]]
 - [[Sensō-ji Temple]]
 - [[Sensō-ji Temple]]
 - [[Sensō-ji Temple]]
 - [[Sensō-ji Temple]]
 - [[Sensō-ji Temple]] (Optional)
-- [[Sensoji Temple]]
-- [[Sensoji Temple]]
-- [[Sensoji Temple]]
-- [[Sensoji Temple]]
-- [[Sensoji Temple]]
-- [[Sensoji]]
-- [[Sensoji]]
-- [[Sensoji]]
-- [[Sensoji]]
-- [[Shibuya Crossing]]
+
+- [[Shibuya Crossing]] 7x
 - [[Shibuya Crossing]]
 - [[Shibuya Crossing]]
 - [[Shibuya Crossing]]
 - [[Shibuya Crossing]]
 - [[Shibuya Crossing]] (Optional)
-- [[Shibuya Scramble]]
 - [[Shibuya]]
 - [[Shibuya]]
 - [[Shibuya]]
@@ -157,22 +100,10 @@
 - [[Tokyo Tower]]
 - [[Tokyo Tower]] (Optional)
 - [[Toshogu Shrine]]
-- [[Tsukiji Fish Market]]
-- [[Tsukiji Fish Market]]
-- [[Tsukiji Market]]
-- [[Tsukiji Market]]
-- [[Tsukiji Outer Market]]
+- [[Tsukiji Fish Market]] 5x
 - [[Tsumago]]
-- [[Ueno Park]]
-- [[Ueno Park]]
-- [[Ueno Park]]
-- [[Ueno Park]] (Optional)
-- [[Ueno Park]] (Optional)
-- [[Ueno Park]] (Optional)
-- [[Ueno Park]] (Optional)
+- [[Ueno Park]] 7x
 - [[Yamamura Residence]]
 - [[Yanaka]] (Optional)
 - [[Yokohama Bay Bridge]]
-- [[Yoyogi Park]]
-- [[Yoyogi Park]]
-- [[Yoyogi Park]] (Optional)
+- [[Yoyogi Park]] 3x

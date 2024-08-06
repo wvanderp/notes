@@ -1,7 +1,5 @@
-- [[Aqua Planet]]
-- [[Aqua Planet]]
-- [[ARTE Museum]]
-- [[ARTE Museum]]
+- [[Aqua Planet]] 2x
+- [[ARTE Museum]] 2x
 - [[Boseong Green Tea Field]]
 - [[Dolsan Island]]
 - [[Hand of Midas]]

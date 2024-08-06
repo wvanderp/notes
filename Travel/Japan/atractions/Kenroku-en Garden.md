@@ -1,0 +1,4 @@
+---
+aliases:
+  - Kenroku-en gardens
+---

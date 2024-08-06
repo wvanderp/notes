@@ -1,26 +1,14 @@
 - [[Banpo Bridge Rainbow Fountain]]
 - [[Banpo Bridge]]
-- [[Bongeunsa]]
-- [[Bongeunsa]]
+- [[Bongeunsa]] 2x
 - [[Bukak Skyway]]
-- [[Bukchon Hanok Village]]
-- [[Bukchon Hanok Village]]
-- [[Bukchon Hanok Village]]
-- [[Bukchon Hanok Village]]
-- [[Bukchon Hanok Village]]
-- [[Bukchon Hanok Village]]
-- [[Bukchon Hanok Village]] (Optional)
+- [[Bukchon Hanok Village]] 7x
 - [[Changdeokgung Palace & Secret Garden]]
 - [[Cheonggyecheon Stream]]
 - [[Cheonggyecheon Stream]]
 - [[Cheonggyecheon Stream]]
 - [[Cheonggyecheon Stream]]
-- [[Demilitarized Zone (DMZ)]]
-- [[Demilitarized Zone (DMZ)]]
-- [[Demilitarized Zone (DMZ)]]
-- [[Demilitarized Zone (DMZ)]]
-- [[Demilitarized Zone (DMZ)]] (Optional)
-- [[DMZ]]
+- [[Demilitarized Zone (DMZ)]] 6x
 - [[Floating Island]]
 - [[Floating Islands]]
 - [[Gamcheon Culture Village]]
@@ -32,20 +20,8 @@
 - [[Gangnam Station]]
 - [[Gangnam]]
 - [[Gukje Traditional Market]]
-- [[Gwangjang Market]]
-- [[Gwangjang Market]]
-- [[Gwangjang Market]]
-- [[Gwangjang Market]]
-- [[Gwangjang Market]]
-- [[Gwangjang Market]]
-- [[Gwangjang Market]] (Optional)
-- [[Gyengbokgung Palace]]
-- [[Gyeongbokgung Palace]]
-- [[Gyeongbokgung Palace]]
-- [[Gyeongbokgung Palace]]
-- [[Gyeongbokgung Palace]]
-- [[Gyeongbokgung Palace]]
-- [[Gyeongbokgung Palace]] (Optional)
+- [[Gwangjang Market]] 7x
+- [[Gyeongbokgung Palace]] 7x
 - [[Han River Park]]
 - [[Han River]]
 - [[HiKR Ground]]
@@ -64,7 +40,6 @@
 - [[Itaewon Neighborhood]]
 - [[Itaewon Neighbourhood]] (Optional)
 - [[Itaewon]]
-- [[Jagalchi Fish Market]]
 - [[Jogyesa Temple]]
 - [[Jogyesa Temple]]
 - [[Jogyesa Temple]]
@@ -80,23 +55,12 @@
 - [[Myeongdong]]
 - [[Myeongdong]]
 - [[Myeongdong]]
-- [[N Seoul Tower]]
-- [[N Seoul Tower]]
-- [[N Seoul Tower]]
-- [[N Seoul Tower]]
-- [[N Seoul Tower]]
-- [[N Seoul Tower]] (Optional)
+- [[N Seoul Tower]] 6x
 - [[Namdaemun Market]]
 - [[Namdaemun Market]]
 - [[Namdaemun Market]]
 - [[Namsangol Hanok Village]]
-- [[National Folk Museum]]
-- [[National Folklore Museum]]
-- [[National Folklore Museum]]
-- [[National Folklore Museum]]
-- [[National Folklore Museum]]
-- [[National Folklore Museum]]
-- [[National Folklore Museum]] (Optional)
+- [[National Folklore Museum]] 7x
 - [[National Palace Museum]]
 - [[Samsung Leeum Contemporary Gallery]]
 - [[Samsung Leeum Contemporary Gallery]]
@@ -106,7 +70,5 @@
 - [[Seoul Museum of History]]
 - [[Seoul Museum of History]] (Optional)
 - [[Seoul]]
-- [[The War Memorial of Korea]]
-- [[The War Memorial of Korea]]
-- [[The War Memorial of Korea]]
+- [[The War Memorial of Korea]] 3x
 - [[Yongdusan Park]]

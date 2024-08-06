@@ -79,3 +79,6 @@
 - [[Yudanaka]]:
   - [[Jigokudani Monkey Park]]
   - [[Matsumoto]]
+
+## Hagi
+- [[Hagi Community Homestay]]

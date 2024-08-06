@@ -275,7 +275,7 @@ Hotel
 
 # Day 11 [[Kyoto]]/[[Fujikawaguchiko]]
 
-Travel to the [[Mt. Fuji]] region and enjoy optional walks around [[Lake Kawaguchi]]. Savour an amazing multi-course Japanese kaiseki dinner.
+Travel to the [[Mount Fuji]] region and enjoy optional walks around [[Lake Kawaguchi]]. Savour an amazing multi-course Japanese kaiseki dinner.
 
 Leave Kyoto and travel to Kawaguchiko arriving mid-afternoon. Take the rest of the afternoon to visit the Onsen Spa at tonight's accommodation before dinner.
 
@@ -299,7 +299,7 @@ Enjoy a morning in Kawaguchiko exploring the [[Five Lakes]] region on foot. Late
 ### Lake Kawaguchiko Walk
 **Fujikawaguchiko**  
 **2h**  
-Set out on a walk through this pocket of the Five Lakes region for unforgettable views of the local landscape. Depending on the weather, capture a glimpse of the snow-capped summit of [[Mt. Fuji]].
+Set out on a walk through this pocket of the Five Lakes region for unforgettable views of the local landscape. Depending on the weather, capture a glimpse of the snow-capped summit of [[Mount Fuji]].
 
 ### Train
 **Fujikawaguchiko – Tokyo**  

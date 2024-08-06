@@ -1,32 +1,15 @@
 - [[21st Century Museum of Contemporary Art]]
 - [[Hakuza]]
-- [[Higashi Chaya District]]
-- [[Higashi Chaya Geisha District]]
-- [[Higashi Chaya-gai]]
-- [[Higashi Geisha District]]
-- [[Higashichaya Old Town]]
+- [[Higashi Chaya District]] 5x
 - [[Kagayuzen Kaikan]]
 - [[Kaikaro Teahouse]]
-- [[Kanazawa Castle]]
-- [[Kanazawa Castle]]
-- [[Kanazawa Castle]]
-- [[Kanazawa Castle]]
-- [[Kanazawa Castle]] (Optional)
-- [[Kenroku-en Garden]]
-- [[Kenroku-En Garden]]
-- [[Kenroku-en Garden]] (Optional)
-- [[Kenroku-en gardens]]
+- [[Kanazawa Castle]] 5x
+- [[Kenroku-en Garden]] 4x
 - [[Museum of Contemporary Art]]
-- [[Myoryuji Ninja Temple]]
-- [[Myoryuji Ninja Temple]]
-- [[Nagamachi Samurai district]]
-- [[Nagamachi Samurai District]]
-- [[Nagamachi Samurai District]]
-- [[Nagamachi's Samurai District]]
+- [[Myoryuji Ninja Temple]] 2x
+- [[Nagamachi Samurai district]] 4x
 - [[Nagamachi]]
-- [[Nomura Clan Samurai Home]]
-- [[Nomura Family Samurai Residence]]
-- [[Nomura Samurai House]]
+- [[Nomura Samurai House]] 3x
 - [[Omicho Market]]
 - [[Shima teahouse]]
 - [[Shima Teahouse]]
