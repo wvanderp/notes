@@ -1,3 +1,8 @@
+---
+tags:
+  - City
+---
+
 - [[Akihabara]] 9x
 - [[Asakusa Kannon Temple]]
 - [[Asakusa Shrine]] 3x
@@ -15,7 +20,6 @@
 - [[Imperial Palace and Garden]]
 - [[Imperial Palace East Gardens]]
 - [[Imperial Palace East Gardens]]
-- [[Jigokudani Monkey Park]]
 - [[Kabukicho]]
 - [[Kawaguchiko]] (Optional)
 - [[Keio Plaza Tokyo]]
@@ -30,14 +34,11 @@
 - [[Lake Ashi]]
 - [[Lake Ashinoko]]
 - [[Landmark Tower]]
-- [[Magome]]
 - [[Meguro]]
 - [[Meguro]]
 - [[Meiji Jingu Shrine]] 15x
 - [[Minato Mirai]]
 - [[Mount Fuji]] 3x
-- [[Mt. Owakudani]]
-- [[Mt. Owakudani]]
 - [[Nakajima-no-Chaya]]
 - [[Nakajima-no-Chaya]]
 - [[Nakajima-no-Chaya]]
@@ -61,23 +62,9 @@
 - [[Park Hotel Tokyo]]
 - [[Peninsula Tokyo]]
 - [[Rainbow Bridge]]
-- [[Ryoan-ji Temple]]
-- [[Sannomaru-Shozo-kan Museum]]
-- [[scramble crossing]]
+- [[Sannomaru Shozokan Museum]]
 - [[Sensō-ji Temple]] 16x
-- [[Sensō-ji Temple]]
-- [[Sensō-ji Temple]]
-- [[Sensō-ji Temple]]
-- [[Sensō-ji Temple]]
-- [[Sensō-ji Temple]]
-- [[Sensō-ji Temple]] (Optional)
-
-- [[Shibuya Crossing]] 7x
-- [[Shibuya Crossing]]
-- [[Shibuya Crossing]]
-- [[Shibuya Crossing]]
-- [[Shibuya Crossing]]
-- [[Shibuya Crossing]] (Optional)
+- [[Shibuya Crossing]] 8x
 - [[Shibuya]]
 - [[Shibuya]]
 - [[Shibuya]]
@@ -101,9 +88,9 @@
 - [[Tokyo Tower]] (Optional)
 - [[Toshogu Shrine]]
 - [[Tsukiji Fish Market]] 5x
-- [[Tsumago]]
 - [[Ueno Park]] 7x
 - [[Yamamura Residence]]
 - [[Yanaka]] (Optional)
 - [[Yokohama Bay Bridge]]
 - [[Yoyogi Park]] 3x
+- [[Tokyo Skytree]]

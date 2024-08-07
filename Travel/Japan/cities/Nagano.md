@@ -1,5 +1,6 @@
 ---
-alias:
+tags:
+  - City
 ---
 
 - [[Matsumoto Castle]]

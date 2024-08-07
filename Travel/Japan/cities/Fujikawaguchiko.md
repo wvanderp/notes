@@ -1,3 +1,8 @@
-- [[Mount Fuji]]
-- [[Lake Kawaguchi]]
+---
+tags:
+  - City
+---
+
 - [[Five Lakes]]
+- [[Lake Kawaguchi]]
+- [[Mount Fuji]]

@@ -1,3 +1,8 @@
+---
+tags:
+  - City
+---
+
 - [[8th-century Todai-ji Temple]]
 - [[Arashiyama Bamboo Grove]] 8x
 - [[Arashiyama]] 7x
@@ -7,47 +12,32 @@
 - [[Daitoku-ji Zen Temple]]
 - [[Daitoku-ji Zen Temple]]
 - [[Nara|Day Trip to Nara]]
-- [[Deer Park]]
 - [[Fushimi Inari Shinto Shrine]] 16x
 - [[Gekkeikan Sake Museum]]
 - [[Gekkeikan Sake Museum]]
 - [[Ginkakuji (Silver Pavilion)]]
 - [[Ginkakuji (Silver Pavilion)]]
-- [[Ginza]]
 - [[Gion District]]
 - [[Golden Pavilion of Kinkakuji]]
 - [[Hanami-koji]]
 - [[Heian Shrine]]
-- [[Higashiyama]]
-- [[Higashiyama]]
-- [[Higashiyama]]
+- [[Higashiyama]] 3x
 - [[Hojo Gardens]]
 - [[Honmaru]]
-- [[Imperial Palace East Gardens]]
-- [[Isui Garden]]
 - [[JR Pass]]
-- [[Kamishichiken]]
-- [[Kamishichiken]]
-- [[Kamishichiken]]
+- [[Kamishichiken]] 3x
 - [[Kibune Village]]
 - [[Kifune Shrine]]
 - [[Kinkaku-ji (Golden Pavilion)]] 13x
-- [[Kitano-Temanngu]]
-- [[Kitano-Temanngu]]
-- [[Kitano-Temmangu]]
+- [[Kitano-Temanngu]] 3x
 - [[Kitayama Mountains]]
 - [[Kiyomizu-dera Temple]] 7x
 - [[Kurama Village]]
 - [[Kurama-dera Temple]]
 - [[Kyoyo-chi Pond]]
 - [[Meiji Shrine (Meiji Jingū)]]
-- [[Nanzenji Zen Temple]]
-- [[Nanzenji Zen Temple]]
-- [[Nanzenji]]
-- [[Nanzenji]]
-
+- [[Nanzenji Zen Temple]] 4x
 - [[Nara]] Day Trip 6x
-- [[Naramachi district]]
 - [[Nijo Castle and Gardens]] 15x
 - [[Ninomaru]]
 - [[Nishiki Food Market]]
@@ -68,35 +58,17 @@
 - [[Otagi Nenbutsuji]]
 - [[Otagi Nenbutsuji]]
 - [[Otagi Nenbutsuji]]
-- [[Philosopher's Path]]
-- [[Philosopher's Path]]
+- [[Philosopher's Path]] 2x
 - [[Prince Smart Inn Kyoto Sanjo]]
-- [[Ryoan-ji Temple]]
-- [[Ryōan-ji Zen Gardens]]
-- [[Ryoan-ji]]
-- [[Ryōan-ji]]
-- [[Ryōan-ji]]
-- [[Ryoanji Temple]]
-- [[Ryoanji Temple]]
-- [[Ryoanji Temple]]
+- [[Ryoan-ji Temple]] 8x
 - [[Samurai Kenbu]]
-- [[Sanjusangendo]]
-- [[Sanjusangendo]]
-- [[Sannomaru-Shozo-kan Museum]]
-- [[Sensō-ji Temple]]
-- [[Shinjuku]]
+- [[Sanjūsangendō Temple]] 2x
 - [[Shirakawa Canal]]
 - [[Silver Pavilion]]
 - [[Tatsumi Bashi Bridge]]
-- [[Tenryuji Temple]]
-- [[Tenryuji Temple]]
-- [[Tenryuji Temple]]
-- [[Tenryuji]]
+- [[Tenryuji Temple]] 4x
 - [[The Mitsui]]
 - [[Tofukuji Temple]] (Optional)
-- [[Tokyo Skytree]]
-- [[Tsukiji Fish Market]]
-- [[Ueno Park]]
 - [[Uji]]
 - [[Yasaka Shrine]]
 - [[Zen Gardens of Ryōan-ji]] 3x

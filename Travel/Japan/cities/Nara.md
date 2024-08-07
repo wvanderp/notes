@@ -1,6 +1,8 @@
 ---
 aliases:
   - Day Trip to Nara
+tags:
+  - City
 ---
 
 - [[Kasuga Taisha Shrine]]

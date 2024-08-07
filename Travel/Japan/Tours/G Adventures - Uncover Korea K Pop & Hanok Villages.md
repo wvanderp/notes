@@ -1,4 +1,9 @@
-https://www.gadventures.com/trips/uncover-korea-k-pop-and-hanok-villages/9882/
+---
+tags:
+  - Itinerary
+---
+
+<https://www.gadventures.com/trips/uncover-korea-k-pop-and-hanok-villages/9882/>
 10 days
 
 # South Korea Itinerary
@@ -207,4 +212,3 @@ Depart at any time.
 ### Departure Day
 
 Not ready to leave? Your CEO can help with travel arrangements to extend your adventure.
-

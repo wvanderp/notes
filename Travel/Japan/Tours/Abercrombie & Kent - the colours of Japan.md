@@ -1,10 +1,16 @@
+---
+tags:
+  - Itinerary
+---
+
 **Best Time To Go**
 March - May & July - November
 
 **Holiday Length**
 10 nights
 
-https://www.abercrombiekent.co.uk/destinations/asia/japan/the-colours-of-japan
+<https://www.abercrombiekent.co.uk/destinations/asia/japan/the-colours-of-japan>
+
 ## Day 1 [[Tokyo]]
 
 Welcome to Japan: when you arrive at the airport, we’ll meet you and assist you to your hotel. Today is your opportunity to explore the extraordinary metropolis of Tokyo. Head to where the neon lights seem brightest and you’ll find some of the things that make Tokyo a truly world city.

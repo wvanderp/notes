@@ -1,4 +1,9 @@
-- [[Banpo Bridge Rainbow Fountain]]
+---
+tags:
+  - City
+---
+
+- [[Banpo Bridge]]
 - [[Banpo Bridge]]
 - [[Bongeunsa]] 2x
 - [[Bukak Skyway]]
@@ -11,15 +16,7 @@
 - [[Demilitarized Zone (DMZ)]] 6x
 - [[Floating Island]]
 - [[Floating Islands]]
-- [[Gamcheon Culture Village]]
-- [[Gangnam District]]
-- [[Gangnam District]]
-- [[Gangnam District]]
-- [[Gangnam District]] (Optional)
-- [[Gangnam Station]]
-- [[Gangnam Station]]
-- [[Gangnam]]
-- [[Gukje Traditional Market]]
+- [[Gangnam District]] 7x
 - [[Gwangjang Market]] 7x
 - [[Gyeongbokgung Palace]] 7x
 - [[Han River Park]]
@@ -69,6 +66,4 @@
 - [[Seoul Museum of History]]
 - [[Seoul Museum of History]]
 - [[Seoul Museum of History]] (Optional)
-- [[Seoul]]
 - [[The War Memorial of Korea]] 3x
-- [[Yongdusan Park]]

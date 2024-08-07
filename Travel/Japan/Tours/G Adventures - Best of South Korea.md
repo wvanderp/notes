@@ -1,7 +1,14 @@
-https://www.gadventures.com/trips/best-of-south-korea/9943/
+---
+tags:
+  - Itinerary
+---
+
+<https://www.gadventures.com/trips/best-of-south-korea/9943/>
+
 ## 8 days
 
 # Day 1 [[Seoul]]
+
 Welcome to [[Seoul]]! As fellow travellers are arriving throughout the day, there are no planned activities until a group meeting at 6 pm. Check into the hotel and enjoy the city.
 
 After the welcome meeting, join your CEO for an orientation walk down [[Cheonggyecheon Stream]] to learn about Seoul while walking past small waterfalls and nearly two dozen overhead bridges. Then, enjoy the dense grid of streets found in the bustling neighbourhood of [[Myeongdong]], which is packed with people at all hours of the day looking to enjoy some of the best shopping, street food, and nightlife in all of Korea.
@@ -20,6 +27,7 @@ Below is an example of the hotel we may use in this city. For the actual hotel y
 **Hotel Prince (or similar)**
 
 # Day 2 [[Seoul]]
+
 Sit back and relax on a private bus and enjoy a tour of the bustling metropolis where modern skyscrapers, high-tech subways and pop culture meet Buddhist temples and street markets. Visit [[Gyeongbokgung Palace]], the [[National Folklore Museum]], [[Bukchon Hanok Village]] and [[Insadong]] alley.
 
 After exploring the city, opt to see a show, explore a local museum, or hit the pavement and eat your way through street markets trying local fares such as bibimbap, soondae, and kimchi.
@@ -43,6 +51,7 @@ Enjoy a bus tour of the bustling capital of South Korea. Visit different areas o
 Head out and explore.
 
 ### Optional Activities - Day 2
+
 - **[[Gwangjang Market]] (Seoul)**  
   Gwangjang Market is one of the oldest and largest traditional markets in South Korea, with more than 5,000 shops. Famous for its fabric, local treasures, and noted to be one of the best places to go for authentic Korean street food in Seoul, you don't want to miss Gwangjang Market.
 
@@ -54,6 +63,7 @@ Hotel Prince (or similar)
 **Meals included**: Breakfast
 
 # Day 3 [[Seoul]]/[[Gyeongju-si]]
+
 After breakfast, board a high-speed bullet train for a relaxing morning ride through the countryside to [[Gyeongju-si]]. Once the group arrives at this old capital city for 1,000 years, they will experience an overnight stay in a local temple. During the stay, the group will learn about temple etiquette, watch a monk martial arts performance, experience the daily prayer ritual, and a temple-style dinner.
 
 Stay in rooms called Ondol. These rooms are very traditional, heated to be cozy and comfortable, with beds made up directly on the floor. The rooms here are multi-share, divided up by male and female rooms. Enjoy a traditional dinner and breakfast during the stay.
@@ -71,6 +81,7 @@ Golgulsa Templestay (or similar)
 **Meals included**: Breakfast | Dinner
 
 # Day 4 [[Gyeongju-si]]
+
 Enjoy a peaceful morning meditation, martial arts practice, and drum and bell ritual before exploring in Gyeongju. On the city tour, visit the UNESCO site of [[Bulguksa Temple]] located on the slopes of Mount Toham and admire the national treasures there, such as Dabotap and Seokgatap stone pagodas, Cheongun-gyo, and two gilt-bronze statues of Buddha. Afterwards, experience the oldest surviving astronomical observatory in Asia, [[Cheomseongdae Observatory]], and the surrounding [[Royal Tombs]].
 
 **Private Vehicle (Gyeongju-si)**  
@@ -86,6 +97,7 @@ Nestled in the heart of Gyeongju, the capital of the former Silla Kingdom, Cheom
 The Daereungwon Tomb complex in Gyeongju holds 23 tombs that are found inside of large mounds. The complex is beautiful with its rolling mounds and gardens, but the real treat can be found inside the tombs, the most famous being [[Cheonmachong]] and [[Hwangnamdaechong]]. Each tomb holds thousands of relics that give us a window into the Silla Dynasty and its royal family. The contents of these tombs are over 1,500 years old and a great treasure to anyone who enjoys Korean history and artistic beauty.
 
 ### Optional Activities - Day 4
+
 - **[[Anapji Pond]] (Gyeongju-si)**: 3000KRW per person  
   Also known as 'Donggung Palace and Wolji Pond', it was once a part of the royal palace complex of the ancient Silla dynasty. A long-term renovation project beginning in the early 1970s that excavated thousands of relics from the pond has brought Anapji back to its former glory. Anapji Pond is popularly visited in the evening for its beautiful night views when everything is lit up and reflecting amongst the waters.
 
@@ -97,7 +109,8 @@ Swiss Rosen Hotel - Gyeongju (or similar)
 **Meals included**: Breakfast
 
 # Day 5 [[Gyeongju-si]]/[[Busan]]
-Travel by bus to [[Busan]]. Along the way, enjoy a day trip to [[Yangdong Folk Village]], a 500-year-old UNESCO site located in Gyeongju National Park, to get a feel for life during the early Joseon Dynasty. Afterwards, continue on to the picturesque 
+
+Travel by bus to [[Busan]]. Along the way, enjoy a day trip to [[Yangdong Folk Village]], a 500-year-old UNESCO site located in Gyeongju National Park, to get a feel for life during the early Joseon Dynasty. Afterwards, continue on to the picturesque
 
 14th-century seaside temple hidden in the rocks - [[Haedong Yonggungsa]]. After exploring the temple, check into your hotel and get your bearings with an orientation walk on [[Haeundae Beach]] and [[Dongbaek Island]] (APEC House). Spend the evening getting to know colourful Busan, opt to treat yourself at a [[Jjimjilbang]] spa or sing your heart out at a popular karaoke bar.
 
@@ -111,6 +124,7 @@ Get a fascinating look into life during the Joseon Dynasty on this visit to the 
 Originally built in 1376, this picturesque, cliffside Buddhist temple overlooks the East China Sea. Opt to grab a bizarre local snack at the traditional market. Legend foretells that should you pray here, at least one of your wishes will come true.
 
 ### Optional Activities - Day 5
+
 - **[[Busan Tower Observatory]] (Busan)**: 12000KRW per person  
   With incredible views day or night, Busan Tower is a symbol of Busan that stands proudly 69 m above sea level at a height of 120 m and allows for 360 degrees of viewing pleasure! Fun fact: the top of the tower is modelled after the baldaquin of Dabotap Pagoda in Bulguksa Temple.
 
@@ -125,6 +139,7 @@ Felix Hotel by STX (or similar)
 **Meals included**: Breakfast
 
 # Day 6 [[Busan]]/[[Seoul]]
+
 In the seaside city, Busan, visit the bustling [[Jagalchi Fish Market]], [[Gukjesijang Market]], [[Yongdusan Park]], and the colourful [[Gamcheon Culture Village]] before traveling back to Seoul. After arriving in Seoul by train, check out Korea's oldest traditional market - [[Namdaemun Market]]. Then make your way by cable car to [[N Seoul Tower]] to see this beautiful landmark and opt to make the trip up to the observation deck. Spend the rest of your day in Seoul opting to see [[Banpo Bridge]], the floating islands, or hanging out in the [[Gangnam District]].
 
 **Jagalchi Fish Market (Busan)**  
@@ -149,14 +164,15 @@ Gukjesijang or Gukje Market is nestled near Biff Square, a well-known modern mov
 Get to your next destination faster than the speed of light (ok maybe not that fast) aboard a high-speed train.
 
 ### Optional Activities - Day 6
+
 - **N Seoul Tower Observatory (Seoul)**: 16000KRW per person  
   Namsan Seoul Tower Observatory allows for an incredible 360 degrees panoramic view of Seoul. The top of the tower is 480m above sea level, including Namsan Mountain (243m) and the tower’s own height (236.7m). It has quickly become a well-known landmark in Seoul and has appeared in lots of smash-hit K-dramas and movies.
 
 - **Gangnam District Visit (Seoul)**  
-  Gangnam has plenty to do and see in this historically rich, fast-developing neighbourhood. Gangnam Station is the busiest subway station in Seoul and has a huge underground shopping centre, so feel free to shop until you drop. Choose to visit Bongeunsa, a Buddhist Temple in the centre of Gangnam, or enjoy the nightlife and restaurants in this area.
+  Gangnam has plenty to do and see in this historically rich, fast-developing neighbourhood. Gangnam Station is the busiest subway station in Seoul and has a huge underground shopping centre, so feel free to shop until you drop. Choose to visit [[Bongeunsa]], a Buddhist Temple in the centre of Gangnam, or enjoy the nightlife and restaurants in this area.
 
 - **Floating Island Visit (Seoul)**  
-  The floating island is a culture complex made up of three man-made floating islands located near one end of the Banpo Bridge. LED lights surround the islands and create a fantastic night view - a must-see if you're in Seoul!
+  The [[floating island]] is a culture complex made up of three man-made floating islands located near one end of the [[Banpo Bridge]]. LED lights surround the islands and create a fantastic night view - a must-see if you're in Seoul!
 
 - **Banpo Bridge Rainbow Fountain (Seoul)**: Free  
   Banpo Bridge is home to the Moonlight Rainbow Fountain Show and is the world's longest bridge fountain. Nearly 10,000 LED lights and 380 water spraying nozzles make up this beautiful show of water, music, and lights. During the day, the fountain shows a hundred different configurations meant to evoke waving willow branches and willow leaves. When the sun goes down, the fountain is illuminated as it sends out dancing, rainbow-coloured jets of water in the air in synchronization with music.
@@ -166,6 +182,7 @@ Hotel Prince (or similar)
 **Meals included**: Breakfast
 
 # Day 7 [[Seoul]]
+
 Visit the [[Demilitarized Zone (DMZ)]], founded in 1953, separating North and South Korea. With over a million soldiers on watch each day, it is one of the last remnants of the Cold War. With a buffer zone 4km wide and spanning 250 km long, there has been very little development in the area, therefore nature and wildlife have pretty much taken over. Spend about 3-4 hours visiting the Demilitarized Zone, then head to [[The War Memorial of Korea]]. Later, return back to Seoul for another night in the city.
 
 Opt to visit the [[Samsung Leeum Contemporary Gallery]], explore the [[Itaewon]] neighbourhood, or prebook the [[Kimchi]] making and [[Hanbok]] experience.
@@ -180,6 +197,7 @@ If you love history - dive right into The War Memorial of Korea. The memorial bu
 Visit the Demilitarized Zone (DMZ) the de facto border between North and South Korea, which cuts the peninsula in half. Created in 1953, it is the most heavily militarized border in the world.
 
 ### Optional Activities - Day 7
+
 - **Kimchi & Hanbok Experience (Seoul)**: 35000KRW per person  
   An instructor will walk you through the Kimchi making process, after which you will make your own with various seasonings to be made to your liking. Also, choose to try wearing various kinds of Hanbok, a traditional Korean dress for semi-formal or formal attire during traditional occasions such as festivals, celebrations, and ceremonies. There will be hair accessories and hats as well if you'd like to have the full Korean experience and take some photos!
 
@@ -194,6 +212,7 @@ Hotel Prince (or similar)
 **Meals included**: Breakfast
 
 # Day 8 [[Seoul]]
+
 Depart at any time.
 
 **Departure Day**  

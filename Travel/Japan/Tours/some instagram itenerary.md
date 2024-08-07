@@ -1,3 +1,8 @@
+---
+tags:
+  - Itinerary
+---
+
 ## Himeji (1 day)
 - [[Himeji Castle]]
 - [[Koko-en Gardens]]

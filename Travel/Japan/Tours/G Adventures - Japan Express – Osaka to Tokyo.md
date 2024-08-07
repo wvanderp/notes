@@ -1,5 +1,11 @@
-https://www.gadventures.com/trips/japan-express-osaka-to-tokyo/9270/itinerary/
+---
+tags:
+  - Itinerary
+---
+
+<https://www.gadventures.com/trips/japan-express-osaka-to-tokyo/9270/itinerary/>
 9 days
+
 ### Day 1: Osaka
 
 Arrive at any time.
@@ -129,7 +135,6 @@ Please note that we will be using an overnight luggage service between Kyoto and
 
 - **Bullet Train**: Kyoto – Odawara 3h  
 
-
   Get to your next destination faster than the speed of light (ok maybe not that fast) aboard a high-speed train.
 
 - **Local Bus**: Odawara – Hakone 30m  
@@ -170,7 +175,7 @@ With so much to do, start exploring now.
   The [[Ginza]] district is Tokyo’s equivalent of Fifth Avenue in New York. Window shop at Chanel, Dior, Gucci, and Louis Vuitton, then check out the latest electronics at the Sony showroom or Apple store. Visit the [[Wako department store]] with its historic clock tower, housed in a building that dates back to 1894. If you are there on a weekend, head to Ginza’s main street where pedestrians rule without Tokyo’s traffic.
 
 - **Imperial Palace East Gardens Walk**: Tokyo Free  
-  The [[Imperial Palace]] in Tokyo’s city centre is home to Japan’s Emperor and Empress. It is surrounded by a moat and three gardens, all open to the public. Stroll throughout the grounds, admire the azaleas and hydrangeas (when in season), discover the original stone wall that surrounded the palace back in the 17th to 19th centuries during the days when samurai warriors defended the ruler. Visit nearby [[Sannomaru-Shozo-kan museum]] and see exquisite kimonos and Japanese paintings.
+  The [[Imperial Palace]] in Tokyo’s city centre is home to Japan’s Emperor and Empress. It is surrounded by a moat and three gardens, all open to the public. Stroll throughout the grounds, admire the azaleas and hydrangeas (when in season), discover the original stone wall that surrounded the palace back in the 17th to 19th centuries during the days when samurai warriors defended the ruler. Visit nearby [[Sannomaru Shozokan Museum]] and see exquisite kimonos and Japanese paintings.
 
 - **Meiji Shrine (Meiji Jingū) Visit**: Tokyo Free-1000JPY per person  
   Visit this shrine dedicated to the 123rd emperor of Japan, [[Emperor Meiji]] and his wife. The shrine is a great place to escape the bustle of the city and wander the grounds along the wide walking paths.

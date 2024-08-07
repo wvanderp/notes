@@ -1,3 +1,8 @@
+---
+tags:
+  - City
+---
+
 - [[Anapji Pond]] 3x
 - [[Bulguksa Temple]] 3x
 - [[Cheomseongdae Observatory]] 3x

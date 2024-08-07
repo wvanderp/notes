@@ -1,3 +1,8 @@
+---
+tags:
+  - City
+---
+
 - [[Fuji-Hakone-Izu National Park]]
 - [[Gora Kadan]]
 - [[Hakone Checkpoint]]
@@ -6,8 +11,8 @@
 - [[Lake Ashino-ko]] 5x
 - [[Mount Fuji]] 7x
 - [[Mt. Komagatake]]
-- [[Mt. Owakudani]]
-- [[Mt. Owakudani]]
+- [[Ōwakudani]]
+- [[Ōwakudani]]
 - [[Odawara Station]]
 - [[Onsen]]
 - [[Onsen]]

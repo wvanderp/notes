@@ -1,3 +1,8 @@
+---
+tags:
+  - City
+---
+
 ## Iwate Prefecture
 1. [[Fudai Village]]
 2. [[Unotori Mountain Shrine]]
@@ -41,7 +46,6 @@
 1. [[Juknokwon Bamboo Forest]]
 
 ### Boseong
-1. [[Boseong Green Tea Field]]
 2. [[Daehan Dawon]]
 
 ### Fukuoka
@@ -59,19 +63,14 @@
 3. [[Chichu Art Museum]]
 4. [[Benesse House]]
 
-- [[Kiso Valley]]:
+
   - [[Nakatsugwa]]
   - [[Magome]]
   - [[Nakasendo Way]]
   - [[Tsumago]]
   - [[Fushimi Inari Shrine]]
   - [[Mount Inari]]
-  - [[Sanjusangendo]]
   - [[Kiyumizu-dera]]
-
-- [[Nagoya]]:
-  - [[Takayama]]
-  - [[Nagoya]]
 
 - [[Nagano]]:
   - [[kaiseki]]

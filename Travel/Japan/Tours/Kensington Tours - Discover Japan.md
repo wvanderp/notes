@@ -1,5 +1,9 @@
-<https://www.kensingtontours.com/tours/asia/japan/discover-japan>
+---
+tags:
+  - Itinerary
+---
 
+<https://www.kensingtontours.com/tours/asia/japan/discover-japan>
 8 days
 
 ## Day 1 [[Tokyo]]
@@ -100,7 +104,7 @@ Fushimi Inari Shrine
 
 ### Get a Lay of the Land
 
-Meet your guide at your hotel and delve into the city's clean and efficient public transportation system, which will whisk you away to some of Kyoto's most revered sights. Once the Imperial capital, Kyoto stands adorned with over 2,000 shrines and temples, a testament to its rich heritage, including an impressive collection of 17 UNESCO World Heritage Sites. Begin your journey at the revered [[Fushimi Inari Shinto Shrine]], with its lavishly decorated edifice that shelters the goddess of rice. Witness a mesmerizing spectacle as thousands of vibrant orange torii gates unfurl along the mountainside, forming beguiling tunnels. Next, continue to the splendid [[Sanjusangendo]]. Within the confines of the world's longest wooden building, a sight to behold awaits – a remarkable assembly of 1001 life-sized golden Buddhist statues. Journey onwards to the entrance of [[Nishiki Market]] affectionately referred to as "Kyoto's kitchen." Wander along the covered street, where an abundance of shops and stalls entice you with an array of traditional delights, from artisanal tofu to delectable fish and enticing pickles. Savor a delectable lunch before exploring [[Nijo Castle]], a resplendent palace constructed in the early 1600s for the esteemed shogun. Admire the intricately painted walls and experience the "chirping nightingale" floors, designed to alert occupants of potential intruders with their soft creaks. Finally, visit the tranquil [[Nanzenji Zen Temple]], a haven of serenity where monks have found solace since 1291. Engage in introspection as you encounter the renowned Zen rock garden, its meaning left open to interpretation – an archipelago in a serene ocean, or perhaps wild creatures braving a raging river.
+Meet your guide at your hotel and delve into the city's clean and efficient public transportation system, which will whisk you away to some of Kyoto's most revered sights. Once the Imperial capital, Kyoto stands adorned with over 2,000 shrines and temples, a testament to its rich heritage, including an impressive collection of 17 UNESCO World Heritage Sites. Begin your journey at the revered [[Fushimi Inari Shinto Shrine]], with its lavishly decorated edifice that shelters the goddess of rice. Witness a mesmerizing spectacle as thousands of vibrant orange torii gates unfurl along the mountainside, forming beguiling tunnels. Next, continue to the splendid [[Sanjūsangendō Temple]]. Within the confines of the world's longest wooden building, a sight to behold awaits – a remarkable assembly of 1001 life-sized golden Buddhist statues. Journey onwards to the entrance of [[Nishiki Market]] affectionately referred to as "Kyoto's kitchen." Wander along the covered street, where an abundance of shops and stalls entice you with an array of traditional delights, from artisanal tofu to delectable fish and enticing pickles. Savor a delectable lunch before exploring [[Nijo Castle]], a resplendent palace constructed in the early 1600s for the esteemed shogun. Admire the intricately painted walls and experience the "chirping nightingale" floors, designed to alert occupants of potential intruders with their soft creaks. Finally, visit the tranquil [[Nanzenji Zen Temple]], a haven of serenity where monks have found solace since 1291. Engage in introspection as you encounter the renowned Zen rock garden, its meaning left open to interpretation – an archipelago in a serene ocean, or perhaps wild creatures braving a raging river.
 
 _Please note: This tour makes use of Kyoto's efficient public transportation to travel around the city._
 

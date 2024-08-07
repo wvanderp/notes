@@ -1,14 +1,20 @@
+---
+tags:
+  - Itinerary
+---
+
+
 **Best Time To Go**
 March - May & July - November
 
 **Holiday Length**
 13 nights
 
-https://www.abercrombiekent.co.uk/destinations/asia/japan/classic-japan
+<https://www.abercrombiekent.co.uk/destinations/asia/japan/classic-japan>
+
 ## Day 1 - UK - [[Tokyo]]
 
 If you take an overnight flight to Tokyo you’ll enjoy more time to explore this fascinating city and its wealth of districts and subcultures.
-
 
 ## Day 2 - [[Tokyo]]
 
@@ -18,7 +24,7 @@ Tokyo is both modern metropolis and ancient capital rolled into one. Your Japan 
 
 Spend the day with your savvy A&K guide who will help you discover Tokyo’s iconic pop culture. Start at a Japanese school in the city’s cool Nakano district where you can swat up on the history of manga. Then head to [[Nakano Broadway]], a four-level shopping mall dedicated to anime (animation).
 
-You’ll then take the train to Harajuku and its lively pedestrianised [[Takeshita street]]. Here you’ll see colourfully-clad youths show off the latest in fashion and the quintessential kawaii (cute) culture. 
+You’ll then take the train to Harajuku and its lively pedestrianised [[Takeshita street]]. Here you’ll see colourfully-clad youths show off the latest in fashion and the quintessential kawaii (cute) culture.
 
 Continue to [[Akihabara]], Tokyo’s main district for anime, video games and wall-to-wall electronic goods. You’ll enter neon arcades full of virtual guitarists, teens on crane machines and people after work playing Pokémon. The area is also famed for its maid café where waitresses in maid’s outfits serve smiley-faced cupcakes and animal-shaped ice creams.
 
@@ -65,7 +71,6 @@ A ferry will deliver you to sacred [[Miyajima]], known as Shrine Island. Itsukus
 ## Day 9 [[Hiroshima]] - [[Kyoto]]
 
 The Shinkansen bullet train will have you in Kyoto in no time. Japan's former capital is arguably its most intoxicating city. This is the place to get to grips with Japan’s unique culture. At the house of a Japanese tea ceremony master you can get to grips with the long history of this ritual, and you can also learn more about Zen Buddhism and the art of wearing a kimono.
-
 
 ## Day 10 [[Kyoto]]
 

@@ -1,3 +1,8 @@
+---
+tags:
+  - City
+---
+
 - [[Bikan District]]
 - [[Children’s Peace Monument]]
 - [[Children’s Peace Monument]]
@@ -6,12 +11,10 @@
 - [[Floating Torii Gate]]
 - [[Gembaku Dome]] 5x
 - [[Hiroshima Castle]] 3x
-
 - [[Ikuchi-jima]]
 - [[Itsukushima Shrine]] 2x
 - [[Kurashiki]]
 - [[Mingei Movement]]
-
 - [[Miyajima Island]] 11x
 - [[Mt. Misen]] 7x
 - [[Ohara Museum of Art]]

@@ -1,3 +1,8 @@
+---
+tags:
+  - City
+---
+
 - [[Atomic Bomb Museum]]
 - [[Memorial Hall]]
 - [[Nagasaki Peace Park]]

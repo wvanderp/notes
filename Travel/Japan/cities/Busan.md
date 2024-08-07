@@ -1,16 +1,21 @@
+---
+tags:
+  - City
+---
+
 - [[APEC House & Dongbaek Island]] 7x
 - [[Beomeosa Temple]] 3x
 - [[Biff Square]]
 - [[Blue Line Park]]
 - [[Bokcheon Museum]]
 - [[Busan Tower]] 3x
+- [[Busan X the Sky]]
 - [[Busan's jjimjilbangs]]
 - [[Cheongsapo]]
 - [[Gamcheon Culture Village]] 7x
-- [[Gangnam Station]]
 - [[Gukje Traditional Market]]
 - [[Gukje Traditional Market]]
-- [[Gukjesijang]]
+- [[Gukje Market]]
 - [[Gwangalli beach]]
 - [[Gwangalli beach]]
 - [[Gwangan Bridge]]
@@ -31,4 +36,3 @@
 - [[Park Hyatt Busan]]
 - [[Yongdusan Park]]
 - [[Yongdusan Park]]
-- [[Busan X the Sky]]

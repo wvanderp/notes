@@ -1,3 +1,9 @@
+---
+tags:
+  - Itinerary
+---
+
+
 https://www.gadventures.com/trips/korea-and-japan-encompassed/9897/
 16 days
 
@@ -135,7 +141,7 @@ Take the cable car to visit the most iconic landmark in Seoul! Located at the to
 Dating back to 1414, this is Korea's oldest traditional market and it's largest, with over 10,000 vendors spanning several city blocks. Get ready to shop!
 
 **Gukje Traditional Market**: Busan  
-[[Gukjesijang]] or [[Gukje Market]] is nestled near [[Biff Square]], a well-known modern movie district in Busan. The market once was a place for refugees to earn a living over the period of the Korean War. Now, it's a bustling international market where loads of food, home goods, clothes, souvenirs and more can be found.
+[[Gukje Market]] or [[Gukje Market]] is nestled near [[Biff Square]], a well-known modern movie district in Busan. The market once was a place for refugees to earn a living over the period of the Korean War. Now, it's a bustling international market where loads of food, home goods, clothes, souvenirs and more can be found.
 
 **Bullet Train**: Busan – Seoul (2h30m)  
 Get to your next destination faster than the speed of light (ok maybe not that fast) aboard a high-speed train.
@@ -321,7 +327,7 @@ Climb aboard, take your seat, and get around like the locals do.
   The [[Ginza]] district is Tokyo’s equivalent of Fifth Avenue in New York. Window shop at Chanel, Dior, Gucci, and Louis Vuitton, then check out the latest electronics at the Sony showroom or Apple store. Visit the [[Wako Department Store]] with its historic clock tower, housed in a building that dates back to 1894. If you are there on a weekend, head to Ginza’s main street where pedestrians rule without Tokyo’s traffic.
 
 - **Imperial Palace East Gardens Walk**: Tokyo (Free)  
-  The [[Imperial Palace]] in Tokyo’s city centre is home to Japan’s Emperor and Empress. It is surrounded by a moat and three gardens, all open to the public. Stroll throughout the grounds, admire the azaleas and hydrangeas (when in season), discover the original stone wall that surrounded the palace back in the 17th to 19th centuries during the days when samurai warriors defended the ruler. Visit nearby [[Sannomaru-Shozo-kan Museum]] and see exquisite kimonos and Japanese paintings.
+  The [[Imperial Palace]] in Tokyo’s city centre is home to Japan’s Emperor and Empress. It is surrounded by a moat and three gardens, all open to the public. Stroll throughout the grounds, admire the azaleas and hydrangeas (when in season), discover the original stone wall that surrounded the palace back in the 17th to 19th centuries during the days when samurai warriors defended the ruler. Visit nearby [[Sannomaru Shozokan Museum]] and see exquisite kimonos and Japanese paintings.
 
 - **Meiji Shrine (Meiji Jingū) Visit**: Tokyo (Free-1000JPY per person)  
   Visit this shrine dedicated to the 123rd emperor of Japan, [[Emperor Meiji]], and his wife. The shrine is a great place to escape the bustle of the city and wander the grounds along the wide walking paths.

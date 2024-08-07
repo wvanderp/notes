@@ -1,9 +1,15 @@
-https://www.gadventures.com/trips/south-korean-explorer/9894/
+---
+tags:
+  - Itinerary
+---
+
+<https://www.gadventures.com/trips/south-korean-explorer/9894/>
 9 days
 
 ## Itinerary
 
 ### Day 1: Seoul
+
 Welcome to South Korea! Today is your day to explore the city as you wish before you meet your group and CEO in the evening for a Welcome Meeting. After the meeting, head out for a group dinner, followed by an orientation walk around Seoul. Tomorrow we leave Seoul but don't fret, we'll return for some more time to see the city at the end of your trip.
 
 **Seoul Orientation Walk**: Seoul  
@@ -13,6 +19,7 @@ Enjoy a brief walk with your CEO who will give you some tips on finding things l
 Your opportunity to meet your CEO and fellow travellers, and learn more about your tour. Opt to join the group for a local meal afterwards. Don't forget to see the notice in the lobby (or ask reception) for the official time and place to meet up with the group.
 
 ### Day 2: Seoul/Jeonju-si
+
 Today take a glimpse into traditional Korean life. After a free morning in Seoul, we head to the hanok village of [[Jeonju]] by train. Enjoy a tour of this picturesque hanok town, followed by a Hanjeongsik Dinner, a traditional Korean multiple-course meal.
 
 **Free Time**: Seoul  
@@ -38,6 +45,7 @@ After a day of exploring the historic town of Jeonju, enjoy a Hanjeongsik tradit
 **Meals included**: Breakfast | Dinner
 
 ### Day 3: Jeonju-si/Yeosu
+
 From big city to traditional towns, today we move to the greener side of South Korea. We'll venture to [[Damyang]] to take a tour of the mighty [[Juknokwon Bamboo Forest]], the greatest in South Korea. After some time under the bamboo blades, we travel to even greener pastures in the [[Boseong Green Tea Field]]. In the evening, arrive in [[Yeosu]], where the city meets the sea.
 
 **Private Vehicle**: Jeonju-si – Yeosu  
@@ -58,6 +66,7 @@ Settle in and scan the scenery from the convenience of a private vehicle.
   Along the coast, under the [[Yeosu Geobukseon Bridge]], you'll find the unique and romantic cart bars of [[Pocha Street]]. Grab some local food and a drink and enjoy the almost 20 different food trucks.
 
 ### Day 4: Yeosu
+
 Breathe in the sea air and join your CEO to visit some of the more iconic spots in Yeosu. Ride the cable car for a perfect seaside view of [[Odongdo Island]]. Then immerse yourself in larger-than-life sculptures and interactive art exhibits at [[Yeosu Art Land]]. Experience the art and walk out onto the [[Hand of Midas]] for an equally impressive view of the sea. In the afternoon, enjoy free time during your last night on the South Korean mainland.
 
 **Maritime Cable Car**: Yeosu  
@@ -83,6 +92,7 @@ Spend the afternoon enjoying Yeosu how you'd like.
 **Meals included**: Breakfast
 
 ### Day 5: Yeosu/Jeju-si
+
 In the morning, board a flight to the volcanic island of [[Jeju]]. With waterfalls, lava caves, and miles of beaches, the next three days will not disappoint. After lunch on the island, head to [[Seongsan Sunrise Peak]] for an easy hike up the volcanic formation to reach an incredible view of the ocean. This afternoon, you'll have the unique opportunity to witness the women divers on Jeju. Watch as they dive for seafood, using their incredible breath-hold abilities. Then, join your group at the [[Seongeup Folk Village]] to learn about the history and people of Old Jeju.
 
 **Plane**: Yeosu – Jeju-si  
@@ -129,6 +139,7 @@ Walk along [[Yongmeori's]] rugged coastline known for its dramatic cliffs and un
 **Meals included**: Breakfast
 
 ### Day 7: Jeju-si/Seoul
+
 In the late morning, head to the airport to fly back to Seoul. After arrival in Seoul, take a short orientation walk with your CEO and enjoy free time in the city. In the evening, join your group and CEO for an optional group dinner.
 
 **Seoul Orientation Walk**: Seoul  
@@ -140,6 +151,7 @@ Look! Up in the sky! It's a bird! It's a plane! It's... yup, it is a plane, actu
 **Meals included**: Breakfast
 
 ### Day 8: Seoul
+
 Today is your day to explore Seoul however you'd like. Tick off all the bucket list items to see in Seoul, try some incredible food, or choose to go on a tour of the city or maybe the DMZ (Demilitarized Zone).
 
 **Free Time**: Seoul Full Day  
@@ -162,6 +174,7 @@ Today is yours to enjoy Seoul how you'd like.
 **Meals included**: Breakfast
 
 ### Day 9: Seoul
+
 Depart at any time.
 
 **Departure Day**  

@@ -1,7 +1,13 @@
+---
+tags:
+  - Itinerary
+---
+
 ## 11 days
-https://www.gadventures.com/trips/backroads-of-japan/8597/
+<https://www.gadventures.com/trips/backroads-of-japan/8597/>
 
 # Day 1 [[Tokyo]]
+
 Arrive at any time.
 
 There are no activities planned until an evening welcome meeting.
@@ -15,6 +21,7 @@ Below is an example of the hotel we may use in this city. For the actual hotel y
 **Shinjuku Washington Hotel (or similar)**
 
 # Day 2 [[Tokyo]]
+
 Take a CEO-led walking tour of eclectic modern Tokyo from the hub of [[Shinjuku]] to [[Shibuya]] through to [[Harajuku]].
 
 Please note that the new JR Pass validation policy asks travellers to come to the office counter to activate their JR Pass.
@@ -23,6 +30,7 @@ Please note that the new JR Pass validation policy asks travellers to come to th
 Let your CEO guide you around eclectic and modern Tokyo.
 
 ### Optional Activities - Day 2
+
 - **[[Meiji Shrine (Meiji Jingū) Visit]] (Tokyo)**: Free-1000JPY per person  
   Visit this shrine dedicated to the 123rd emperor of Japan, Emperor Meiji, and his wife. The shrine is a great place to escape the bustle of the city and wander the grounds along the wide walking paths.
 
@@ -33,6 +41,7 @@ Let your CEO guide you around eclectic and modern Tokyo.
 Shinjuku Washington Hotel (or similar)
 
 # Day 3 [[Tokyo]]/[[Nagano]]
+
 Journey to [[Nagano]], located in the Japanese Alps and host city of the 1998 Winter Olympics. Discover the world-famous [[Jigokudani Monkey Park]] and watch Japanese snow monkeys bathing in the natural hot springs.
 
 **Bullet Train: Tokyo – Nagano**: 3h  
@@ -45,6 +54,7 @@ Visit the Jigokudani Monkey Park, where wild snow monkeys can be seen bathing in
 Nagano Tokyu REI Hotel (or similar)
 
 # Day 4 [[Nagano]]
+
 Enjoy a day-trip to quaint [[Matsumoto]] and visit one of Japan's most treasured castles. Return to Nagano and explore historic [[Zenkō-ji Temple]].
 
 **Bullet Train: Nagano – Matsumoto**: 1h30m-2h  
@@ -63,6 +73,7 @@ Visit the Buddhist temple of Zenkō-ji, one of the last remaining pilgrimage sit
 Nagano Tokyu REI Hotel (or similar)
 
 # Day 5 [[Nagano]]/[[Otsu]]
+
 Travel to [[Otsu]] in Shiga prefecture, located on the banks of [[Lake Biwa]], Japan's largest freshwater lake. Settle in and relax with a stroll around this picturesque lake before heading out to enjoy a delicious bowl of Ramen for dinner.
 
 **Train: Nagano – Ōtsu**: 4h30m  
@@ -73,6 +84,7 @@ Lake Biwa Otsu Prince Hotel (or similar)
 **Meals included**: Dinner
 
 # Day 6 [[Otsu]]/[[Hagi]]
+
 Grab a quick breakfast before heading off, on a long travel day. In the late afternoon, arrive in the quaint city of [[Hagi]], a former castle town that boasts feudal architecture. Take part in a welcome ceremony with the local residents, and meet your host family at a community homestay, a G Adventures for Good project. Get to know each other as you enjoy dinner together.
 
 Please note that before leaving Ōtsu, you'll need to prepare your day pack/overnight bag for a two-night stay in Hagi, as your main luggage will be sent on to [[Tottori]]. Remember to include comfortable clothing for a cycling excursion and two nights at the homestay. If you're travelling during the cold weather season, please refer to your Packing List.
@@ -88,6 +100,7 @@ Homestay in Hagi (or similar)
 **Meals included**: Breakfast | Dinner
 
 # Day 7 [[Hagi]]
+
 Explore rural Hagi on a guided morning cycle, spotting samurai architecture along the way. On return, experience authentic Japanese countryside life. Return to your homestay in the late afternoon and enjoy dinner with your host family.
 
 **Hagi Cycling Excursion**: 3h  
@@ -101,6 +114,7 @@ Homestay in Hagi (or similar)
 **Meals included**: Breakfast | Dinner
 
 # Day 8 [[Hagi]]/[[Tottori]]
+
 Bid farewell to your host family after enjoying breakfast together. Later, travel to [[Miho-misumi]] by train, taking in scenic views along the way. Learn the art of making "washi," a UNESCO-recognized traditional Japanese paper, then enjoy a Japanese lunch along the beautiful coastline before continuing to the seaside town of [[Tottori]].
 
 **Bullet Train: Hagi – Mihomisumi**: 2h  
@@ -117,6 +131,7 @@ New Otani Tottori (or similar)
 **Meals included**: Breakfast | Lunch
 
 # Day 9 [[Tottori]]/[[Kyoto]]
+
 Spend the morning exploring Tottori's scenic sand dunes, some reaching 50m (164 ft) in height. After, visit the local fish market and opt for a fresh seafood lunch. In the late afternoon, travel to [[Kyoto]] for two nights in the traditional heart of Japan.
 
 **Tottori Sand Dunes Visit**  
@@ -132,6 +147,7 @@ Climb aboard, take a seat, and enjoy the ride.
 Oakwood Hotel Oike Kyoto (or similar)
 
 # Day 10 [[Kyoto]]
+
 Visit the iconic [[Fushimi Inari Taisha Shrine]], famed for an impressive 10,000 red torii gates. This afternoon, enjoy free time in this picturesque city. Opt to experience zen gardens, teahouses, shrines, and local gift shops – and maybe even spot a real-life geisha.
 
 Kyoto
@@ -145,6 +161,7 @@ Visit the Fushimi Inari shrine, located just outside of Kyoto. Walk under the th
 Explore more of this cultural hub.
 
 ### Optional Activities - Day 10
+
 - **[[Gion Walk]] (Kyoto)**: Free  
   Walk through Gion, Kyoto's most famous geisha district. Visit shops, restaurants, and ochaya (teahouses), where geiko (Kyoto dialect for geisha) and maiko (geiko apprentices) entertain.
 
@@ -161,6 +178,7 @@ Explore more of this cultural hub.
 Oakwood Hotel Oike Kyoto (or similar)
 
 # Day 11 [[Kyoto]]
+
 Depart at any time.
 
 We highly recommend booking post-nights to explore more of this beautiful city.

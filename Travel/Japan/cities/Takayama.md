@@ -1,3 +1,8 @@
+---
+tags:
+  - City
+---
+
 - [[Hida Folk Village]]
 - [[Hida no Sato (Hida Minzoku Mura Folk Village)]]
 - [[Hida no Sato (Hida Minzoku Mura Folk Village)]]

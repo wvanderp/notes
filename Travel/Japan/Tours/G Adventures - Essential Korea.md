@@ -1,9 +1,15 @@
-https://www.gadventures.com/trips/essential-korea/9892/
+---
+tags:
+  - Itinerary
+---
+
+<https://www.gadventures.com/trips/essential-korea/9892/>
 13 days
 
 ## Itinerary
 
 ### Day 1: Seoul
+
 Welcome to Seoul! As fellow travellers are arriving throughout the day, there are no planned activities until a group meeting at 6 pm. Check into the hotel and enjoy the city.
 
 After the welcome meeting, join your CEO for an orientation walk down [[Cheonggyecheon Stream]] to learn about Seoul while walking past small waterfalls and nearly two dozen overhead bridges. Then, enjoy the dense grid of streets found in the bustling neighbourhood of [[Myeongdong]] which is packed with people at all hours of the day looking to enjoy some of the best shopping, street food, and nightlife in all of Korea.
@@ -17,6 +23,7 @@ Enjoy a brief walk with your CEO who will give you some tips on finding things l
 Your opportunity to meet your CEO and fellow travellers, and learn more about your tour. Opt to join the group for a local meal afterwards. Don't forget to see the notice in the lobby (or ask reception) for the official time and place to meet up with the group.
 
 ### Day 2: Seoul
+
 Sit back and relax on a private bus and enjoy a tour of the bustling metropolis where modern skyscrapers, high-tech subways, and pop culture meet Buddhist temples and street markets. Visit [[Gyeongbokgung Palace]], the [[National Folklore Museum]], [[Bukchon Hanok Village]], and [[Insadong Alley]].
 
 After exploring the city, opt to see a show, explore a local museum, or hit the pavement and eat your way through street markets trying local fares such as bibimbap, soondae, and kimchi.
@@ -50,6 +57,7 @@ Head out and explore.
 **Meals included**: Breakfast
 
 ### Day 3: Seoul/Gyeongju-si
+
 After breakfast, board a high-speed bullet train for a relaxing morning ride through the countryside to [[Gyeongju]]. Once the group arrives in this old capital city for 1,000 years, they will experience an overnight stay in a local temple. During the stay, the group will learn about temple etiquette, watch a monk martial arts performance, experience the daily prayer ritual, and a temple-style dinner.
 
 Stay in rooms called Ondol. These rooms are very traditional, heated to be cozy and comfortable, with beds made up directly on the floor. The rooms here are multi-share, divided up by male and female rooms. Enjoy a traditional dinner and breakfast during the stay.
@@ -65,6 +73,7 @@ Stay in rooms called Ondol, which are very traditional and heated to be cozy and
 **Meals included**: Breakfast | Dinner
 
 ### Day 4: Gyeongju-si
+
 Enjoy a peaceful morning meditation, martial arts practice, and drum and bell ritual before exploring [[Gyeongju]]. On the city tour, visit the UNESCO site of [[Bulguksa Temple]] located on the slopes of [[Mount Toham]] and admire the national treasures there, such as [[Dabotap]] and [[Seokgatap]] stone pagodas, [[Cheongun-gyo]], and two gilt-bronze statues of Buddha. Afterwards, experience the oldest surviving astronomical observatory in Asia, [[Cheomseongdae Observatory]], and the surrounding [[Royal Tombs]].
 
 **Private Vehicle**: Gyeongju-si  
@@ -90,6 +99,7 @@ The [[Daereungwon Tomb complex]] in Gyeongju holds 23 tombs that are found insid
 **Meals included**: Breakfast
 
 ### Day 5: Gyeongju-si/Busan
+
 Travel by bus to [[Busan]]. Along the way, enjoy a day trip to [[Yangdong Folk Village]], a 500-year-old UNESCO site located in [[Gyeongju National Park]], to get a feel for life during the early Joseon Dynasty. Afterwards, continue on to the picturesque 14th century seaside temple hidden in the rocks - [[Haedong Yonggungsa]]. After exploring the temple, check in to your hotel and get your bearings with an orientation walk on [[Haeundae Beach]] and [[Dongbaek Island]] (APEC House). Spend the evening getting to know colourful [[Busan]], opt to
 
  treat yourself at a [[Jjimjilbang spa]] or sing your heart out at a popular karaoke bar.
@@ -117,6 +127,7 @@ Originally built in 1376, this picturesque, cliffside Buddhist temple overlooks 
 **Meals included**: Breakfast
 
 ### Day 6: Busan/Seoul
+
 In the seaside city, [[Busan]], visit the bustling [[Jagalchi Fish Market]], [[Gukje Traditional Market]], [[Yongdusan Park]], and the colourful [[Gamcheon Culture Village]] before traveling back to [[Seoul]]. After arriving in Seoul by train, check out Korea's oldest traditional market - [[Namdaemun Market]]. Then make your way by cable car to [[N Seoul Tower]] to see this beautiful landmark and opt to make the trip up to the observation deck. Spend the rest of your day in Seoul opting to see [[Banpo Bridge]], the [[floating islands]], or hanging out in the [[Gangnam District]].
 
 **Jagalchi Fish Market**: Busan  
@@ -135,7 +146,7 @@ Take the cable car to visit the most iconic landmark in Seoul! Located at the to
 Dating back to 1414, this is Korea's oldest traditional market and it's largest, with over 10,000 vendors spanning several city blocks. Get ready to shop!
 
 **Gukje Traditional Market**: Busan  
-[[Gukjesijang]] or [[Gukje Market]] is nestled near [[Biff Square]], a well-known modern movie district in Busan. The market once was a place for refugees to earn a living over the period of the Korean War. Now, it's a bustling international market where loads of food, home goods, clothes, souvenirs, and more can be found.
+[[Gukje Market]] or [[Gukje Market]] is nestled near [[Biff Square]], a well-known modern movie district in Busan. The market once was a place for refugees to earn a living over the period of the Korean War. Now, it's a bustling international market where loads of food, home goods, clothes, souvenirs, and more can be found.
 
 **Bullet Train**: Busan – Seoul (2h30m)  
 Get to your next destination faster than the speed of light (ok maybe not that fast) aboard a high-speed train.
@@ -157,6 +168,7 @@ Get to your next destination faster than the speed of light (ok maybe not that f
 **Meals included**: Breakfast
 
 ### Day 7: Seoul
+
 Visit the [[Demilitarized Zone (DMZ)]], founded in 1953, separating North and South Korea. With over a million soldiers on watch each day, it is one of the last remnants of the Cold War. With a buffer zone 4km wide and spanning 250 km long, there has been very little development in the area, therefore nature and wildlife have pretty much taken over. Spend about 3-4 hours visiting the [[Demilitarized Zone]], then head to [[The War Memorial of Korea]]. Later, return back to Seoul for another night in the city.
 
 Opt to visit the [[Samsung Leeum Contemporary Gallery]], explore the [[Itaewon neighbourhood]], or prebook the [[Kimchi making and Hanbok experience]].
@@ -176,6 +188,7 @@ If you love history - dive right into [[The War Memorial of Korea]]. The memoria
 **Meals included**: Breakfast
 
 ### Day 8: Seoul/Jeonju-si
+
 Today take a glimpse into traditional Korean life. After a free morning in Seoul, we head to the hanok village of [[Jeonju]] by train. Enjoy a tour of this picturesque hanok town, followed by a Hanjeongsik Dinner, a traditional Korean multiple-course meal.
 
 **Free Time**: Seoul  
@@ -203,6 +216,7 @@ After a day of exploring the historic town of Jeonju, enjoy a Hanjeongsik tradit
 **Meals included**: Breakfast | Dinner
 
 ### Day 9: Jeonju-si/Yeosu
+
 From big city to traditional towns, today we move to the greener side of South Korea. We'll venture to [[Damyang]] to take a tour of the mighty [[Juknokwon Bamboo Forest]], the greatest in South Korea. After some time under the bamboo blades, we travel to even greener pastures in the [[Boseong Green Tea Field]]. In the evening, arrive in [[Yeosu]], where the city meets the sea.
 
 **Private Vehicle**: Jeonju-si – Yeosu  
@@ -223,6 +237,7 @@ Settle in and scan the scenery from the convenience of a private vehicle.
   Along the coast, under the [[Yeosu Geobukseon Bridge]], you'll find the unique and romantic cart bars of [[Pocha Street]]. Grab some local food and a drink and enjoy the almost 20 different food trucks.
 
 ### Day 10: Yeosu
+
 Breathe in the sea air and join your CEO to visit some of the more iconic spots in Yeosu. Ride the cable car for a perfect seaside view of [[Odongdo Island]]. Then immerse yourself in larger-than-life sculptures and interactive art exhibits at [[Yeosu Art Land]]. Experience the art and walk out onto the [[Hand of Midas]] for an equally impressive view of the sea. In the afternoon, enjoy free time during your last night on the South Korean mainland.
 
 **Maritime Cable Car**: Yeosu  
@@ -248,6 +263,7 @@ Spend the afternoon enjoying Yeosu how you'd like.
 **Meals included**: Breakfast
 
 ### Day 11: Yeosu/Jeju-si
+
 In the morning, board a flight to the volcanic island of [[Jeju]]. With waterfalls, lava caves, and miles of beaches, the next three days will not disappoint. After lunch on the island, head to [[Seongsan Sunrise Peak]] for an easy hike up the volcanic formation to reach an incredible view of the ocean. This afternoon, you'll have the unique opportunity to witness the women divers on Jeju. Watch as they dive for seafood, using their incredible breath-hold abilities. Then, join your group at the [[Seongeup Folk Village]] to learn about the history and people of Old Jeju.
 
 **Plane**: Yeosu – Jeju-si  
@@ -270,6 +286,7 @@ Enjoy a guided tour of the traditional Jeju culture through this living museum. 
 **Meals included**: Breakfast
 
 ### Day 12: Jeju-si
+
 Today, immerse yourself in Jeju's natural side. In the morning, see the colorful side of Jeju at [[Hallim Park]], the island's botanical garden. Stroll through the various themed gardens, caves, and folk village all within this huge park. Then head to [[Yongmeori Coast]] to witness the dramatic cliffs and to [[Mt. Sanbang]] for a short coastal hike to a temple atop the mountain. After lunch, we'll take the scenic route to [[Cheonjiyeon Waterfalls]], perfect for a photo op. Last stop of the day is [[Soesokkak Estuary]] where you'll hop aboard a boat for a tour of the sea and the incredible coastline.
 
 **Soesokkak Estuary Boat Ride**: Jeju-si (45m-1h)  
@@ -292,6 +309,7 @@ Walk along [[Yongmeori's]] rugged coastline known for its dramatic cliffs and un
 **Meals included**: Breakfast
 
 ### Day 13: Jeju-si
+
 Depart at any time.
 
 **Meals included**: Breakfast

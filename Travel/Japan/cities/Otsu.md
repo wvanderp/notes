@@ -1,1 +1,6 @@
+---
+tags:
+  - City
+---
+
 - [[Lake Biwa]]

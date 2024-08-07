@@ -1,10 +1,13 @@
+---
+tags:
+  - City
+---
+
 - [[Abe no Harukas]] 3x
 - [[Abe no Harukas]]
 - [[Abeno Harukas]]
 - [[Dotombori Bridge]] 4x
 - [[Dotonbori]] 4x
-- [[Himeji Castle]]
-- [[Himeji Castle]]
 - [[Himeji]]
 - [[Instant Ramen Museum]]
 - [[Instant Ramen Museum]]

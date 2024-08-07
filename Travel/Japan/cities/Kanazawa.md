@@ -1,3 +1,8 @@
+---
+tags:
+  - City
+---
+
 - [[21st Century Museum of Contemporary Art]]
 - [[Hakuza]]
 - [[Higashi Chaya District]] 5x

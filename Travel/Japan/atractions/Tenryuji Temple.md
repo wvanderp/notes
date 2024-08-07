@@ -1,0 +1,6 @@
+---
+aliases:
+  - Tenryuji
+tags:
+  - City
+---
