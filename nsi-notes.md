@@ -92,3 +92,6 @@ Aers energy
 E-laad
 
 Praxis City
+
+Lucardi Juwelier
+drop the Juwelier
