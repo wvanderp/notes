@@ -1,6 +1,6 @@
 ---
-auteur: 
-    - ChatGPT 3.5
+author:
+  - ChatGPT 3.5
 ---
 
 # The Choice I Made, Straight Up

@@ -1,5 +1,5 @@
 ---
-auteur: 
+author: 
     - ChatGPT 3.5
 ---
 

@@ -207,8 +207,9 @@ function fillOutTemplate(summary: string, TherapistQuestions: string, GeneralQue
       TherapistQuestions: cleanString(TherapistQuestions),
       GeneralQuestions: cleanString(GeneralQuestions),
 
-      // I need to shower on sundays, tuesdays, and thursdays
+      // I need to shower on Sundays, Tuesdays, and Thursdays
       isShowerDay: dayOfWeek === 'Sunday' || dayOfWeek === 'Tuesday' || dayOfWeek === 'Thursday',
+      isWorkingDay: dayOfWeek !== 'Saturday' && dayOfWeek !== 'Sunday',
     };
   
   

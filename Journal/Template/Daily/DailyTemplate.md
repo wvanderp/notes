@@ -2,7 +2,7 @@
 tags:
   - Journal
 created: {{TodaysDate}}
-auteur:
+author:
   - ChatGPT 4-o
   - Me
 ---
@@ -20,7 +20,9 @@ auteur:
 
 **What did you have for dinner**: 
 **Grade for the day**: 
-**Were you on time for work?**:
+{{#if isWorkingDay}}
+**Were you on time for work?**: 
+{{/if}}
 {{#if isShowerDay}}
 **Did you shower?**:
 {{/if}}
@@ -29,7 +31,9 @@ auteur:
 
 **Morning**: 
 **Afternoon**: 
+{{#if isWorkingDay}}
 **After work**: 
+{{/if}}
 **Evening**: 
 
 ## Reflections

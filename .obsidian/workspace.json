@@ -4,213 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "63f188ca7c6a701c",
+        "id": "afefe5ef78f82c9f",
         "type": "tabs",
         "children": [
           {
-            "id": "6f4ae4ac21bf1f18",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "graph",
-              "state": {},
-              "pinned": true
-            }
-          },
-          {
-            "id": "becde4edcfee979c",
+            "id": "30815968f149f8a9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Travel/Japan/cities/Yeosu.md",
+                "file": "Ideas/Tugboat Simulation System.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "da93d9e3291989f3",
+            "id": "7d988622325cd0bd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Travel/Japan/cities/Takayama.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "598cbfa3076aaca6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Travel/Japan/cities/Seoul.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7ef3d3de200c3f27",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Travel/Japan/cities/Kyoto.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "024a252d677efadc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Travel/Japan/cities/Seoul.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "06e31c391bf15720",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Travel/Japan/cities/other.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "46871d0116481af0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Travel/Japan/cities/Kyoto.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c830c86bf6189464",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Travel/Japan/cities/Kyoto.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bddf05a931e65599",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Travel/Japan/cities/Seoul.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cf5b3f4b410b25ff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Travel/Japan/cities/Kyoto.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cb931efc3c1e20b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Travel/Japan/cities/Tokyo.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1306bb81fa748f46",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Travel/Japan/cities/Hakone.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f0b8ccb3c0a03e03",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Travel/Japan/cities/Tokyo.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b88113d728650755",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Travel/Japan/cities/Busan.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1f1332b5e0807768",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Travel/Japan/Tours/G Adventures - Korea & Japan Encompassed.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a7e146c265f209df",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Travel/Japan/Tours/Gukje Market.md",
+                "file": "Journal/Daily/2024-08-25.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 16
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -239,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Gangnam Station",
+                "query": "auteur",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -276,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Travel/Japan/Tours/Gukje Market.md",
+                "file": "Journal/Daily/2024-08-25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -293,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Travel/Japan/Tours/Gukje Market.md",
+                "file": "Journal/Daily/2024-08-25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -316,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Travel/Japan/Tours/Gukje Market.md"
+                "file": "Journal/Daily/2024-08-25.md"
               }
             }
           },
@@ -346,53 +168,54 @@
       "random-note:Open random note": false
     }
   },
-  "active": "a7e146c265f209df",
+  "active": "7d988622325cd0bd",
   "lastOpenFiles": [
-    "Travel/Japan/atractions/Nanzenji Zen Temple.md",
-    "Travel/Japan/cities/Busan.md",
-    "Travel/Japan/cities/Gukjesijang.md",
-    "Travel/Japan/atractions/Busan X the Sky.md",
-    "Travel/Japan/Tours/Gukje Market.md",
-    "Travel/Japan/Tours/G Adventures - Korea & Japan Encompassed.md",
-    "Travel/Japan/districts/Akihabara.md",
+    "Ideas/Git data logger.md",
+    "Ideas/Tugboat Simulation System.md",
+    "Untitled",
+    "Journal/Daily/2024-08-25.md",
+    "Journal/Daily/2024-08-05.md",
+    "Journal/Daily/2024-07-22.md",
+    "Journal/Daily/2024-07-21.md",
+    "Journal/Daily/2024-07-15.md",
+    "Journal/Daily/2024-07-30.md",
+    "Journal/Daily/2024-07-28.md",
+    "Journal/Daily/2024-07-09.md",
+    "Journal/Daily/2024-07-06.md",
+    "Journal/Daily/2024-07-29.md",
+    "Journal/Daily/2024-07-16.md",
+    "Journal/Daily/2024-07-03.md",
+    "Literature/The Choice I Made, Straight Up.md",
+    "Journal/Daily/2024-07-05.md",
+    "Journal/Daily/2024-06-26.md",
+    "Journal/Weekly/2024-27.md",
+    "Journal/Daily/2024-06-17.md",
+    "Journal/Daily/2024-08-06.md",
+    "Journal/Daily/2024-08-07.md",
+    "Journal/Daily/2024-08-08.md",
+    "Journal/Daily/2024-08-09.md",
+    "Journal/Daily/2024-08-10.md",
+    "Journal/Daily/2024-08-11.md",
+    "Journal/Daily/2024-08-12.md",
     "Travel/Japan/districts",
-    "Travel/Japan/cities/Tokyo.md",
-    "Travel/Japan/Tours/G Adventures - Best of South Korea.md",
-    "Travel/Japan/Tours/floating island.md",
-    "Travel/Japan/districts/Busan.md",
-    "Travel/Japan/atractions/APEC House & Dongbaek Island.md",
-    "Travel/Japan/atractions/Yongdusan Park.md",
-    "Travel/Japan/atractions/Ueno Park.md",
-    "Travel/Japan/atractions/Tsumago.md",
-    "Travel/Japan/atractions/Shinjuku.md",
-    "Travel/Japan/atractions/Sannomaru Shozokan Museum.md",
-    "Travel/Japan/atractions/Sanjūsangendō Temple.md",
-    "Travel/Japan/atractions/Ryōan-ji Temple.md",
-    "Travel/Japan/atractions/Ryoan-ji Temple.md",
-    "Travel/Japan/atractions/Ōwakudani.md",
-    "Travel/Japan/atractions/Naramachi district.md",
-    "Travel/Japan/atractions/Nara Park.md",
-    "Travel/Japan/atractions/Nakasendo Way.md",
-    "Travel/Japan/atractions/Magome.md",
-    "Travel/Japan/atractions/Kitano-Temanngu.md",
-    "files/Pasted image 20240527111844.png",
-    "files/chrome_SfFMHJBiK6.png",
-    "files/Pasted image 20240804214752.png",
     "files/chrome_inb6rQCS2D.png",
     "files/chrome_gXbNkWYeea.png",
     "files/chrome_SfFMHJBiK6.png",
     "files/chrome_EBpYN30wIM.png",
     "files/chrome_C8ROOtEilw.png",
     "files/chrome_AgmbxhOEfv.png",
+    "files/Pasted image 20240804214752.png",
+    "files/Pasted image 20240804210818.png",
     "Travel/Japan/atractions",
     "Travel/Japan/cities",
     "Travel/Japan/Tours",
     "Travel/Japan",
     "Travel",
-    "Contacts/angeliqe",
-    "Blog posts/Pasted image 20240624224819.png",
+    "Scripts and Guides/files/har download button.png",
     "Scripts and Guides/files",
-    "Journal/Weekly",
+    "Creative vibes/Vibes-for-my-dystopian-sci-fi-movie-files/deuchland.avif",
+    "Creative vibes/Vibes-for-my-dystopian-sci-fi-movie-files",
+    "Creative vibes",
     "Untitled.canvas"
   ]
 }
