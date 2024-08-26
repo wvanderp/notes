@@ -4,7 +4,8 @@
   "main": "newTemplate.js",
   "scripts": {
     "daily": "tsx Daily/Daily.ts",
-    "weekly": "tsx Weekly/Weekly.ts"
+    "weekly": "tsx Weekly/Weekly.ts",
+    "theNote": "tsx TheNote/TheNote.ts"
   },
   "author": "",
   "license": "ISC",
