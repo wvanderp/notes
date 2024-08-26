@@ -86,7 +86,7 @@ But it should contain all the important information.`;
 async function generateTherapistTemplate(summary: string, goals: string) {
   const systemPrompt = `
 You are a Journal template generator and a therapist.
-You will generate journal template that helps me reflect back on the day.
+You will generate journal template that helps me reflect back on today.
 The template will Be fill out at the end of the day.
 
 The template should reference to the previous day's entry summary and use the goals as a guide.
@@ -145,8 +145,8 @@ Generate a daily journal template based on the summary of the previous day's jou
 async function generateGeneralTemplate(yesterdaysEntry: string, goals: string) {
   // bot to extract as much additional information as possible from the summary
   const systemPrompt = `
-  You are given yesterday's journal entry. Your goal is to generate three pointed questions to extract more information from the user.  
-  You get three questions to clear up any confusion and to get more information.
+  You are given yesterday's journal entry. Your goal is to generate four pointed questions to extract more information from the user.  
+  You get four questions to clear up any confusion and to get more information.
 
   The questions should reference the summary and be designed to make the user write more in-depth about the topic.
 `;

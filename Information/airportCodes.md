@@ -1,3 +1,8 @@
+---
+aliases:
+  - aip
+---
+
 # Airport codes
 
 There are many different ways of identifying airports with codes. This page keeps a list of them.
@@ -139,3 +144,13 @@ This same format is also used by [https://metar-taf.com](https://metar-taf.com/)
 ### GPS code
 
 The last identifier they have is the `gps_code`. This is a random collection of all the codes mentioned above.
+
+## ALA code
+
+aliases `AIRCRAFT LANDING AREAS` or `Y-CODE`
+
+this might be a code use by the `Airservices Australia` for there airports but I cant verify that yet.
+
+I might also be a subset of ICAO because the start of the ICAO code of Australia starts with Y.
+
+[lookup document](https://www.airservicesaustralia.com/aip/current/ersa/LND__13JUN2024.pdf)
