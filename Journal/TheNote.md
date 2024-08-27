@@ -35,7 +35,7 @@
 
 ---
 
-### Notes from 2024-08-27
+### Notes from 2024-08-27 AM
 
 #### Summary of 2024-08-26
 
@@ -79,6 +79,53 @@
 - **Work Tasks:** Focus on IBIS and work on the markdown parser.
 - **New Tasks:** Meet for scouting about the new season.
 - **Mood Tracking:** Develop a system for mood tracking and implement it.
+
+---
+
+### Notes from 2024-08-27 PM
+
+#### Summary of 2024-08-27
+
+- **Morning:** Psychologist appointment.
+- **Afternoon:** Worked on "The Five Rules of Wanda."
+- **After Work:** Tried a new writing software.
+- **Evening:** Had a scouting meeting and finally worked on the markdown parser.
+
+#### Dinner
+
+- **Today:** Something with arugula, mozzarella, and some weird pasta.
+
+#### Emotional Check-In
+
+- **Grade for the day:** 7 out of 10.
+
+#### Were You on Time for Work?
+
+- **No:** Due to a psychologist appointment.
+
+#### Did You Shower?
+
+- **No:** Needs to do that tomorrow.
+
+#### Questions about Yesterday
+
+1. **IBIS Puzzle:** New to the code, struggled to find necessary information, but identified that most problems were not of own making.
+2. **Dermatologist Visit:** Quick, only good news; almost late, leading to a feeling of being sloppy during execution.
+3. **Habit Strategies:** Changed QR code position to help with waking up in the morning.
+4. **Health Concerns:** Knee biopsy was clear for cancer, which was reassuring.
+
+#### Reflections
+
+1. **Awareness of Feelings:** Difficulty identifying specific emotional moments.
+2. **Achievements:** Not clearly stated.
+3. **Self-Prioritization:** Not clearly identified.
+4. **Worthwhile Activity:** No direct alignment with overarching goals mentioned.
+5. **Habits:** Issues with habits resurfaced; no concrete steps listed.
+
+#### Plans for Tomorrow
+
+- **Closet Plan:** Need a new plan for the closet.
+- **Purchase:** Need to buy a suit.
 
 ---
 

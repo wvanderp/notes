@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/Daily/2024-08-26.md",
+                "file": "Journal/Daily/2024-08-27.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/Daily/2024-08-26.md",
+                "file": "Journal/Daily/2024-08-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/Daily/2024-08-26.md",
+                "file": "Journal/Daily/2024-08-27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/Daily/2024-08-26.md"
+                "file": "Journal/Daily/2024-08-27.md"
               }
             }
           },
@@ -167,6 +167,9 @@
   },
   "active": "b0fcb055a8f51dd6",
   "lastOpenFiles": [
+    "Journal/Daily/2024-08-26.md",
+    "daynote.md",
+    "Journal/Daily/2024-08-27.md",
     "Journal/TheNote-copy.md",
     "Journal/TheNote.md",
     "Journal/Template/TheNote/TheNote.ts",
@@ -175,7 +178,6 @@
     "stories",
     "git-crypt.key",
     "Journal/Daily/2024-08-25.md",
-    "Journal/Daily/2024-08-26.md",
     "stories/taylor.crypt.md",
     "stories.crypt.md",
     "New folder",
@@ -197,8 +199,6 @@
     "Journal/Daily/2024-08-18.md",
     "Journal/Daily/2024-08-17.md",
     "Journal/Daily/2024-08-16.md",
-    "Journal/Daily/2024-08-15.md",
-    "Journal/Daily/2024-08-14.md",
     "parser",
     "Travel/Japan/districts",
     "files/Pasted image 20240527111844.png",

@@ -16,7 +16,6 @@ const theNotePath = Path.join(currentPath, "TheNote.md");
 
 const todaysDate = new Date().toISOString().split('T')[0];
 const today = Path.join(currentPath, `Daily/${todaysDate}.md`);
-const yesterday = Path.join(currentPath, `Daily/2024-08-25.md`);
 
 
 async function newEntry(notePath: string) {
@@ -63,7 +62,6 @@ async function newEntry(notePath: string) {
         }
       ],
       temperature: 1,
-      max_tokens: 1000,
       top_p: 1,
       frequency_penalty: 0,
       presence_penalty: 0,
@@ -75,9 +73,6 @@ async function newEntry(notePath: string) {
 }
 
 (async () => {
-  await newEntry(yesterday);
-  // make a copy of the note for the next day
-  fs.copyFileSync(theNotePath, theNotePath.replace('.md', '-copy.md'));
   await newEntry(today);
 })()
   .catch((error) => console.error(error));
