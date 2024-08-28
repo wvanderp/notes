@@ -21,10 +21,10 @@ const today = Path.join(currentPath, `Daily/${todaysDate}.md`);
 async function newEntry(notePath: string) {
   const systemPrompt = `
     You are creating a dossier from notes written by a client.
+    The goal is to create a document that thoroughly describes the client.
     Keep rewriting the dossier to include the new information from the notes.
     Keep memorable quotes and important information.
-    Build up a detailed picture of the client.
-    Discard irrelevant information.
+    Dont copy or summarize the notes, but rewrite the information already preset in the note to include the new information.
     The notes can be as long as you need them to be.`;
 
     const theNote = fs.readFileSync(theNotePath, 'utf8');
@@ -47,7 +47,7 @@ async function newEntry(notePath: string) {
           "content": [
             {
               "type": "text",
-              "text": `The Dossier: ${theNote}`
+              "text": `dossier aka The Note:\n${theNote}`
             }
           ]
         },
@@ -56,7 +56,7 @@ async function newEntry(notePath: string) {
           "content": [
             {
               "type": "text",
-              "text": `Todays Notes: ${todaysEntry}`	
+              "text": `Todays Notes:\n${todaysEntry}`	
             }
           ]
         }

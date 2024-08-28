@@ -4,33 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "63f188ca7c6a701c",
+        "id": "afefe5ef78f82c9f",
         "type": "tabs",
         "children": [
           {
-            "id": "6f4ae4ac21bf1f18",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "graph",
-              "state": {},
-              "pinned": true
-            }
-          },
-          {
-            "id": "b0fcb055a8f51dd6",
+            "id": "30815968f149f8a9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/Daily/2024-08-27.md",
+                "file": "Journal/Daily/2024-08-28.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7d988622325cd0bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daynote.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -59,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Gangnam Station",
+                "query": "auteur",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -96,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/Daily/2024-08-27.md",
+                "file": "Journal/Daily/2024-08-28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/Daily/2024-08-27.md",
+                "file": "Journal/Daily/2024-08-28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/Daily/2024-08-27.md"
+                "file": "Journal/Daily/2024-08-28.md"
               }
             }
           },
@@ -152,7 +153,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,54 +167,54 @@
       "random-note:Open random note": false
     }
   },
-  "active": "b0fcb055a8f51dd6",
+  "active": "30815968f149f8a9",
   "lastOpenFiles": [
-    "Journal/Daily/2024-08-26.md",
-    "daynote.md",
-    "Journal/Daily/2024-08-27.md",
-    "Journal/TheNote-copy.md",
-    "Journal/TheNote.md",
-    "Journal/Template/TheNote/TheNote.ts",
-    "Journal/Template/TheNote/Daily.ts",
-    "Journal/Template/TheNote",
-    "stories",
-    "git-crypt.key",
-    "Journal/Daily/2024-08-25.md",
-    "stories/taylor.crypt.md",
-    "stories.crypt.md",
-    "New folder",
     "Ideas/Tugboat Simulation System.md",
+    "daynote.md",
+    "Journal/Daily/2024-08-28.md",
+    "Journal/Daily/2024-08-27.md",
+    "Journal/Daily/2024-08-26.md",
+    "Journal/Daily/2024-08-25.md",
+    "conflict-files-obsidian-git.md",
+    "follow-up.md",
+    "Journal/TheNote.md",
+    "Journal/TheNote-copy.md",
+    "Journal/Template/TheNote/TheNote.ts",
+    "Journal/Template/TheNote",
     "Ideas/Git data logger.md",
-    "Travel/Japan/cities/Kyoto.md",
-    "Travel/Japan/cities/Seoul.md",
-    "Travel/Japan/cities/other.md",
-    "Travel/Japan/cities/Busan.md",
-    "Information/airportCodes.md",
-    "Journal/Weekly/2024-34.md",
-    "Journal/Weekly/2024-33.md",
-    "Journal/Daily/2024-08-24.md",
-    "Journal/Daily/2024-08-23.md",
-    "Journal/Daily/2024-08-22.md",
-    "Journal/Daily/2024-08-21.md",
-    "Journal/Daily/2024-08-20.md",
-    "Journal/Daily/2024-08-19.md",
-    "Journal/Daily/2024-08-18.md",
-    "Journal/Daily/2024-08-17.md",
-    "Journal/Daily/2024-08-16.md",
-    "parser",
+    "Untitled",
+    "Journal/Daily/2024-08-05.md",
+    "Journal/Daily/2024-07-22.md",
+    "Journal/Daily/2024-07-21.md",
+    "Journal/Daily/2024-07-15.md",
+    "Journal/Daily/2024-07-30.md",
+    "Journal/Daily/2024-07-28.md",
+    "Journal/Daily/2024-07-09.md",
+    "Journal/Daily/2024-07-06.md",
+    "Journal/Daily/2024-07-29.md",
+    "Journal/Daily/2024-07-16.md",
+    "Journal/Daily/2024-07-03.md",
+    "Literature/The Choice I Made, Straight Up.md",
+    "Journal/Daily/2024-07-05.md",
+    "Journal/Daily/2024-06-26.md",
+    "Journal/Weekly/2024-27.md",
     "Travel/Japan/districts",
-    "files/Pasted image 20240527111844.png",
-    "files/chrome_SfFMHJBiK6.png",
-    "files/Pasted image 20240804214752.png",
     "files/chrome_inb6rQCS2D.png",
     "files/chrome_gXbNkWYeea.png",
     "files/chrome_SfFMHJBiK6.png",
     "files/chrome_EBpYN30wIM.png",
     "files/chrome_C8ROOtEilw.png",
     "files/chrome_AgmbxhOEfv.png",
+    "files/Pasted image 20240804214752.png",
+    "files/Pasted image 20240804210818.png",
     "Travel/Japan/atractions",
     "Travel/Japan/cities",
-    "Blog posts/Pasted image 20240624224819.png",
+    "Travel/Japan/Tours",
+    "Travel/Japan",
+    "Travel",
+    "Scripts and Guides/files/har download button.png",
+    "Scripts and Guides/files",
+    "Creative vibes/Vibes-for-my-dystopian-sci-fi-movie-files/deuchland.avif",
     "Untitled.canvas"
   ]
 }

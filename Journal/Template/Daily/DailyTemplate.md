@@ -12,10 +12,6 @@ author:
 
 {{Summary}}
 
-## Questions about yesterday
-
-{{GeneralQuestions}}
-
 ## What happened today?
 
 **What did you have for dinner**: 
@@ -24,7 +20,7 @@ author:
 **Were you on time for work?**: 
 {{/if}}
 {{#if isShowerDay}}
-**Did you shower?**:
+**Did you shower?**: 
 {{/if}}
 
 ## What did you do today?
@@ -36,13 +32,17 @@ author:
 {{/if}}
 **Evening**: 
 
+## Questions about yesterday
+
+{{GeneralQuestions}}
+
 ## Reflections
 
 {{TherapistQuestions}}
 
 ## What did you learn today?
 
--
+- 
 
 ## The dump
 *dump any thoughts here*
