@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "afefe5ef78f82c9f",
+        "id": "a7a92f0d396d237f",
         "type": "tabs",
         "children": [
           {
-            "id": "30815968f149f8a9",
+            "id": "987785edf76f5ef4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/Daily/2024-08-28.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7d988622325cd0bd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daynote.md",
+                "file": "Information/Frequencies for silent discos.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/Daily/2024-08-28.md",
+                "file": "Information/Frequencies for silent discos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/Daily/2024-08-28.md",
+                "file": "Information/Frequencies for silent discos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/Daily/2024-08-28.md"
+                "file": "Information/Frequencies for silent discos.md"
               }
             }
           },
@@ -167,8 +155,11 @@
       "random-note:Open random note": false
     }
   },
-  "active": "30815968f149f8a9",
+  "active": "987785edf76f5ef4",
   "lastOpenFiles": [
+    "Information/Frequencies for silent discos.md",
+    "daynote.md",
+    "Journal/Daily/2024-08-28.md",
     "Journal/Weekly/2024-35.md",
     "Journal/Daily/2024-09-06.md",
     "Journal/Daily/2024-09-05.md",
@@ -182,8 +173,6 @@
     "Stories/becoming Jess.crypt.md",
     "Stories",
     "Ideas/Tugboat Simulation System.md",
-    "daynote.md",
-    "Journal/Daily/2024-08-28.md",
     "Journal/Daily/2024-08-27.md",
     "Journal/Daily/2024-08-26.md",
     "Journal/Daily/2024-08-25.md",
@@ -198,7 +187,6 @@
     "Journal/Daily/2024-08-05.md",
     "Journal/Daily/2024-07-22.md",
     "Journal/Daily/2024-07-21.md",
-    "Journal/Daily/2024-07-15.md",
     "Travel/Japan/districts",
     "files/chrome_inb6rQCS2D.png",
     "files/chrome_gXbNkWYeea.png",
