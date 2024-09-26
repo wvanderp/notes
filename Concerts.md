@@ -23,4 +23,3 @@ FLATTEN artist
 GROUP BY artist
 SORT length(rows) DESC
 ```
-
