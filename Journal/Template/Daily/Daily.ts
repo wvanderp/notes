@@ -14,6 +14,9 @@ const currentPath = Path.join(__dirname, '../../');
 
 async function newTemplate() {
 
+  // force the program to generate a new template even if the previous one was not filled out
+  const force = process.argv.includes('--force');
+
   const goals = fs.readFileSync(Path.join(currentPath, "Goals.md"), 'utf8');
 
   const todaysDate = new Date().toISOString().split('T')[0];
@@ -21,11 +24,19 @@ async function newTemplate() {
   const yesterdaysDate = new Date(new Date(todaysDate).getTime() - 24 * 60 * 60 * 1000).toISOString().split('T')[0];
   const yesterdaysPath = Path.join(currentPath, `Daily/${yesterdaysDate}.md`);
 
-  if (!fs.existsSync(yesterdaysPath)) {
+  if (!fs.existsSync(yesterdaysPath) && !force) {
     console.log(`No entry found for ${yesterdaysDate}.`);
     return;
   }
-  const yesterdaysEntry = fs.readFileSync(yesterdaysPath, 'utf8');
+
+  const yesterdaysEntry = fs.existsSync(yesterdaysPath) ? fs.readFileSync(yesterdaysPath, 'utf8') : 'There is no entry for yesterday. so please generate a new template with this in mind.';
+
+  // if yesterdays entry contains the fill out canary, that means we did not fill out the template and so we should not generate a new one
+  // unless we force it with the force flag
+  if (yesterdaysEntry.includes('fill out canary') && !force) {
+    console.log(`Template for ${yesterdaysDate} was not filled out.`);
+    return;
+  }
 
   const summary = await generateSummary(yesterdaysEntry);
   const TherapistQuestions = await generateTherapistTemplate(summary, goals);
