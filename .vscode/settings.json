@@ -25,8 +25,9 @@
         "Westerbork",
         "wikidata"
     ],
-    "cSpell.language": "en,nl",
+    "cSpell.language": "en,nl,en-GB",
+    "editor.formatOnSave": true,
     "search.exclude": {
         "**/.obsidian": true
-    },
+    }
 }
