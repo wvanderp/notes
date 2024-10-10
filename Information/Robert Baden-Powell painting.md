@@ -1,16 +1,15 @@
-There is this painting of baden powell.
+There is this painting of Baden Powell.
 
 ![[https://d3d00swyhr67nd.cloudfront.net/w944h944/collection/LNE/TSA/LNE_TSA_TSA_2119-001.jpg]]
 
-but nobody seems to have a high resolution photo of it.
+But nobody has a high-resolution photo of it.
 
 <https://artuk.org/discover/artworks/lord-baden-powell-18571941-as-world-chief-scout-135262>
 
-This page seems to have the most information about it.
+This page has the most information about it.
 
-it states that painting is part of the collection of `The Scouts Heritage Service` located at gillwell park
+It states that the painting is part of the `The Scouts Heritage Service` collection located at Gillwell Park.
 
-## painter
+## Painter
 
-the painter is suposibly `David Jagger` it does fit his style.
-
+The painter is supposably `David Jagger`. It does fit his style.

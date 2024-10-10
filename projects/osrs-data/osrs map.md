@@ -5,7 +5,7 @@ tags:
 
 # OSRS Map
 
-The idea here is to recreate the map view from old school runescape from scratch and then integrate other features into it.
+The idea here is to recreate the map view from old school Runescape from scratch and then integrate other features into it.
 
 The steps are:
 
@@ -18,7 +18,7 @@ The steps are:
 
 How the hell do we work the the caches
 
-## useful links
+## Useful links
 
 <https://archive.openrs2.org/>
 To find cashes
