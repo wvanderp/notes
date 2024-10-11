@@ -45,7 +45,6 @@ The Stone
 }
 ```
 
-
 OK Café
 
 OK express
@@ -57,14 +56,9 @@ Threeforce
 
 Kindergarden
 
-
 TotalEnergies CNG Express
 
-
 Deprecate any atm other then geldmaat
-
-
-Pets Place - Boerenbond
 
 Avia Truck
 
@@ -82,9 +76,6 @@ SPAR express
 Enexis
 car charger
 
-
-Boon's Markt
-
 Range Charging
 
 Aers energy
@@ -92,6 +83,3 @@ Aers energy
 E-laad
 
 Praxis City
-
-Lucardi Juwelier
-drop the Juwelier

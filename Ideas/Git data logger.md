@@ -1,7 +1,7 @@
 ---
 author:
-  - chatgpt 4o
-  - me
+  - ChatGPT 4o
+  - Me
 ---
 
 ## Application Specification Summary

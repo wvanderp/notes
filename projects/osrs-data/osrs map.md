@@ -31,3 +31,7 @@ Documentation from osrs wiki
 
 <https://docs.google.com/document/d/1xv7iVBkG6eWDrXFhIYi77AVodJc0D-4Aqn0ncZXKJfw/edit#heading=h.kk1966kbedef>
 A doc describing the process of creating the map in general and some other ideas
+
+**shortest path plugin**
+the shortest path plugin has a easy way of generating the collision map
+https://github.com/Skretzo/shortest-path/issues/15

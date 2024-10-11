@@ -1,3 +1,9 @@
+---
+tags:
+  - Itinerary
+author: kaifromjapan01
+---
+
 <BEST 5-Day Itinerary in TOKYO>
 Day1: SHIBUYA
 🛣[[Shibuya Scramble Crossing]]

@@ -4,12 +4,13 @@ tags:
 author:
     - zoetheolive
     - ChatGPT 4o
-    - ChatGPT O1
+    - ChatGPT o1-preview
+    - Me
 ---
 
-**Creamy Pesto Chicken Spaghetti**
+# Creamy Pesto Chicken Spaghetti
 
-**Ingredients:**
+## Ingredients
 
 - **For the Chicken:**
   - 2 boneless, skinless chicken breasts (approximately 400g total)
@@ -29,7 +30,7 @@ author:
   - 100g fresh spinach leaves
   - Grated Parmesan cheese (optional, for serving)
 
-**Instructions:**
+## Instructions
 
 1. **Preparation (15 minutes):**
    - **Boil Water for Pasta:**
@@ -98,7 +99,7 @@ author:
 
 **Total Time:** Approximately 40 minutes
 
-**Notes:**
+## Notes
 
 - **Cooking Times:** Actual cooking times may vary slightly based on your stove and cookware.
 - **Pasta Water:** The reserved pasta water contains starch, which helps the sauce adhere better to the pasta.
