@@ -16,3 +16,15 @@ Matthijs heeft Borsele en wouter Oekraïne
 Oekraïne moet volwaardig lid zijn
 en bij Borssele moet er een reactor bijkomen
 2 euro
+
+---
+
+Matthijs 
+
+wouter zegt Harris electorale collage, Trump popular vote.
+
+Matthijs heeft pressies het omgedraaide.
+
+de verliezer moet op de aankomende japan trip een souvenir kopen voor de ander voor een budget van 50 euro per gewonnen voorspelling.
+
+het kan dus zijn dat voor elkaar een Souvenir moeten kopen van 50 of een iemand van 100 euro
