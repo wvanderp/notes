@@ -282,3 +282,35 @@ If there is no Wikidata item for the operator, then you can mark the task as `no
 ```markdown
 Check on the chargers without an operator wikidata tag
 ```
+
+## Netherlands - Playground with deprecated tags
+
+```overpassql
+[out:json][timeout:25];
+
+area(id:3600047796)->.searchArea;
+
+nwr["playground:theme"="playground"](area.searchArea);
+
+out meta geom;
+```
+
+```markdown
+In this challenge, we remove the deprecated tags from the playgrounds.
+```
+
+```markdown
+In this challenge, we remove the deprecated tags from the playgrounds.
+
+The `playground:theme=playground` tag is deprecated because its implied by the `leisure=playground` tag.
+
+Use ID to check on the playground and make the recommended changes.
+
+In addition, you can fix any additional errors reported by ID.
+
+If the playground does not exist in the name suggestion index, then it will not show in the ID.
+```
+
+```markdown
+Check on the playgrounds with deprecated tags
+```
