@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "32fcaa6a9b21442f",
+        "id": "c5735d79825228ec",
         "type": "tabs",
         "children": [
           {
-            "id": "3ef71dfe4403e29e",
+            "id": "f553afe2f7dc9c0d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/osrs-data/Understanding-the-cache.md",
+                "file": "Travel/Japan/Tickets.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/osrs-data/Understanding-the-cache.md",
+                "file": "Travel/Japan/Tickets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/osrs-data/Understanding-the-cache.md",
+                "file": "Travel/Japan/Tickets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/osrs-data/Understanding-the-cache.md"
+                "file": "Travel/Japan/Tickets.md"
               }
             }
           },
@@ -154,13 +154,16 @@
       "random-note:Open random note": false
     }
   },
-  "active": "3ef71dfe4403e29e",
+  "active": "f553afe2f7dc9c0d",
   "lastOpenFiles": [
+    "Travel/Japan/things to investigate.md",
+    "Travel/Japan/Tickets.md",
+    "Projects/osrs-data/Understanding-the-cache.md",
+    "stories/High School Reunion.crypt.md",
     "Projects/osrs-data/osrs-db.md",
     "Projects/osrs-data/osrs map.md",
     "stories/Dreams of Becoming Her.crypt.md",
     "Projects/osrs-map/osrs map.md",
-    "Projects/osrs-data/Understanding-the-cache.md",
     "Projects/osrs-data",
     "hacktoberfest-projects.md",
     "stories/faltyMemories.crypt.md",
@@ -182,9 +185,6 @@
     "Recipes/Pasta-pesto-with-Chicken.md",
     "Journal/Weekly/2024-37.md",
     "Journal/Weekly/2024-36.md",
-    "Journal/Weekly/2024-35.md",
-    "Journal/Daily/2024-09-19.md",
-    "Journal/Daily/2024-09-18.md",
     "Journal/Template/TheNote/TheNote.ts",
     "Journal/Template/TheNote/Daily.ts",
     "Journal/Template/TheNote",
