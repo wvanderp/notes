@@ -14,7 +14,7 @@ It should consist of two types of data:
 
 **Personal note**: You already have some code written for this. It's called `runegraph`. There is also a potential repo at <https://github.com/wvanderp/runegraph>.
 
-There is also code in a folder called `osrs-db,` which is currently not on Git Hub.
+There is also code in a folder called `osrs-db`, which is currently not on GitHub.
 
 ## Static data
 

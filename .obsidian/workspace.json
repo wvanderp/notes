@@ -4,19 +4,93 @@
     "type": "split",
     "children": [
       {
-        "id": "c5735d79825228ec",
+        "id": "993f6760826a35a7",
         "type": "tabs",
         "children": [
           {
-            "id": "f553afe2f7dc9c0d",
+            "id": "898e17ee65ff860b",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Medical/supplements/overview.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "overview"
+            }
+          },
+          {
+            "id": "d36cf862b835e495",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Travel/Japan/Tickets.md",
+                "file": "Medical/supplements/sources/Kruidvat Omega 3.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Kruidvat Omega 3"
+            }
+          },
+          {
+            "id": "f2b34ca9537b1407",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Medical/supplements/sources/Kruidvat Multi A-Z Compleet.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Kruidvat Multi A-Z Compleet"
+            }
+          },
+          {
+            "id": "e18e978499ee44bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Medical/supplements/sources/Kruidvat Vitamine D3 20mcg.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Kruidvat Vitamine D3 20mcg"
+            }
+          },
+          {
+            "id": "1b850d6663020344",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Medical/supplements/sources/Kruidvat Calcium Magnesium Zink.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Kruidvat Calcium Magnesium Zink"
+            }
+          },
+          {
+            "id": "b3b47cc4ecbfdbd3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Medical/supplements/sources/Kruidvat Pre- & Probiotica Capsules.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Kruidvat Pre- & Probiotica Capsules"
             }
           }
         ]
@@ -39,7 +113,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -48,13 +124,15 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "osrs",
+                "query": " Zinc",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,10 +140,13 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Travel/Japan/Tickets.md",
+                "file": "Medical/supplements/overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +174,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for overview"
             }
           },
           {
@@ -102,10 +185,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Travel/Japan/Tickets.md",
+                "file": "Projects/osrs-data/osrs map.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from osrs map"
             }
           },
           {
@@ -116,7 +201,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -125,8 +212,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Travel/Japan/Tickets.md"
-              }
+                "file": "Projects/osrs-data/osrs map.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of osrs map"
             }
           },
           {
@@ -134,7 +223,9 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
-              "state": {}
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ]
@@ -154,14 +245,29 @@
       "random-note:Open random note": false
     }
   },
-  "active": "f553afe2f7dc9c0d",
+  "active": "898e17ee65ff860b",
   "lastOpenFiles": [
-    "Travel/Japan/things to investigate.md",
+    "Medical/supplements/sources/Kruidvat Multi A-Z Compleet.md",
+    "Medical/supplements/overview.md",
+    "Medical/supplements/sources/Kruidvat Pre- & Probiotica Capsules.md",
+    "Medical/supplements/sources/Kruidvat Omega 3.md",
+    "Medical/supplements/sources/Kruidvat Calcium Magnesium Zink.md",
+    "Medical/supplements/sources/Kruidvat Vitamine D3 20mcg.md",
+    "Medical/supplements/sources/Lucovitaal Libido Support Vrouw Tabletten.md",
+    "Medical/supplements/Kruidvat Probiotica.md",
+    "Medical/supplements/sources/Kruidvat Vitamine B-100 Complex.md",
+    "Concerts.md",
+    "template/Supplement.md",
+    "Medical/supplements/sources/Kruidvat Fatburner Capsules.md",
+    "Medical/supplements/sources/Kruidvat Zink Tabletten.md",
+    "Medical/supplements/sources",
+    "Medical/supplements",
+    "Projects/osrs-data/osrs map.md",
     "Travel/Japan/Tickets.md",
     "Projects/osrs-data/Understanding-the-cache.md",
+    "Travel/Japan/things to investigate.md",
     "stories/High School Reunion.crypt.md",
     "Projects/osrs-data/osrs-db.md",
-    "Projects/osrs-data/osrs map.md",
     "stories/Dreams of Becoming Her.crypt.md",
     "Projects/osrs-map/osrs map.md",
     "Projects/osrs-data",
@@ -170,28 +276,13 @@
     "stories/blackCoffee.crypt.md",
     "Journal/Weekly/2024-40.md",
     "Journal/Weekly/2024-39.md",
-    "Journal/Weekly/2024-38.md",
-    "Investigations/WSJ 2023/README.md",
     "Investigations/WSJ 2023",
-    "Investigations/Amerikaanse-wetten.md",
     "Investigations",
-    "Information/Robert Baden-Powell painting.md",
-    "stories/becoming Jess.crypt.md",
-    "Travel/Japan/Tours/kaifromjapan01.md",
-    "Travel/Japan/Tours/Abercrombie & Kent - Classic Japan.md",
-    "MAMAMOO.md",
-    "Journal/Daily/2024-08-27.md",
-    "follow-up.md",
-    "Recipes/Pasta-pesto-with-Chicken.md",
-    "Journal/Weekly/2024-37.md",
-    "Journal/Weekly/2024-36.md",
     "Journal/Template/TheNote/TheNote.ts",
     "Journal/Template/TheNote/Daily.ts",
     "Journal/Template/TheNote",
     "stories",
     "git-crypt.key",
-    "New folder",
-    "parser",
     "files/Pasted image 20240527111844.png",
     "files/chrome_SfFMHJBiK6.png",
     "files/Pasted image 20240804214752.png",
