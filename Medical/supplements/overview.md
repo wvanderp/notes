@@ -1,4 +1,4 @@
-my goal is to get the following supplements:
+My goal is to get the following supplements:
 
 - **Multivitamin** (age and gender-specific)
 - **Vitamin B Complex**
@@ -59,7 +59,7 @@ my goal is to get the following supplements:
 
 ### Fiber Supplement
 
-**recommended daily intake**: 30 g (max recomended 15g)
+**recommended daily intake**: 30 g (max recommended 15g)
 
 **products**:
 
@@ -121,4 +121,10 @@ my goal is to get the following supplements:
 | Vitamin K             | 75     | ug   |
 | zinc                  | 32.5   | mg   |
  
+## feedback
 
+Replace magnesium oxide with some other complex
+
+Take K2 with my D3 and Magnesium to enhance the effect
+
+Magnesium Glycinate before bed
