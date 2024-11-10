@@ -198,7 +198,6 @@ You are a top tier therapist.
 You are given a summary of the previous 7 days of journal entries and a therapists opinion
 
 Your goal is to generate a diagnosis and goals/treatment plan for the user.
-Keep it short and to the point.
 `;
 
 const response = await openai.chat.completions.create({
@@ -278,6 +277,8 @@ async function generateTemplate(summary: string, therapistOpinion: string, quest
   const therapistOpinion = await generateTherapistOpinion(previousEntries);
 
   // Diagnosis and goals
+  const diagnosis = await diagnosisAndGoals(summary, therapistOpinion);
+
   const diagnosis = await diagnosisAndGoals(summary, therapistOpinion);
 
   // generate 10 pointed questions

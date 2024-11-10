@@ -1,9 +1,10 @@
 
 These are thing we need to book
 
-Hotel & Airbnb Reservations
+Hotel Reservations
 
-Tokyo Disneyland
+## Tokyo Disneyland
+two months in advance
 
 TeamLab Museums
 
@@ -17,9 +18,11 @@ car
 
 Imperial Palace
 
-**Nijō Castle**
+Nijō Castle
 
 sumo
+
+tea cermimony
 
 ## links
 

@@ -16,6 +16,10 @@
 
 {{Questions}}
 
+## Diagnosis and Treatment
+
+{{Diagnosis}}
+
 ## to do
 
 - Reflect on the set goals
