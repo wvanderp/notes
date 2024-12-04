@@ -39,6 +39,7 @@ My goal is to get the following supplements:
 
 - [[Kruidvat Calcium Magnesium Zink]] 125 mg oxide
 - [[Kruidvat Multi A-Z Compleet]] 125 mg oxide
+- [[Orthica Magnesium Bisglycinaat-120]] 240 mg glycinaat
 
 ### Omega-3 Fatty Acids (Fish Oil)
 
@@ -65,9 +66,12 @@ My goal is to get the following supplements:
 
 - [[Kruidvat Psylliumvezels]] as mutch as max
 
-### Sunflower Lecithin
+### Lecithin
 
-???
+recomended daily intake: 1.2 g
+maximum 3 g
+
+- [[Lucovitaal Soja Lecithine 1200 mg 60 capsules]] 1200 g
 
 ### zinc
 
