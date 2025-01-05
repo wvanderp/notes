@@ -323,7 +323,7 @@ Check on the playgrounds with deprecated tags
 
 ```overpassql
 [out:json][timeout:2500];
-area(id:3600047772)->.searchArea;
+area(id:3600047796)->.searchArea;
 
 nwr["highway"="speed_camera"](area.searchArea)->.all;
 (.all; - nwr.all(newer:"2021-01-01T00:00:00Z"););
@@ -344,9 +344,9 @@ But OpenStreetMap has 800+ traffic enforcement cameras. So we need to check if t
 
 This challenge points you to a camera that was last updated before 2021-01-01. Check if it's still there and that it has the correct tags.
 
-look at [the OSM Wiki for highway=speed_camera](https://wiki.openstreetmap.org/wiki/Tag:highway%3Dspeed_camera) for the correct tags
+look at [the OSM Wiki for highway=speed_camera](https://wiki.openstreetmap.org/wiki/Tag:highway%3Dspeed_camera) for the correct tags.
 ```
 
 ```markdown
-Check on old traffic enforcement cameras in the Netherlands.
+Check on old traffic enforcement cameras in the Netherlands
 ```
