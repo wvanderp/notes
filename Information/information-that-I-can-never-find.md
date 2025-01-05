@@ -1,7 +1,8 @@
 ---
 created: 2023-09-18T00:04:44+02:00
 modified: 2023-10-07T01:55:40+02:00
-alias: things I can never find
+aliases: 
+  - things I can never find
 ---
 
 # Information that I can never find

@@ -1,7 +1,11 @@
 ---
 tags:
   - OSM
+aliases:
+  - provice of the month
 ---
+
+
 
 # queries
 
@@ -313,4 +317,36 @@ If the playground does not exist in the name suggestion index, then it will not 
 
 ```markdown
 Check on the playgrounds with deprecated tags
+```
+
+## Netherlands - old traffic enforcement cameras
+
+```overpassql
+[out:json][timeout:2500];
+area(id:3600047772)->.searchArea;
+
+nwr["highway"="speed_camera"](area.searchArea)->.all;
+(.all; - nwr.all(newer:"2021-01-01T00:00:00Z"););
+
+out geom meta;
+```
+
+```markdown
+In this challenge, we look if old traffic enforcement cameras still exist
+```
+
+```markdown
+In this challenge, we examine whether old traffic enforcement cameras still exist.
+
+According to the Dutch Prosecution Office, there are around 600 traffic enforcement cameras in the Netherlands.
+
+But OpenStreetMap has 800+ traffic enforcement cameras. So we need to check if the old cameras are still in use.
+
+This challenge points you to a camera that was last updated before 2021-01-01. Check if it's still there and that it has the correct tags.
+
+look at [the OSM Wiki for highway=speed_camera](https://wiki.openstreetmap.org/wiki/Tag:highway%3Dspeed_camera) for the correct tags
+```
+
+```markdown
+Check on old traffic enforcement cameras in the Netherlands.
 ```
