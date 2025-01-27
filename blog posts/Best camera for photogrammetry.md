@@ -46,7 +46,7 @@ So it's still anyone's game.
 | ------------------------------------ | ------------------------------------ |
 | HX99                                 | Pixel 7 Pro                          |
 
-You see this nonexistent noise pattern throughout the sign that is not there on the Pixel.
+You see this non-existent noise pattern throughout the sign that is not there on the Pixel.
 
 | ![[Pasted image 20240624222227.png]] | ![[Pasted image 20240624222102.png]] |
 | ------------------------------------ | ------------------------------------ |
@@ -72,7 +72,7 @@ You can see that the HX99 shines when we zoom in, being able to capture the grid
 | ------------------------------------ | ------------------------------------ |
 | HX99                                 | Pixel 7 Pro                          |
 
-Further away, the bricks lose some definition.
+Further away the bricks lose some definition.
 
 ## Conclusion
 
