@@ -9,3 +9,5 @@ er zullen vast onderzoeken en rapporten hier over uit komen.
 ## Wat gaan ze doen met Saemangeum?
 
 het is gemaakt met een rede maar wat is dat?
+
+some kind of star city?

@@ -1,6 +1,7 @@
 ---
 tags:
   - Guide
+  - Script
 ---
 
 # Downloading from Instagram: The weird way
