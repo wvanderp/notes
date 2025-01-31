@@ -43,17 +43,3 @@ This site finds routing errors by randomly generating routes and checking if the
 The errors are the displayed on the site for us to solve
 
 <https://brouter.de/brouter/suspect_manager_help.html>
-
-## CWO boeken
-
-Keywords: zeilboek, open source cwo boek, opensource
-
-Een van de meest populaire boeken om cwo te leren is van de Katwijkse Zeeverkenners.
-Deze zijn te vinden op de website van de Katwijkse Zeeverkenners.
-<https://katwijksezeeverkenners.nl/cwo/instructieboeken/>
-
-Er is ook een fysiek boek
-<https://www.scoutshop.nl/het-zeilboek>
-
-En een opensource boek geschreven door Scouting Sint Maarten
-<https://github.com/ScoutingSintMaarten/Kielboot-Lesboeken>
