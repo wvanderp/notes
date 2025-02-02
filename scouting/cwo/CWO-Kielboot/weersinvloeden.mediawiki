@@ -1,12 +1,40 @@
 == Eisen ==
 
-- Het kunnen interpreteren van het weerbericht met betrekking tot de veiligheid van het kielboot varen, mede gezien de eigen vaardigheid.
-- Het tijdig kunnen herkennen van voortekenen van plotselinge weersomslagen zoals onweer en zware windvlagen.
-- Weten welke windsnelheden (in m/sec) horen bij de verschillende stappen van de schaal van Beaufort en omgekeerd.
-- Het verband kennen tussen de omschrijvingen die bij waarschuwingen gebruikt worden en het bovenstaande.
+''CWO 2''
+
+* Het kunnen interpreteren van het weerbericht met betrekking tot de veiligheid van het kielboot varen, mede gezien de eigen vaardigheid.
+* Het tijdig kunnen herkennen van voortekenen van plotselinge weersomslagen zoals onweer en zware windvlagen.
+
+''CWO 3''
+
+* Weten welke windsnelheden (in m/sec) horen bij de verschillende stappen van de schaal van Beaufort en omgekeerd.
+* Het verband kennen tussen de omschrijvingen die bij waarschuwingen gebruikt worden en het bovenstaande.
+
+== Wat moet je weten ==
+
+=== Weersomslagen ===
+
+'''Hoe een bui (met windvlagen) te herkennen?'''
+
+* Regen zorgt voor een grijze, donker wordende lucht.
+* Vlagen kun je zien aankomen door korte golfjes/rimpeltjes in het water die zich voortbewegen. Let hierop zodat je niet verrast wordt door plotselinge wind in de zeilen.
+* Soms valt met een bui de wind helemaal weg. Dit is te zien door luwteplekken op het water waarbij geen enkel rimpeltje te zien is. Probeer hier omheen te varen.
+
+'''Onweer herkennen'''
+
+Bij onweer zo snel mogelijk van het water af. De mast is vaak het hoogste deel op het water en bliksem zoekt vaak het hoogste punt.
+
+* Omhoog klimmende wolk, lijkend op bloemkool (Cumulonimbus wolken (gestapeld regen brengend))
+** [[:commons:File:Anvil shaped cumulus panorama edit.jpg|thumb|Cumulonimbuswolk]]
+* De lucht zal ook snel donkergrijs worden en vlak voor de bui neemt de wind toe.
 
 == Activiteiten ==
 
-Bekijk het weerbericht en kijk ofdat het veilig is om te gaan varen. Kijk ook ofdat het weer in de loop van de dag gaat veranderen.
+Bekijk het weerbericht en kijk of het veilig is om te gaan varen. Kijk ook of het weer in de loop van de dag gaat veranderen.
 
----
+<hr />
+
+Bekijk de lucht en probeer te voorspellen wat voor weer het wordt.
+
+
+{{CWO-Kielboot}}

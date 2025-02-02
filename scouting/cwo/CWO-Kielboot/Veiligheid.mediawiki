@@ -2,7 +2,7 @@
 
 ''CWO 1, 2, & 3''
 
-* Kunnen aangeven waarom het belangrijk is om bij de omgeslagen boot te blijven. 
+* Kunnen aangeven waarom het belangrijk is om bij de omgeslagen boot te blijven.
 * De eisen kennen die gesteld moeten worden aan een zwemvest (reddingvest).
 
 == Wat moet je weten ==
@@ -14,8 +14,9 @@ Alle reddingvesten moeten voldoen aan de Europese norm ISO 12402. Dit betekent d
 Maar binnen scouting houden we ons aan de volgende eisen:
 
 * Een reddingvest moet goed passen.
-** het moet niet over je hoofd kunnen schieten als je in het water valt.
+** Het moet niet over je hoofd kunnen schieten als je in het water valt.
 * Het reddingvest moet voldoende drijfvermogen hebben voor jouw gewicht.
+* Het reddingvest moet geen drijfvermogen op de rug hebben.
 * Het reddingvest moet een kraag hebben die je hoofd boven water houdt.
 * Het reddingvest moet een CE of EN keurmerk hebben.
 
@@ -25,28 +26,33 @@ Volgens de wet moet je alleen een reddingvest dragen als je in een snelle boot v
 
 Maar binnen scouting dragen wij op de volgende momenten een reddingvest:
 
-* Als je niet goed kan zwemmen
-* Als het hard waait of koud is
-* Als je regenkleding of laarzen draagt
-* Als iemand met autoriteit (de schipper, de bootsman, de leiding, of de politie) het zegt
+* Als je niet goed kan zwemmen of geen zwemdiploma hebt.
+* Als je jonger dan 11 jaar bent.
+* Als het hard waait (windkracht 5 of meer).
+* Als het water koud is (minder dan 15 graden).
+* Als je regenkleding of laarzen draagt.
+* Op stromend of getijdenwater.
+* Op groot water.
+* Als iemand met autoriteit (de schipper, de bootsman, de leiding, of de politie) het zegt.
 
-=== verplicht aan boord ===
+=== Verplicht aan boord ===
 
 Als je een snelle boot vaart (een boot die harder kan dan 20 km/u) ben je verplicht om voor iedere opvarende een reddingvest aan boord te hebben. Dit geldt ook voor de schipper.<ref>https://wetten.overheid.nl/jci1.3:c:BWBR0003628&deel=I&hoofdstuk=8&artikel=8.03&z=2025-01-01&g=2025-01-01</ref>
-De schipper is zelfs verplicht om het reddingvest te dragen. <ref>https://wetten.overheid.nl/jci1.3:c:BWBR0003628&deel=I&hoofdstuk=8&artikel=8.05&z=2025-01-01&g=2025-01-01</ref>
+De schipper is zelfs verplicht om het reddingvest te dragen.<ref>https://wetten.overheid.nl/jci1.3:c:BWBR0003628&deel=I&hoofdstuk=8&artikel=8.05&z=2025-01-01&g=2025-01-01</ref>
 
 === Wat moet je doen bij een omgeslagen boot ===
 
-Als de boot omslaat moet je bij de boot blijven. Dit is belangrijk omdat:
+Als de boot omslaat, moet je bij de boot blijven. Dit is belangrijk omdat:
 
-Telt of iedereen boven gekomen is
+* Tel of iedereen boven gekomen is.
+* Blijf rustig, de boot is toch al omgeslagen.
+* Blijf bij de boot.
+** De boot is makkelijker te zien dan een persoon in het water.
+** De boot blijft drijven en voorkomt dat je vermoeid raakt.
+** Het is gevaarlijk om naar de kant te zwemmen in verband met kramp, onderkoeling en vermoeidheid.
 
-
-Bij de boot blijven is belangrijk omdat:
-
-* De boot is makkelijker te zien dan een persoon in het water
-* De boot blijft drijven en voorkomt dat je vermoeid raakt
-* Het gevaarlijk is om naar de kant te zwemmen in verband met kramp, onderkoeling en vermoeidheid
+Je kan de boot weer omdraaien door op de zijkant van de boot te klimmen en dan met je gewicht de boot weer recht te trekken.
+Als dit niet lukt, kan je eerst je zeilen naar beneden halen en dan de boot omdraaien.
 
 == Media ==
 
@@ -58,8 +64,14 @@ Video van een omgeslagen lelievlet
 
 Bekijk een reddingvest en zoek de volgende onderdelen op:
 
-- fluitje
-- reflecterende strips
-- kraag
-- banden
-- Reet
+- Fluitje
+- Reflecterende strips
+- Kraag
+- Banden
+- Kruisband
+
+== Bronnen ==
+<references />
+
+
+{{CWO-Kielboot}}

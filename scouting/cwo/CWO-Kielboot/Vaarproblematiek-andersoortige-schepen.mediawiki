@@ -1,50 +1,58 @@
 == Eisen ==
 
-''CWO 2, & 3''
+''CWO 2 & 3''
 
-- Het gevaar kennen van de dode hoek en de zuiging van grote schepen.
-- Weten dat grote schepen (o.a. ten gevolge van hun diepgang) op smal vaarwater niet uit kunnen wijken.
-- Weten dat ook grote vrachtschepen sterk kunnen verlijeren.
-
+* Het gevaar kennen van de dode hoek en de zuiging van grote schepen.
+* Weten dat grote schepen (o.a. ten gevolge van hun diepgang) op smal vaarwater niet uit kunnen wijken.
+* Weten dat ook grote vrachtschepen sterk kunnen verlijeren.
 
 == Media ==
 
 === Zicht vanaf een groot schip ===
 
-varen doe je samen over zicht tijdens het varen.
+Varen doe je samen over zicht tijdens het varen.
 
 {{#ev:youtube|id=lSkBp79skVQ}}
 
----
+<hr />
 
 [[https://i.ytimg.com/vi/UrKAQ5p80XU/maxresdefault.jpg]]
 
 === Zuiging van een groot schip ===
 
-zie hoe bij deze video de boten naar elkaar toe worden getrokken door de zuiging van het schip.
+Zie hoe bij deze video de boten naar elkaar toe worden getrokken door de zuiging van het schip.
 
 {{#ev:youtube|id=NdXNBMwO5pc}}
 
----
+<hr />
 
-Bij binnen vaarders is dit effect groter.
+Bij binnenvaarders is dit effect groter.
 
 {{#ev:youtube|id=fey-gnlMCh8}}
 
 === Diepgang van een groot schip ===
 
+De meeste binnenvaarders hebben een diepgang tussen de drie en vier meter. <ref>https://www.binnenvaartkennis.nl/wp-content/uploads/2021/03/Scheepstypen.pdf</ref>
+Dit betekent dat zij gelimiteerd zijn in hun vaarwater en dus soms niet uit kunnen wijken.
 
-=== invloed van de wind op een groot schip ===
+=== Invloed van de wind op een groot schip ===
 
-op deze video is goed te zien hoeveel invloed de wind heeft op een groot schip.
+Op deze video is goed te zien hoeveel invloed de wind heeft op een groot schip.
 
 {{#ev:youtube|id=a6V33U6woFo}}
 
 == Activiteiten ==
 
-pak een waterkaart en bekijk de vaarwegen in de buurt. Kijk waar de grote schepen varen en waar de smalle vaarwegen zijn. Bedenk wat je moet doen als je een groot schip tegenkomt op een smal vaarwater.
+Pak een waterkaart en bekijk de vaarwegen in de buurt. Kijk waar de grote schepen varen en waar de smalle vaarwegen zijn. Bedenk wat je moet doen als je een groot schip tegenkomt op een smal vaarwater.
 
----
+<hr />
 
-bekijk hoe groot de dode hoek van een auto is.
-Bedenk ook ofdat een lelievlet een dode hoek heeft en waar deze zit.
+Bekijk hoe groot de dode hoek van een auto is.
+Bedenk ook of een lelievlet een dode hoek heeft en waar deze zit.
+
+== Bronnen ==
+
+<references />
+
+
+{{CWO-Kielboot}}
