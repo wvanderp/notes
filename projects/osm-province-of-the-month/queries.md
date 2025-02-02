@@ -2,18 +2,14 @@
 tags:
   - OSM
 aliases:
-  - provice of the month
+  - province of the month
 ---
-
-
 
 # queries
 
-`Friesland`
-
-```markdown
-This is a project for [Provincie van de Maand - Friesland](https://community.openstreetmap.org/t/provincie-van-de-maand-friesland/109936/1)
-```
+Originally this was a collection of queries for the province of the month project.
+I would manually edit these queries and create new projects for each province.
+But now I switched to just creating one project for the whole of the Netherlands.
 
 ## Netherlands - Unmarked crossings
 
@@ -35,9 +31,9 @@ In this challenge, we look at unmarked crossings.
 ```markdown
 In this challenge, we look at unmarked crossings.
 
-Use ID to check on the crossing and make the recommended changes.
+Use iD to check on the crossing and make the recommended changes.
 
-In addition, you can look to mark how crossing is actually marked.
+In addition, you can look to mark how the crossing is actually marked.
 
 `crossing:markings=no`  
 `crossing:markings=zebra`  
@@ -46,7 +42,7 @@ In addition, you can look to mark how crossing is actually marked.
 ```
 
 ```markdown
-looking at unmarked crossings
+Looking at unmarked crossings
 ```
 
 ## Netherlands - Roof without a layer
@@ -68,13 +64,13 @@ In this challenge, we look at roofs without layer tags.
 ```markdown
 In this challenge, we look at roofs without layer tags.
 
-Use ID to check on the roof and make the recommended changes.
+Use iD to check on the roof and make the recommended changes.
 
-In addition, you can fix any additional errors reported by ID.
+In addition, you can fix any additional errors reported by iD.
 ```
 
 ```markdown
-Looking at roofs without layer tag
+Looking at roofs without layer tags
 ```
 
 ## Netherlands - Geldmaat
@@ -90,31 +86,30 @@ out meta geom;
 ```
 
 ```markdown
-In this challenge, we check on the ATMs in Drenthe.
+In this challenge, we check on the ATMs in the Netherlands.
 ```
 
 ```markdown
-In this challenge, we check on the ATMs in Drenthe.
+In this challenge, we check on the ATMs in the Netherlands.
 
-Check on the available image sources in ID, like Mapillary and Bing.
+Check on the available image sources in iD, like Mapillary and Bing.
 
 Geldmaat has a map available at:
 https://www.locatiewijzer.geldmaat.nl/nl/
 
-Geldmaat started replacing ATMs around 2019 and finished in 2022. so keep this in mind when researching
+Geldmaat started replacing ATMs around 2019 and finished in 2022, so keep this in mind when researching.
 
-It can also happen that the atm is removed.
+It can also happen that the ATM is removed.
 ```
 
 ```markdown
-Check on all Not Geldmaat ATMs
+Check on all non-Geldmaat ATMs
 ```
 
 ## Netherlands - No wikidata for brand or operator
 
 ```overpassql
-[out:json]
-[timeout:25000];
+[out:json][timeout:25000];
 area(id:3600047796)->.searchArea;
 (
   node
@@ -146,25 +141,25 @@ out meta geom;
 ```
 
 ```markdown
-In this challenge, we if all the brands and operators have a wikidata tag
+In this challenge, we check if all brands and operators have a wikidata tag.
 ```
 
 ```markdown
 In this challenge, we look at objects that already have a brand or operator but no `brand:wikidata` or `operator:wikidata` tags. 
 
-Use the features of the ID editor to your advantage.
+Use the features of the iD editor to your advantage.
 
-If the brand does not exist in the name suggestion index, then it will not show in the ID.
+If the brand does not exist in the Name Suggestion Index, it will not show in iD.
 Please leave a comment if that is the case.
 
-If there is no Wikidata item for the brand, then you can mark the task as `no issue`.
+If there is no Wikidata item for the brand, mark the task as `no issue`.
 ```
 
 ```markdown
-add wikidata to brands and operators
+Add wikidata to brands and operators
 ```
 
-## Netherlands - parking spaces with a weird capacity
+## Netherlands - Parking spaces with a weird capacity
 
 ```overpassql
 [out:json][timeout:60];
@@ -216,7 +211,7 @@ In this challenge, we look at missing street names.
 
 Add the street name to the street.
 The street can be a continuation of a street that already has a name.
-Or look at Open streetview images, like Mapillary or KartaView, to see if the street has a sign.
+Or look at OpenStreetView images, like Mapillary or KartaView, to see if the street has a sign.
 
 If you can't find the street name, then mark the task as `Could not complete`.
 If the street has no name, then think of applying the `noname=yes` tag.
@@ -246,9 +241,9 @@ In this challenge, we look at ongoing construction.
 
 Check if the construction is still ongoing.
 
-If the construction is still ongoing, think of applying the `check_date` with the date of the source.
+If it is, consider applying the `check_date` tag with the date of your source.
 
-If the construction is finished, then remove the `construction` tag and apply any appropriate tags.
+If the construction is finished, remove the `construction` tag and apply any appropriate tags.
 ```
 
 ```markdown
@@ -268,19 +263,19 @@ out meta geom;
 ```
 
 ```markdown
-In this challenge, we look at chargers without an operator wikidata tag.
+In this challenge, we look at charging stations without an operator wikidata tag.
 ```
 
 ```markdown
-In this challenge, we look at chargers without an operator wikidata tag.
+In this challenge, we look at charging stations without an operator wikidata tag.
 
-Use ID to check on the charger and make the recommended changes.
+Use iD to check the charging station and make the recommended changes.
 
-In addition, you can fix any additional errors reported by ID.
+In addition, you can fix any additional errors reported by iD.
 
-If the operator does not exist in the name suggestion index, then it will not show in the ID.
+If the operator does not exist in the Name Suggestion Index, it will not show in iD.
 
-If there is no Wikidata item for the operator, then you can mark the task as `no issue`.
+If there is no Wikidata item for the operator, mark the task as `no issue`.
 ```
 
 ```markdown
@@ -306,20 +301,20 @@ In this challenge, we remove the deprecated tags from the playgrounds.
 ```markdown
 In this challenge, we remove the deprecated tags from the playgrounds.
 
-The `playground:theme=playground` tag is deprecated because its implied by the `leisure=playground` tag.
+The `playground:theme=playground` tag is deprecated because it's implied by the `leisure=playground` tag.
 
-Use ID to check on the playground and make the recommended changes.
+Use iD to check on the playground and make the recommended changes.
 
-In addition, you can fix any additional errors reported by ID.
+In addition, you can fix any additional errors reported by iD.
 
-If the playground does not exist in the name suggestion index, then it will not show in the ID.
+If the playground does not exist in the Name Suggestion Index, then it will not show in iD.
 ```
 
 ```markdown
 Check on the playgrounds with deprecated tags
 ```
 
-## Netherlands - old traffic enforcement cameras
+## Netherlands - Old traffic enforcement cameras
 
 ```overpassql
 [out:json][timeout:2500];
@@ -332,19 +327,19 @@ out geom meta;
 ```
 
 ```markdown
-In this challenge, we look if old traffic enforcement cameras still exist
+In this challenge, we examine whether old traffic enforcement cameras still exist.
 ```
 
 ```markdown
 In this challenge, we examine whether old traffic enforcement cameras still exist.
 
-According to the Dutch Prosecution Office, there are around 600 traffic enforcement cameras in the Netherlands.
+According to the Dutch Prosecution Office, there are approximately 600 traffic enforcement cameras in the Netherlands.
 
-But OpenStreetMap has 800+ traffic enforcement cameras. So we need to check if the old cameras are still in use.
+However, OpenStreetMap has 800+ traffic enforcement cameras. We need to check if the old cameras are still in use.
 
-This challenge points you to a camera that was last updated before 2021-01-01. Check if it's still there and that it has the correct tags.
+This challenge shows cameras that were last updated before 2021-01-01. Check if they still exist and if they have the correct tags.
 
-look at [the OSM Wiki for highway=speed_camera](https://wiki.openstreetmap.org/wiki/Tag:highway%3Dspeed_camera) for the correct tags.
+See [the OSM Wiki for highway=speed_camera](https://wiki.openstreetmap.org/wiki/Tag:highway%3Dspeed_camera) for the correct tags.
 ```
 
 ```markdown
